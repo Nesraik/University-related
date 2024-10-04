@@ -1,0 +1,69 @@
+Software Engineering - 3 July
+
+
+I. Esai (30%)
+1.⁠ ⁠Version Control and Branch Management
+2.⁠ ⁠Quality Assurance: Static and Dynamic Analysis
+3.⁠ ⁠Deployment, Maintenance, and Reengineering
+
+II. Kasus (70%)
+1.⁠ ⁠Introduction to Software Architecture and Microservices
+2.⁠ ⁠Software Engineering for Machine Learning
+3.⁠ ⁠Software Configuration Management
+4.⁠ ⁠Quality Assurance: Automated Testing
+5.⁠ ⁠Ethics and Trends in Software Engineering
+
+
+Computational Biology - 4 July
+
+UAS CompBio
+4 Soal
+Closed Book
+100 Mnt
+
+Topics:
+Theory: Bioinformatics Database (FASTA and BLAST)
+Technical: Sequence Alignment (Global and Local)
+Technical: Phylogenetic Tree
+Theory: Special Topic in Bioinformatics — General Knowledge in Molecular Biology
+
+RM (ONLINE) - 4 July 
+
+Machine Learning - 9 July
+
+Teori 40%
+SVM
+Ensemble Learning
+Clustering
+Machine Learning Operations
+
+Case 60%
+Only Preprocessing (dak perlu EDA) crucial buat remove outlier
+PCA will be used (explained_variance_ratio = 0.8 min 0.9 good)
+TDSNE for Visualization
+Clustering is the main objective - K Means
+
+RM (ONLINE) - 11 July
+
+Natural Language Processing - 12 July
+
+Kisi-Kisi UAS:
+
+Neural Network
+Dependency Parsing
+Semantic Role Labeling
+Chatbot
+
+Speech Recognition (OPEN BOOK) - 13 July
+1. Deskripsi Proyek - Latar Belakang, Masalah yang Diselesaikan, Metode yang diusulkan
+2. Diagram aliran informasi dan input -> output
+3. Alur Eksperiment - Normal Process
+4. Hasil Evaluasi 
+5. Kesimpulan
+
+
+
+
+
+
+

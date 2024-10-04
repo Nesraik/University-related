@@ -1,0 +1,4 @@
+/*
+Global Variable is a variable declared outisde a function
+Local Variable is a variable declared inside a function
+*/

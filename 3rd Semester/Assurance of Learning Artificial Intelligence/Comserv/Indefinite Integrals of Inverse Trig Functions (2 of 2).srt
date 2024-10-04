@@ -1,0 +1,1152 @@
+﻿1
+00:00:02,480 --> 00:00:04,480
+Saya pikir banyak dari kalian yang
+
+2
+00:00:04,480 --> 00:00:05,920
+Sudah memahami ini, tapi saya akan
+
+3
+00:00:05,920 --> 00:00:08,080
+Mengerjakan kembali langkah ini, karena bisa jadi kamu
+
+4
+00:00:08,080 --> 00:00:10,320
+Tidak yakin bagaimana pertanyaan ini bekerja
+
+5
+00:00:10,320 --> 00:00:11,759
+Apa yang telah saya lakukan, mereka memberikan saya ini
+
+6
+00:00:11,759 --> 00:00:12,799
+Lalu menyuruh saya untuk mencari
+
+7
+00:00:12,799 --> 00:00:15,040
+Turunannya, lihat apa yang terjadi disini
+
+8
+00:00:15,040 --> 00:00:17,760
+Jadi inilah yang saya dapatkan
+
+9
+00:00:17,760 --> 00:00:19,680
+Ketika saya menurunkannya, sangat mudah kan?
+
+10
+00:00:19,680 --> 00:00:21,359
+Saya penasaran apakah ini
+
+11
+00:00:21,359 --> 00:00:23,359
+Sudah mendekati apa yang kamu duga? Kamu akan berpikir
+
+12
+00:00:23,359 --> 00:00:25,760
+"Oh itu sudah sama dengan apa yang saya pikirkan"
+
+13
+00:00:25,760 --> 00:00:27,119
+Saya tidak akan bisa menebaknya
+
+14
+00:00:27,119 --> 00:00:28,320
+Itulah mengapa saya tidak mengharapkan kamu
+
+15
+00:00:28,320 --> 00:00:30,560
+Untuk menghafal hasil ini, tapi setelah
+
+16
+00:00:30,560 --> 00:00:32,079
+Kamu diberi tahu bagaimana cara
+
+17
+00:00:32,079 --> 00:00:34,559
+Untuk menurunkannya
+
+18
+00:00:34,559 --> 00:00:35,600
+Ini menggunakan aturan rantai
+
+19
+00:00:35,600 --> 00:00:37,760
+Ini adalah aturan rantai ditambah aturan perkalian
+
+20
+00:00:37,760 --> 00:00:40,079
+Karena itu adalah u dan itu v
+
+21
+00:00:40,079 --> 00:00:41,760
+Lalu itu semua akan dikeluarkan disini
+
+22
+00:00:41,760 --> 00:00:42,800
+Dimana itu adalah hal yang bagus
+
+23
+00:00:42,800 --> 00:00:46,140
+Jadi apa yang saya lakukan dari baris ketiga ke baris keempat
+
+24
+00:00:46,160 --> 00:00:48,160
+Saya mengintegralkan kedua sisi
+
+25
+00:00:48,160 --> 00:00:49,840
+Terhadap x, untuk menghilangkan
+
+26
+00:00:49,840 --> 00:00:51,920
+Turunannya dan itu akan menambah konstanta
+
+27
+00:00:51,920 --> 00:00:53,840
+Di sisi ini, tapi tentu saja
+
+28
+00:00:53,840 --> 00:00:55,600
+Saya juga mengerjakan integral tentunya
+
+29
+00:00:55,600 --> 00:00:56,800
+Jadi kita tidak perlu khawatir dengan konstantanya
+
+30
+00:00:56,800 --> 00:00:58,960
+Ketika saya menghitung, itu tidak apa-apa, karena
+
+31
+00:00:58,960 --> 00:01:00,640
+Saya hanya ingin memastikan itu bekerja
+
+32
+00:01:00,640 --> 00:01:02,239
+Apa yang terjadi?
+
+33
+00:01:02,239 --> 00:01:03,600
+Kemudian apa yang akan terjadi disini?
+
+34
+00:01:03,600 --> 00:01:05,600
+Jadi saya akan menghitung batas atas
+
+35
+00:01:05,600 --> 00:01:07,360
+Lalu saya akan menguranginya dengan
+
+36
+00:01:07,360 --> 00:01:09,280
+Hasil hitungan batas bawah, jadi yang akan
+
+37
+00:01:09,280 --> 00:01:10,560
+Saya dapatkan disini
+
+38
+00:01:10,560 --> 00:01:12,320
+Ini adalah bagian pertamaku, jadi
+
+39
+00:01:12,320 --> 00:01:14,000
+Akar kuadrat dari 1-1
+
+40
+00:01:14,000 --> 00:01:16,799
+Hasilnya akan menjadi 0, lalu ditambahkan
+
+41
+00:01:16,799 --> 00:01:20,159
+Dengan 1 dikali invers sin dari 1, kita akan
+
+42
+00:01:20,159 --> 00:01:22,560
+Segera kembali disini nanti
+
+43
+00:01:22,560 --> 00:01:24,159
+Dikurangi, oke kita akan mengerjakan
+
+44
+00:01:24,159 --> 00:01:27,200
+Batas bawah sekarang, jadi saya akan melakukannya dengan 0
+
+45
+00:01:27,200 --> 00:01:28,400
+Jadi ini adalah akar dari 1 dikurangi
+
+46
+00:01:28,400 --> 00:01:31,120
+Dengan 0, hasilnya adalah 1
+
+47
+00:01:31,280 --> 00:01:33,759
+Lalu, ditambah dengan nol
+
+48
+00:01:33,759 --> 00:01:34,960
+Sebenarnya saya tidak peduli dengan sisanya
+
+49
+00:01:34,960 --> 00:01:36,479
+Karena itu hanyalah 0
+
+50
+00:01:36,479 --> 00:01:39,520
+Jadi apakah invers sin dari 1
+
+51
+00:01:39,520 --> 00:01:41,680
+Itu adalah π/2, benar
+
+52
+00:01:41,680 --> 00:01:43,680
+Itu melegakan, karena kita kembali
+
+53
+00:01:43,680 --> 00:01:46,720
+Ke argumen geometrik kita yang
+
+54
+00:01:46,720 --> 00:01:48,560
+Membawa kita kepada kesimpulan yang sama, seolah-olah
+
+55
+00:01:48,560 --> 00:01:49,840
+Kamu benar-benar tahu apa itu
+
+56
+00:01:49,840 --> 00:01:53,280
+Fungsi ini, jadi ini melegakan
+
+57
+00:01:53,280 --> 00:01:55,680
+Kemudian, mari kita lanjutkan
+
+58
+00:01:55,680 --> 00:01:56,799
+Untuk ini kamu harus tetap
+
+59
+00:01:56,799 --> 00:01:58,320
+Lebih berhati-hati
+
+60
+00:02:04,960 --> 00:02:08,880
+Jadi mana yang akan saya kerjakan
+
+61
+00:02:12,879 --> 00:02:14,640
+Jadi, karena ini bukanlah
+
+62
+00:02:14,640 --> 00:02:17,360
+Pertanyaan tentang grafik
+
+63
+00:02:17,360 --> 00:02:19,360
+Jadi saat kamu tiba
+
+64
+00:02:19,360 --> 00:02:21,280
+Kamu akan ditanyakan pertanyaan ini
+
+65
+00:02:21,280 --> 00:02:22,959
+Lalu kamu tidak perlu menggambarkan apa-apa
+
+66
+00:02:22,959 --> 00:02:25,120
+Meski begitu saya akan tetap menggambar
+
+67
+00:02:25,120 --> 00:02:27,599
+Dari sisi ini, ini adalah
+
+68
+00:02:27,599 --> 00:02:29,440
+Sebuah diagram kasar agar saya bisa mengerjakannya
+
+69
+00:02:29,440 --> 00:02:30,879
+Jangan bingung dengan batasanku karena
+
+70
+00:02:30,879 --> 00:02:32,959
+Ini merupakan bagian yang paling penting
+
+71
+00:02:32,959 --> 00:02:35,280
+Jadi akan seperti apa kelihatannya?
+
+72
+00:02:35,280 --> 00:02:37,360
+Ini dia
+
+73
+00:02:37,360 --> 00:02:40,720
+Inverse sin dan kemudian satu
+
+74
+00:02:40,720 --> 00:02:42,480
+Setengahnya disini
+
+75
+00:02:42,480 --> 00:02:44,800
+Jadi ini adalah luas yang sebenarnya
+
+76
+00:02:44,800 --> 00:02:46,640
+Saya cari
+
+77
+00:02:46,640 --> 00:02:48,239
+Bagian pentingnya adalah sekarang, ketika
+
+78
+00:02:48,239 --> 00:02:51,040
+Saya mengubah ini menjadi sebuah grafik sin reguler
+
+79
+00:02:51,040 --> 00:02:54,160
+Seperti ini
+
+80
+00:02:54,879 --> 00:02:57,840
+Dimanakah luasnya? Disini, kan
+
+81
+00:02:57,840 --> 00:03:01,280
+Terhimpit dengan sumbu y
+
+82
+00:03:01,280 --> 00:03:03,599
+Jadi berapa nilai x dari batas atas dan bawah
+
+83
+00:03:03,599 --> 00:03:05,200
+Yang akan saya miliki, itu tidak akan
+
+84
+00:03:05,200 --> 00:03:08,640
+Menjadi dari 0 hingga 1/2, lalu akan menjadi apa?
+
+85
+00:03:09,920 --> 00:03:12,080
+Sudut apa yang sesuai dengan bagian itu?
+
+86
+00:03:12,080 --> 00:03:14,000
+Itu adalah π/6
+
+87
+00:03:14,000 --> 00:03:15,280
+Dimana itu akan masuk akal, bahkan jika
+
+88
+00:03:15,280 --> 00:03:17,040
+Kamu melihatnya, kamu akan tahu bahwa itu adalah π/2
+
+89
+00:03:17,040 --> 00:03:19,840
+Jadi π/6 itu akan menjadi sebuah skala
+
+90
+00:03:19,840 --> 00:03:21,440
+Jika kamu menggambarkannya
+
+91
+00:03:21,440 --> 00:03:22,800
+Kamu dapat menebak
+
+92
+00:03:22,800 --> 00:03:24,560
+Bahwa itulah hasil yang kamu inginkan
+
+93
+00:03:24,560 --> 00:03:27,360
+Jadi sekarang saya bisa langsung menuliskan yang
+
+94
+00:03:27,360 --> 00:03:29,200
+Setara dengan garis di sini
+
+95
+00:03:29,200 --> 00:03:30,879
+Saya ingin persegi panjang saya yang
+
+96
+00:03:30,879 --> 00:03:32,879
+Berada di sekitarnya, kemudian saya
+
+97
+00:03:32,879 --> 00:03:34,560
+Membutuhkan integral baru yaitu integral tentu yang
+
+98
+00:03:34,560 --> 00:03:36,319
+Akan saya bentuk, jadi berapa luas
+
+99
+00:03:36,319 --> 00:03:39,200
+Persegi panjang dalam hal ini
+
+100
+00:03:40,239 --> 00:03:41,840
+Benar itu akan menjadi π/12. saya akan
+
+101
+00:03:41,840 --> 00:03:44,159
+Melanjutkan untuk menulis keseluruhannya seperti
+
+102
+00:03:44,159 --> 00:03:46,000
+Panjang dan lebarnya, agar saya
+
+103
+00:03:46,000 --> 00:03:47,519
+Tidak bingung nanti
+
+104
+00:03:47,519 --> 00:03:49,360
+Jadi saya bisa segera tahu sumber
+
+105
+00:03:49,360 --> 00:03:50,480
+Dari kesalahanku
+
+106
+00:03:50,480 --> 00:03:53,519
+Lalu akan saya kurangi dan sekarang ini adalah integral baruku
+
+107
+00:03:53,519 --> 00:03:55,360
+Seperti yang telah anda katakan, areanya akan jadi dari
+
+108
+00:03:55,360 --> 00:03:57,200
+0 hingga π/6
+
+109
+00:03:57,200 --> 00:03:58,840
+Dan saya akan mengintegralkan sin
+
+110
+00:03:58,840 --> 00:04:01,760
+Jadi dari sini cara kerjanya akan sama
+
+111
+00:04:01,760 --> 00:04:03,840
+Seperti yang sudah kita bilang
+
+112
+00:04:03,840 --> 00:04:05,200
+Ini adalah π/12
+
+113
+00:04:05,200 --> 00:04:07,680
+Jadi ini akan menjadi
+
+114
+00:04:07,680 --> 00:04:10,239
+-cos x yang hasil akhirnya menjadi dua tanda -
+
+115
+00:04:10,239 --> 00:04:13,040
+Dari 0 hingga π/6
+
+116
+00:04:13,040 --> 00:04:14,720
+Itu benar karena
+
+117
+00:04:14,720 --> 00:04:16,880
+Minus tertutup lalu minus di depan
+
+118
+00:04:16,880 --> 00:04:17,680
+Jadi
+
+119
+00:04:17,680 --> 00:04:20,399
+π/12, apa yang akan kita dapatkan
+
+120
+00:04:20,399 --> 00:04:22,720
+Apakah nilai dari cos
+
+121
+00:04:22,720 --> 00:04:26,000
+Benar ini akan jadi √3/2
+
+122
+00:04:26,560 --> 00:04:29,840
+Lalu karena cos dari 0 adalah 1 maka
+
+123
+00:04:29,840 --> 00:04:31,280
+Ini akan jadi -1
+
+124
+00:04:31,280 --> 00:04:32,960
+Jadi inilah hasilnya
+
+125
+00:04:32,960 --> 00:04:35,759
+Tidak banyak yang bisa dilakukan karena
+
+126
+00:04:35,759 --> 00:04:39,199
+Ini terlihat berantakan
+
+127
+00:04:39,199 --> 00:04:43,120
+Kamu punya integer, pecahan dan angka transendental
+
+128
+00:04:51,840 --> 00:04:54,240
+Sekarang
+
+129
+00:04:54,240 --> 00:04:55,360
+Kamu sudah mendekati jawabannya
+
+130
+00:04:55,360 --> 00:04:57,120
+Tapi beberapa area akan sedikit mengecoh
+
+131
+00:04:57,120 --> 00:04:58,479
+Daripada yang lainnya, selanjutnya
+
+132
+00:04:58,479 --> 00:05:01,600
+Untuk nomor 3
+
+133
+00:05:04,720 --> 00:05:06,400
+Saya akan menunjukkan beberapa trik untuk ini
+
+134
+00:05:06,400 --> 00:05:07,759
+Terdapat dua cara untuk mengerjakannya
+
+135
+00:05:07,759 --> 00:05:09,600
+Dimana keduanya adalah cara yang benar
+
+136
+00:05:09,600 --> 00:05:10,639
+Tapi mungkin salah satunya yang lebih baik
+
+137
+00:05:10,639 --> 00:05:12,720
+Daripada yang lain, jadi yang saya ingin
+
+138
+00:05:12,720 --> 00:05:14,960
+Kalian lakukan adalah dengan berpikir ini dimulai dari
+
+139
+00:05:14,960 --> 00:05:18,320
+Ini adalah -1
+
+140
+00:05:21,360 --> 00:05:23,120
+Jadi akan seperti apa invers cos terlihat?
+
+141
+00:05:23,120 --> 00:05:25,360
+Ini adalah yang berada
+
+142
+00:05:25,360 --> 00:05:29,199
+Di atas sumbu, jadi akan terlihat seperti ini
+
+143
+00:05:29,280 --> 00:05:32,080
+Jadi disini ada -1
+
+144
+00:05:32,080 --> 00:05:33,440
+Minus √3/2
+
+145
+00:05:33,440 --> 00:05:34,480
+Akan menjadi sekitaran koma 8
+
+146
+00:05:34,880 --> 00:05:36,240
+6 atau 7 8, pokoknya seperti itu
+
+147
+00:05:36,240 --> 00:05:38,400
+Jadi itu akan sangat dekat dengan ini
+
+148
+00:05:38,400 --> 00:05:40,320
+-√3/2 dan saya akan
+
+149
+00:05:40,320 --> 00:05:42,800
+Meletakkannya di atas sumbu y
+
+150
+00:05:42,800 --> 00:05:44,800
+Ini adalah luasnya
+
+151
+00:05:44,800 --> 00:05:47,520
+Luas yang saya cari
+
+152
+00:05:47,759 --> 00:05:50,240
+Ini sangat layak untuk digambar
+
+153
+00:05:50,240 --> 00:05:51,600
+Jadi ketika saya mengubah ini
+
+154
+00:05:51,600 --> 00:05:54,800
+Dari bentuk seperti diagram inverse cos ini menjadi sebuah diagram
+
+155
+00:05:54,800 --> 00:05:57,280
+cos biasa diagram ini 
+
+156
+00:05:57,280 --> 00:05:59,759
+Dimanakah areanya berada, ini
+
+157
+00:05:59,759 --> 00:06:01,520
+Akan sesuai dengan domain
+
+158
+00:06:01,520 --> 00:06:03,039
+Dari cos
+
+159
+00:06:04,080 --> 00:06:06,160
+Manakah area yang saya cari
+
+160
+00:06:06,160 --> 00:06:08,160
+Dimana -√3/2
+
+161
+00:06:08,160 --> 00:06:11,039
+Itu akan berada di bawah sini
+
+162
+00:06:11,039 --> 00:06:12,800
+Lalu disini adalah 0
+
+163
+00:06:12,800 --> 00:06:14,720
+Jadi area yang sebenarnya membuat saya tertarik
+
+164
+00:06:14,720 --> 00:06:15,840
+Adalah ini
+
+165
+00:06:15,840 --> 00:06:17,120
+Ini tidak begitu lurus tapi kamu
+
+166
+00:06:17,120 --> 00:06:18,720
+Bisa melihatnya
+
+167
+00:06:20,479 --> 00:06:22,000
+Untuk cos biasa
+
+168
+00:06:22,800 --> 00:06:26,880
+Jadi ini adalah area yang perlu saya kurangkan
+
+169
+00:06:26,880 --> 00:06:29,199
+Ini adalah area disini, jadi saya bisa
+
+170
+00:06:29,199 --> 00:06:31,360
+Mendapatkan persegi panjang, lalu saya akan menguranginya
+
+171
+00:06:31,360 --> 00:06:33,600
+Dengan area yang ditandai hijau, kamu harus berhati-hati
+
+172
+00:06:33,600 --> 00:06:34,880
+Karena area yang hijau merupakan
+
+173
+00:06:34,880 --> 00:06:37,039
+Area yang negatif
+
+174
+00:06:37,039 --> 00:06:38,400
+Jadi ingatlah
+
+175
+00:06:38,400 --> 00:06:40,880
+Seperti apa batasan baru itu
+
+176
+00:06:40,880 --> 00:06:42,479
+Akan terlihat, mari kita lihat kembali
+
+177
+00:06:42,479 --> 00:06:43,840
+Luas dari persegi panjang
+
+178
+00:06:43,840 --> 00:06:45,759
+Pertama, ini adalah area yang besar
+
+179
+00:06:45,759 --> 00:06:48,080
+yang nanti akan terpotong dengan luas area berwarna hijau
+
+180
+00:06:48,080 --> 00:06:51,199
+Apa luas dari persegi panjangnya?
+
+181
+00:06:51,680 --> 00:06:54,720
+Apa tinggi dari persegi panjang?
+
+182
+00:06:54,720 --> 00:06:58,800
+Tingginya adalah √3/2
+
+183
+00:06:59,199 --> 00:07:01,199
+Oke, lalu apa yang akan menjadi lebar
+
+184
+00:07:01,199 --> 00:07:03,039
+Dari persegi panjang
+
+185
+00:07:03,039 --> 00:07:05,039
+Itu akan berada dari atas sini
+
+186
+00:07:05,039 --> 00:07:09,720
+Apapun nilai yang kamu dapatkan, berapakah nilainya?
+
+187
+00:07:19,520 --> 00:07:21,360
+Sekarang, hal yang mudah dari ini
+
+188
+00:07:21,360 --> 00:07:22,479
+Adalah kamu berusaha
+
+189
+00:07:22,479 --> 00:07:24,080
+mencari nilainya menggunakan diagram ini
+
+190
+00:07:24,080 --> 00:07:25,919
+Tetapi kamu juga bisa
+
+191
+00:07:25,919 --> 00:07:28,720
+Kembali ke diagram ini, karena
+
+192
+00:07:28,720 --> 00:07:32,560
+Kita telah membatasinya dengan domain dari cos
+
+193
+00:07:32,560 --> 00:07:34,880
+Yang memiliki area yang sama dengan invers cos
+
+194
+00:07:34,880 --> 00:07:36,720
+Jadi jika kamu mengambil sebuah nilai x dan kamu
+
+195
+00:07:36,720 --> 00:07:38,639
+Mendapatkan invers cos dari nilai itu, maka 
+
+196
+00:07:38,639 --> 00:07:42,160
+Kamu akan mendapatkan satu jawaban yang benar, jadi
+
+197
+00:07:42,160 --> 00:07:46,580
+Nilai y mungkin saja sesuai dengan nilai x tersebut
+
+198
+00:07:46,800 --> 00:07:48,639
+Jadi jika kamu menaruh invers cos dari -√3/2
+
+199
+00:07:48,639 --> 00:07:50,639
+Ke dalam kalkulaotr
+
+200
+00:07:50,639 --> 00:07:51,759
+Karena kalkulatormu akan berpikir
+
+201
+00:07:51,759 --> 00:07:54,479
+Bahwa ini benar, jadi kamu akan mendapatkan π/6
+
+202
+00:07:54,479 --> 00:07:56,560
+Diagram yang saya gambar skalanya tidak sesuai
+
+203
+00:07:56,560 --> 00:07:58,479
+Maka dari itu mari kita akhiri
+
+204
+00:07:58,479 --> 00:07:59,440
+Disini
+
+205
+00:07:59,440 --> 00:08:00,879
+Oke ini lebih baik
+
+206
+00:08:00,879 --> 00:08:03,360
+
+
+207
+00:08:03,360 --> 00:08:05,120
+jadi 5, ini bukan akar kuadrat tapi angka 5
+
+208
+00:08:05,120 --> 00:08:06,879
+Jadi 150 derajat adalah bagaimana
+
+209
+00:08:06,879 --> 00:08:08,400
+Kamu mendapatkan angka ini
+
+210
+00:08:08,400 --> 00:08:09,919
+Jadi apakah maksud dari perhitungan
+
+211
+00:08:09,919 --> 00:08:12,800
+Ini adalah 5π/6 jadi
+
+212
+00:08:12,800 --> 00:08:15,919
+Apakah luas dari persegi panjang ini?
+
+213
+00:08:15,919 --> 00:08:19,680
+Ini akan jadi adalah panjang x lebar
+
+214
+00:08:19,680 --> 00:08:21,039
+Sekarang
+
+215
+00:08:21,039 --> 00:08:23,280
+Hati-hati disini karena pada
+
+216
+00:08:23,280 --> 00:08:24,639
+Pertanyaan sebelumnya yang seperti ini
+
+217
+00:08:24,639 --> 00:08:27,120
+Saya mengurangi luasnya
+
+218
+00:08:27,120 --> 00:08:29,039
+Tentu saja saya mengurangi luasnya karena
+
+219
+00:08:29,039 --> 00:08:30,000
+Kamu tahu, saya sedang mencoba untuk 
+
+220
+00:08:30,000 --> 00:08:31,759
+Mencari selisihnya, tapi seharusnya saya tidak
+
+221
+00:08:31,759 --> 00:08:36,000
+Mengurangi luasnya untuk kali ini, kenapa tidak?
+
+222
+00:08:36,399 --> 00:08:38,080
+Benar, karena ini berada
+
+223
+00:08:38,080 --> 00:08:41,599
+Di bawah sumbunya, sebenarnya
+
+224
+00:08:41,599 --> 00:08:42,880
+Saya ingin menambahkan apapun integral ini karena
+
+225
+00:08:42,880 --> 00:08:45,260
+Integral ini akan menjadi nilai yang negatif
+
+226
+00:08:46,399 --> 00:08:48,560
+Jadi saya pikir kamu bisa mengurangi hasil absolut dari integral
+
+227
+00:08:48,560 --> 00:08:50,080
+Saya pikir kamu bisa melakukannya
+
+228
+00:08:50,080 --> 00:08:52,080
+Karena ini akan memiliki dampak yang sama
+
+229
+00:08:52,080 --> 00:08:53,680
+Tapi saya pikir sebaiknya kamu memerhatikan
+
+230
+00:08:53,680 --> 00:08:55,120
+Gambarmu yang berbentuk diagonal dengan hati-hati
+
+231
+00:08:55,120 --> 00:08:57,279
+Bisa saja itu akan menjadi hasil yang negatif
+
+232
+00:08:57,270 --> 00:09:01,420
+Jadi saya lebih memilih untuk menambahkannya daripada menguranginya
+
+233
+00:09:01,839 --> 00:09:03,600
+Apa yang akan menjadi integralnya?
+
+234
+00:09:03,600 --> 00:09:04,880
+Apa batasan atas dan batas bawahnya?
+
+235
+00:09:04,880 --> 00:09:08,680
+Kita sudah mengerjakan untuk batas atasnya
+
+236
+00:09:18,640 --> 00:09:20,720
+Jadi kita sudah mengetahui
+
+237
+00:09:20,720 --> 00:09:22,399
+Dengan kerja keras kita
+
+238
+00:09:22,399 --> 00:09:24,399
+Kita bisa lanjut dari sini
+
+239
+00:09:24,399 --> 00:09:26,320
+Jadi saya hanya ingin mengatakan
+
+240
+00:09:26,320 --> 00:09:27,279
+Dari ini
+
+241
+00:09:27,279 --> 00:09:29,440
+Karena semua ini
+
+242
+00:09:29,440 --> 00:09:31,360
+Merupakan fungsi trigonometri
+
+243
+00:09:31,360 --> 00:09:33,839
+Mereka terlihat seperti fungsi yang sama dan
+
+244
+00:09:33,839 --> 00:09:35,680
+Hanya berpindah, dibalik dari atas ke bawah
+
+245
+00:09:35,680 --> 00:09:37,519
+Dan sebagainya, jadi ketika kamu
+
+246
+00:09:37,519 --> 00:09:38,880
+Melihat ini, kamu mungkin akan berpikir
+
+247
+00:09:38,880 --> 00:09:41,200
+Ini adalah batasan yang aneh
+
+248
+00:09:41,920 --> 00:09:44,720
+Adakah yang bisa memikirkan cara yang mudah
+
+249
+00:09:44,720 --> 00:09:46,320
+Untuk mendapatkan nilai atau pasangan dari
+
+250
+00:09:46,320 --> 00:09:48,160
+Batasan yang cocok, yang akan memberikan
+
+251
+00:09:48,160 --> 00:09:51,160
+Kita area yang sama
+
+252
+00:09:54,880 --> 00:09:57,680
+Apa yang akan kamu pilih
+
+253
+00:09:59,839 --> 00:10:02,640
+Oke, mari kita berpikir tentang ini
+
+254
+00:10:02,640 --> 00:10:05,760
+Jadi bentuk di bawah sini merupakan bagian dari cos
+
+255
+00:10:05,760 --> 00:10:08,560
+Oke jadi ini akan sesuai dengan apa?
+
+256
+00:10:08,560 --> 00:10:10,560
+Bagian ini dari sin
+
+257
+00:10:10,560 --> 00:10:12,480
+Tetapi terbalik, lalu apakah
+
+258
+00:10:12,480 --> 00:10:15,920
+Jarak dari π/2 ke 5π/6
+
+259
+00:10:15,920 --> 00:10:19,120
+Ini adalah dari 90 ke 150
+
+260
+00:10:19,120 --> 00:10:21,360
+Benar itu akan jadi 60 derajat atau π/3
+
+261
+00:10:21,360 --> 00:10:23,440
+Ini akan menjadi sama dengan
+
+262
+00:10:23,440 --> 00:10:24,880
+Yang dimulai dari 0
+
+263
+00:10:24,880 --> 00:10:27,360
+Hingga π/3
+
+264
+00:10:27,360 --> 00:10:28,720
+Area yang saya lingkar 
+
+265
+00:10:28,720 --> 00:10:31,200
+Adalah area sin pada grafik ini
+
+266
+00:10:31,200 --> 00:10:33,200
+Jadi ini hampir sama, tapi
+
+267
+00:10:33,200 --> 00:10:34,800
+Kamu bisa menyadari ini adalah positif dan
+
+268
+00:10:34,800 --> 00:10:37,360
+Bukan negatif, jadi jika kamu tidak
+
+269
+00:10:37,360 --> 00:10:39,519
+Menyukai ini, kamu bisa
+
+270
+00:10:39,510 --> 00:10:42,920
+Mengurangi area dari 0 hingga π/3
+
+271
+00:10:43,040 --> 00:10:44,320
+Dari sin x
+
+272
+00:10:44,320 --> 00:10:46,240
+Jadi jika secara keseluruhan kamu 
+
+273
+00:10:46,240 --> 00:10:47,839
+Berpikir bahwa ini aneh, mengapa pertanyaannya
+
+274
+00:10:47,839 --> 00:10:50,560
+menyebut inverse cos, tetapi yang kita kerjakan adalah sin
+
+275
+00:10:50,560 --> 00:10:52,880
+Jadi sebenarnya kita sedang mengubah fungsi ini
+
+276
+00:10:52,880 --> 00:10:54,959
+menjadi fungsi dengan bentuk lain
+
+277
+00:10:54,959 --> 00:10:56,640
+Ini tidak berasal dari fungsi asli
+
+278
+00:10:56,640 --> 00:10:58,320
+Kita hanya tahu bahwa area ini
+
+279
+00:10:58,320 --> 00:10:59,279
+Akan sama dengan hasil integral 
+
+280
+00:10:59,279 --> 00:11:02,320
+dari sebuah fungsi seperti ini, jadi 
+
+281
+00:11:02,320 --> 00:11:03,680
+Selama kamu bisa menggambarkan diagram dengan baik,
+
+282
+00:11:03,680 --> 00:11:05,600
+Kamu bisa memilih area manapun yang
+
+283
+00:11:05,600 --> 00:11:07,200
+yang setara, selama
+
+284
+00:11:07,200 --> 00:11:08,880
+Kamu mendapatkan nilai yang tepat
+
+285
+00:11:08,880 --> 00:11:10,240
+Dan terkadang kamu tau
+
+286
+00:11:10,240 --> 00:11:12,160
+Jika terdapat batasan nol
+
+287
+00:11:12,160 --> 00:11:14,399
+Maka integral fungsi akan 
+
+288
+00:11:14,399 --> 00:11:17,760
+Lebih mudah untuk dihitung
+

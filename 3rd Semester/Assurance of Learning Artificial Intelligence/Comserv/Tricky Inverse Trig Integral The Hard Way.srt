@@ -1,0 +1,1477 @@
+﻿1
+00:00:00,240 --> 00:00:02,720
+Aku melihat banyak orang
+
+2
+00:00:02,720 --> 00:00:05,279
+Yang membenturkan kepala mereka ke dinding bata
+
+3
+00:00:05,279 --> 00:00:07,680
+Tapi hanya beberapa dari kalian pernah membenturkan kepalamu
+Yang membenturkan kepala mereka ke dinding bata
+
+4
+00:00:07,680 --> 00:00:09,280
+Yang membenturkan kepala mereka ke dinding bata dengan sukses 
+
+5
+00:00:09,280 --> 00:00:10,800
+sehingga benar-benar membuat lubang di dinding
+
+6
+00:00:10,800 --> 00:00:12,799
+kamu seperti oh aku bisa melihatnya di dalam sekarang
+
+7
+00:00:12,799 --> 00:00:16,960
+um itu salah satunya jumlah yang kita punya sangat bagus
+
+8
+00:00:18,240 --> 00:00:20,400
+um seperti aku berjanji akan menunjukkan kepadamu dua
+
+9
+00:00:20,400 --> 00:00:22,080
+cara untuk melakukan ini, cara pertama adalah
+
+10
+00:00:22,080 --> 00:00:23,279
+cara yang sulit
+
+11
+00:00:23,279 --> 00:00:25,039
+um tetapi kamu benar-benar belajar sesuatu
+
+12
+00:00:25,039 --> 00:00:26,640
+yang berguna dengan melakukan cara yang sulit
+
+13
+00:00:26,640 --> 00:00:28,000
+yang tidak akan kamu lakukan dengan mempelajari cara yang
+
+14
+00:00:28,000 --> 00:00:29,840
+mudah, cara tapi mudah-mudahan selama
+
+15
+00:00:29,840 --> 00:00:31,599
+proses mengerjakan cara yang sulit kamu akan
+
+16
+00:00:31,599 --> 00:00:33,120
+menemukan cara yang mudah, beberapa dari kamu
+
+17
+00:00:33,120 --> 00:00:36,640
+sudah memahaminya, oke jadi cara yang sulit
+
+18
+00:00:36,640 --> 00:00:38,480
+adalah um pada dasarnya cara yang
+
+19
+00:00:38,480 --> 00:00:39,920
+sudah kita lakukan
+
+20
+00:00:39,920 --> 00:00:42,719
+untuk pertanyaan-pertanyaan sebelumnya, oke jadi mari kita lakukan
+sudah kita lakukan
+
+21
+00:00:42,719 --> 00:00:44,640
+lihat ini, sejauh ini kita telah
+
+22
+00:00:44,640 --> 00:00:47,680
+mengambil grafik trigonometri terbalik dan kemudian
+
+23
+00:00:47,680 --> 00:00:50,239
+membandingkannya dengan semacam grafik trigonometri yang sesuai
+
+24
+00:00:50,239 --> 00:00:52,079
+yang kita tahu cara menanganinya dan
+
+25
+00:00:52,079 --> 00:00:54,079
+kemudian membentuk integral dari grafik ini oke
+
+26
+00:00:54,079 --> 00:00:55,760
+jadi area seperti apa yang
+
+27
+00:00:55,760 --> 00:00:57,760
+saya tuju? nanti kalau jika saya translasi
+
+28
+00:00:57,760 --> 00:01:00,239
+dari sini ke sini oke dan jawabannya
+
+29
+00:01:00,239 --> 00:01:02,160
+kamu balikkan semuanya ke samping, jadi
+
+30
+00:01:02,160 --> 00:01:04,320
+ini -4/5 menjadi 4/5
+
+31
+00:01:04,320 --> 00:01:07,280
+yang merupakan batas x sebelum
+
+32
+00:01:07,280 --> 00:01:09,680
+menjadi batas y, ya benar jadi
+
+33
+00:01:09,680 --> 00:01:10,960
+ada 1 - 1, jadi itu
+
+34
+00:01:10,960 --> 00:01:12,320
+akan terlihat seperti ini jika kamu
+
+35
+00:01:12,320 --> 00:01:14,799
+menempatkan 4/5 di sana dan -4/5
+
+36
+00:01:14,799 --> 00:01:17,040
+di sana oke, kamu menggambar garismu
+
+37
+00:01:17,040 --> 00:01:19,759
+dan kamu akan mendapatkan luas yang sama
+
+38
+00:01:19,759 --> 00:01:22,479
+dan kamu akan mendapatkan luas yang sama
+
+39
+00:01:22,720 --> 00:01:24,799
+oke sekarang yang harus aku lakukan adalah
+
+40
+00:01:24,799 --> 00:01:26,560
+mencari tahu ada beberapa persegi panjang
+
+41
+00:01:26,560 --> 00:01:29,040
+di sini, saya bisa menggambar dan saya akan
+
+42
+00:01:29,040 --> 00:01:31,600
+menambah atau mengurangi beberapa area yang saya
+
+43
+00:01:31,600 --> 00:01:34,079
+dapatkan dari pengintegrasian ini dan
+
+44
+00:01:34,079 --> 00:01:36,880
+itu akan memberi saya area yang saya cari oke
+
+45
+00:01:36,880 --> 00:01:38,880
+sekarang mengingat berkat itu, Anda
+
+46
+00:01:38,880 --> 00:01:41,280
+mengingat bahwa mengintegrasikan
+
+47
+00:01:41,280 --> 00:01:43,840
+grafik trigonometri akan memberi Anda area yang
+
+48
+00:01:43,840 --> 00:01:46,159
+dibatasi oleh sumbu x, di sebelah kanan adalah salah satu
+
+49
+00:01:46,159 --> 00:01:47,759
+area terbaik untuk dipilih karena ada
+
+50
+00:01:47,759 --> 00:01:50,000
+beberapa area yang berbeda oke jadi saya
+
+51
+00:01:50,000 --> 00:01:52,079
+akan menyarankan mungkin
+
+52
+00:01:52,079 --> 00:01:55,040
+jika kita mengambil nilai ini di sini
+
+53
+00:01:55,040 --> 00:01:57,920
+sekarang jika ini adalah 4/5
+
+54
+00:01:57,920 --> 00:02:02,399
+Benar apa yang akan terjadi? Nilai x ini
+
+55
+00:02:03,040 --> 00:02:04,479
+Anda bisa memberi saya i, Anda jelas bisa mendapatkan
+
+56
+00:02:04,479 --> 00:02:05,920
+desimalnya tetapi dari mana
+
+57
+00:02:05,920 --> 00:02:07,600
+asal desimalnya? pikirkan tentang
+
+58
+00:02:07,600 --> 00:02:09,440
+hubungannya dengan apa pada grafik ini
+
+59
+00:02:09,440 --> 00:02:11,520
+4/5 ada di sini, Anda tahu ini
+
+60
+00:02:11,520 --> 00:02:14,480
+berlanjut ke sini, apakah ini?
+
+61
+00:02:14,480 --> 00:02:16,480
+nilai y sesuai dengan nilai tersebut, nilai ini
+
+62
+00:02:16,480 --> 00:02:18,160
+sesuai dengan cos invers dari berapapun
+
+63
+00:02:18,160 --> 00:02:21,360
+nilai x Anda, benar jadi ini harusnya
+
+64
+00:02:21,360 --> 00:02:24,879
+cos invers dari 4/5
+
+65
+00:02:24,879 --> 00:02:26,000
+oke
+
+66
+00:02:26,000 --> 00:02:28,160
+seperti misalkan cos invers dari 0
+
+67
+00:02:28,160 --> 00:02:30,879
+adalah pi/2 an cos invers dari -1
+
+68
+00:02:30,879 --> 00:02:33,840
+adalah pi, oke jadi jika saya menghitung seberapa tinggi
+
+69
+00:02:33,840 --> 00:02:37,280
+atau seberapa jauh
+
+70
+00:02:37,280 --> 00:02:39,920
+nilai ini di sini karena kebalikan
+
+71
+00:02:39,920 --> 00:02:41,599
+4 banding 5
+
+72
+00:02:41,599 --> 00:02:44,319
+oke sekarang karena itu menghalangi
+
+73
+00:02:44,319 --> 00:02:46,160
+persegi panjang kecil di sana dan saya dapat mengerjakannya
+
+74
+00:02:46,160 --> 00:02:48,160
+untuk mengerjakan bagian lainnya saya dapat
+
+75
+00:02:48,160 --> 00:02:50,400
+mengintegrasikan dan meletakkan area ini
+
+76
+00:02:50,400 --> 00:02:52,319
+di bawah bagian kurva itu oke jadi
+
+77
+00:02:52,319 --> 00:02:54,080
+itu bagus mari kita selesaikan bagian itu
+
+78
+00:02:54,080 --> 00:02:57,120
+oke sekarang apa yang terjadi di sini, baik jika
+
+79
+00:02:57,120 --> 00:02:59,360
+saya mengintegrasikan di sekitar sini Anda tahu
+
+80
+00:02:59,360 --> 00:03:00,720
+jenis area yang paling cocok yang
+
+81
+00:03:00,720 --> 00:03:03,200
+akan Anda hitung dibatasi pada sumbu x
+
+82
+00:03:03,200 --> 00:03:05,280
+akan jadilah daerah ini
+
+83
+00:03:05,280 --> 00:03:06,319
+kan
+
+84
+00:03:06,319 --> 00:03:08,560
+um karena itu antara cos x dan
+
+85
+00:03:08,560 --> 00:03:10,560
+grafik oh maaf cos x pada sumbu kanan
+
+86
+00:03:10,560 --> 00:03:12,560
+ya apakah ini cara yang mudah, tidak, ini
+
+87
+00:03:12,560 --> 00:03:15,280
+cara yang sulit jadi saya belum sampai di sana
+
+88
+00:03:15,280 --> 00:03:16,400
+jadi
+
+89
+00:03:16,400 --> 00:03:18,879
+saya ambil persegi panjang oke lalu
+
+90
+00:03:18,879 --> 00:03:20,720
+Saya mempunyai area hijau kecil ini dan saya
+
+91
+00:03:20,720 --> 00:03:22,400
+harus mengintegrasikannya untuk menyelesaikannya
+
+92
+00:03:22,400 --> 00:03:24,400
+sekarang ini karena kebalikan dari empat dan lima
+
+93
+00:03:24,400 --> 00:03:26,480
+itu adalah nilai x berapa nilai x
+
+94
+00:03:26,480 --> 00:03:29,519
+untuk bagian kecil ini di sini
+
+95
+00:03:31,120 --> 00:03:34,159
+jika kita menggunakan logika yang sama
+
+96
+00:03:34,720 --> 00:03:37,200
+apa sebenarnya  nilai
+
+97
+00:03:37,200 --> 00:03:40,720
+bagaimana cara mendapatkan cosinus versus empat dan lima
+
+98
+00:03:41,360 --> 00:03:42,959
+ya ya jadi saya katakan lihat, empat dan
+
+99
+00:03:42,959 --> 00:03:45,440
+lima di atas sini jadi akan turun, karena
+
+100
+00:03:45,440 --> 00:03:47,040
+kebalikannya jadi saya akan mendapatkan hal yang sama
+
+101
+00:03:47,040 --> 00:03:49,280
+di sini karena kebalikan dari
+
+102
+00:03:49,280 --> 00:03:51,040
+-4 dan  5 kali ini karena disitulah
+
+103
+00:03:51,040 --> 00:03:53,200
+aku baik-baik saja
+
+104
+00:03:53,200 --> 00:03:54,159
+jadi
+
+105
+00:03:54,159 --> 00:03:55,920
+persegi panjang apa yang aku punya, ayo kita
+
+106
+00:03:55,920 --> 00:03:57,200
+lakukan ini dulu
+
+107
+00:03:57,200 --> 00:03:59,280
+aku mencoba mengerjakan luas ini
+
+108
+00:03:59,280 --> 00:04:02,000
+persegi panjang pertama yang aku punya di sini oke
+
+109
+00:04:02,000 --> 00:04:04,640
+panjangnya maaf panjangnya
+
+110
+00:04:04,640 --> 00:04:06,480
+kali tinggi lebarnya atau apa pun
+
+111
+00:04:06,480 --> 00:04:08,640
+sebutannya, jadi lebarnya ada
+
+112
+00:04:08,640 --> 00:04:12,159
+karena kebalikan empat dan lima
+
+113
+00:04:12,840 --> 00:04:15,920
+kan? apapun yang terjadi maka
+
+114
+00:04:15,920 --> 00:04:19,280
+tingginya empat per lima
+
+115
+00:04:19,519 --> 00:04:21,680
+jadi itu persegi panjang, oke sekarang aku
+
+116
+00:04:21,680 --> 00:04:23,680
+bisa menangani bagian hijau ini, tapi aku
+
+117
+00:04:23,680 --> 00:04:24,639
+akan membiarkannya sebentar,
+
+118
+00:04:24,639 --> 00:04:26,560
+kamu lihat kenapa, oke mari kita lihat
+
+119
+00:04:26,560 --> 00:04:28,639
+persegi panjang lainnya, berapa tinggi
+
+120
+00:04:28,639 --> 00:04:32,000
+persegi panjang lainnya, yang terbawah
+
+121
+00:04:32,800 --> 00:04:34,560
+juga empat dan lima karena
+
+122
+00:04:34,560 --> 00:04:37,120
+jaraknya sama kan empat dan lima sekarang berapa
+
+123
+00:04:37,120 --> 00:04:40,000
+lebarnya
+
+124
+00:04:40,840 --> 00:04:44,000
+lebar yang sama saya mulai dari nol ke
+
+125
+00:04:44,000 --> 00:04:46,479
+cos invers  dari minus empat dan lima
+
+126
+00:04:46,479 --> 00:04:47,680
+jadi
+
+127
+00:04:47,680 --> 00:04:49,199
+itulah yang saya dapatkan di sana, sekarang ini adalah
+
+128
+00:04:49,199 --> 00:04:51,919
+dua persegi panjang yang ditambahkan oke
+
+129
+00:04:51,919 --> 00:04:53,759
+sekarang inilah hal rumitnya, coba
+
+130
+00:04:53,759 --> 00:04:55,199
+ingat apa arti integral pasti
+
+131
+00:04:55,199 --> 00:04:58,160
+oke ketika saya mengintegrasikan dari sini ke
+
+132
+00:04:58,160 --> 00:05:01,280
+sini oke saya ingin menambahkan ini, satu dan
+
+133
+00:05:01,280 --> 00:05:02,960
+di atas sumbu
+
+134
+00:05:02,960 --> 00:05:05,280
+saya ingin mengurangi yang ini dan di
+
+135
+00:05:05,280 --> 00:05:08,240
+bawah sumbu kanan jadi sebenarnya yang
+
+136
+00:05:08,240 --> 00:05:10,400
+ingin saya tambahkan adalah integral yang satu ini bahwa
+
+137
+00:05:10,400 --> 00:05:12,960
+kedua area hijau itu adalah satu integral
+
+138
+00:05:12,960 --> 00:05:14,720
+kan, berapa batas atas dan
+
+139
+00:05:14,720 --> 00:05:17,440
+batas bawahnya, baiklah saya mulai dari cos invers
+
+140
+00:05:17,440 --> 00:05:20,240
+empat dan lima
+
+141
+00:05:20,320 --> 00:05:21,360
+oke
+
+142
+00:05:21,360 --> 00:05:26,560
+dan saya akhiri di cos invers minus 4 dan 5
+
+143
+00:05:27,840 --> 00:05:30,080
+oke jadi dari sana ke sana
+
+144
+00:05:30,080 --> 00:05:31,759
+fakta bahwa bagian di bawah sumbu
+
+145
+00:05:31,759 --> 00:05:33,759
+dan bagian di atas sebenarnya persis seperti yang
+
+146
+00:05:33,759 --> 00:05:35,520
+saya inginkan karena saya ingin menambahkan area ini
+
+147
+00:05:35,520 --> 00:05:37,440
+dan menghilangkan yang ini oke, dapatkah kamu melihatnya
+
+148
+00:05:37,440 --> 00:05:39,520
+ini akan pelan-pelan mengarah ke aku jika itu
+
+149
+00:05:39,520 --> 00:05:40,880
+masuk akal
+
+150
+00:05:40,880 --> 00:05:42,880
+oke itu keseimbangan yang cukup aku pikir saat
+
+151
+00:05:42,880 --> 00:05:44,720
+ini apa yang sebenarnya aku integrasikan itu
+
+152
+00:05:44,720 --> 00:05:46,639
+hanya karena
+
+153
+00:05:46,639 --> 00:05:49,039
+sehubungan dengan x oke
+
+154
+00:05:49,039 --> 00:05:52,160
+sekarang ini setara dengan apa?
+
+155
+00:05:52,160 --> 00:05:53,360
+aku tidak bisa berbuat banyak tentang ini jadi akan aku
+
+156
+00:05:53,360 --> 00:05:55,199
+biarkan saja di depan tapi aku
+
+157
+00:05:55,199 --> 00:05:59,680
+akan memfaktorkannya karena aku bisa
+
+158
+00:06:02,080 --> 00:06:02,880
+oke
+
+159
+00:06:02,880 --> 00:06:05,199
+sekarang sama dengan apa? aku akan
+
+160
+00:06:05,199 --> 00:06:07,280
+mengubah ini karena ketika aku mengintegrasikan
+
+161
+00:06:07,280 --> 00:06:08,560
+Integralnya, apakah yang integral?
+
+162
+00:06:08,560 --> 00:06:10,960
+karena
+
+163
+00:06:10,960 --> 00:06:14,080
+hanya sinus, benar
+
+164
+00:06:14,319 --> 00:06:16,400
+dan aku akan mengevaluasinya pada
+
+165
+00:06:16,400 --> 00:06:20,240
+batas ini, jadi cos invers dari empat
+
+166
+00:06:20,240 --> 00:06:21,280
+dan lima
+
+167
+00:06:21,280 --> 00:06:23,039
+dan cos invers dari
+
+168
+00:06:23,039 --> 00:06:25,919
+-4/5, jadi aku akan melakukannya di
+
+169
+00:06:25,919 --> 00:06:27,199
+batas ini lalu kurangi dari
+
+170
+00:06:27,199 --> 00:06:28,960
+batas ini oke
+
+171
+00:06:28,960 --> 00:06:31,759
+jadi aku dapat ini, dua persegi panjang di
+
+172
+00:06:31,759 --> 00:06:35,319
+depan
+
+173
+00:06:37,840 --> 00:06:39,919
+oke sekarang saya akan menulis ini secara
+
+174
+00:06:39,919 --> 00:06:41,199
+panjang lebar meskipun Anda mungkin bisa
+
+175
+00:06:41,199 --> 00:06:42,800
+melewati langkah ini oke tapi inilah mengapa ini adalah
+
+176
+00:06:42,800 --> 00:06:44,479
+cara yang sulit
+
+177
+00:06:44,479 --> 00:06:47,919
+sinus kanan dari sinus batas atas saya dari cos
+
+178
+00:06:47,919 --> 00:06:49,120
+invers
+
+179
+00:06:49,120 --> 00:06:51,759
+dikurangi empat dan lima
+
+180
+00:06:51,759 --> 00:06:53,039
+dalam kurung
+
+181
+00:06:53,039 --> 00:06:56,479
+dikurangi batas bawah saya
+
+182
+00:07:00,960 --> 00:07:03,039
+oke sekarang saya kehabisan ruang di sini
+
+183
+00:07:03,039 --> 00:07:04,880
+tetapi Anda lihat dua istilah terakhir itu
+
+184
+00:07:04,880 --> 00:07:06,400
+kan, kita telah mengerjakan
+
+185
+00:07:06,400 --> 00:07:08,400
+pertanyaan-pertanyaan ini selama satu setengah minggu terakhir
+
+186
+00:07:08,400 --> 00:07:10,960
+kan sinus cos invers
+
+187
+00:07:10,960 --> 00:07:12,720
+atau sesuatu dan sinus cos invers dari
+
+188
+00:07:12,720 --> 00:07:14,319
+sesuatu yang lain oke apa
+
+189
+00:07:14,319 --> 00:07:15,840
+itu sama dengan maksud saya bayangkan
+
+190
+00:07:15,840 --> 00:07:18,080
+saja sinus cos invers dari
+
+191
+00:07:18,080 --> 00:07:19,759
+minus empat dan lima dikurangi
+
+192
+00:07:19,759 --> 00:07:21,440
+45.
+
+193
+00:07:21,440 --> 00:07:23,440
+sekarang kamu bisa menggambar segitiga, kamu membuat
+
+194
+00:07:23,440 --> 00:07:25,199
+kuadran, hal semacam itu kamu  mungkin
+
+195
+00:07:25,199 --> 00:07:27,840
+ingat bahwa sinus dari invers cos dan
+
+196
+00:07:27,840 --> 00:07:30,800
+perluasan cos dari invers sinus adalah
+
+197
+00:07:30,800 --> 00:07:33,039
+akar kuadrat dari satu dikurangi x kuadrat,
+
+198
+00:07:33,039 --> 00:07:34,880
+selalu positif setiap kali kita menggabungkan
+
+199
+00:07:34,880 --> 00:07:36,160
+invers sinus dan cos atau cos dan sinus,
+
+200
+00:07:36,160 --> 00:07:36,880
+hasilnya akan selalu
+
+201
+00:07:36,880 --> 00:07:39,440
+positif, jadi segitiga jenis apa yang dimaksud?
+
+202
+00:07:39,440 --> 00:07:41,199
+perbandingan ini
+
+203
+00:07:41,199 --> 00:07:43,360
+segitiga siku-siku apa itu
+
+204
+00:07:43,360 --> 00:07:45,680
+segitiga siku-siku 3, 4, 5, jadi
+
+205
+00:07:45,680 --> 00:07:47,599
+jika perbandingan cosnya empat dan lima
+
+206
+00:07:47,599 --> 00:07:49,759
+perbandingan sinusnya akan menjadi
+
+207
+00:07:49,759 --> 00:07:52,160
+tiga banding lima oke sekarang aku
+
+208
+00:07:52,160 --> 00:07:53,440
+kehabisan ruang jadi aku
+
+209
+00:07:53,440 --> 00:07:55,680
+mundur ke
+
+210
+00:07:55,680 --> 00:07:56,800
+sini
+
+211
+00:07:56,800 --> 00:07:59,520
+jadi aku punya dua persegi panjang di
+
+212
+00:07:59,520 --> 00:08:01,520
+depan,
+
+213
+00:08:01,520 --> 00:08:04,240
+tuliskan lagi
+
+214
+00:08:06,319 --> 00:08:07,280
+oke
+
+215
+00:08:07,280 --> 00:08:09,840
+sekarang tanda invers cos yang pertama yang
+
+216
+00:08:09,840 --> 00:08:12,319
+kamu katakan padaku adalah tiga lawan lima, bagaimana
+
+217
+00:08:12,319 --> 00:08:14,800
+dengan yang berikutnya,
+
+218
+00:08:14,800 --> 00:08:16,319
+dengan yang berikutnya,
+
+219
+00:08:16,319 --> 00:08:17,840
+segitiga itu persis sama dengan segitiga yang lain, 3 4 5
+
+220
+00:08:17,840 --> 00:08:21,120
+segitiga jadi minus tiga per lima
+
+221
+00:08:21,120 --> 00:08:22,800
+sekarang tunggu
+
+222
+00:08:22,800 --> 00:08:24,160
+apa artinya apa yang kamu
+
+223
+00:08:24,160 --> 00:08:25,360
+tahu apa artinya itu bagi kita tentang
+
+224
+00:08:25,360 --> 00:08:27,280
+diagram ini eh kita seharusnya sudah
+
+225
+00:08:27,280 --> 00:08:29,120
+memperkirakannya kan karena
+
+226
+00:08:29,120 --> 00:08:30,479
+ingat aku sudah bilang padamu saat kita mulai
+
+227
+00:08:30,479 --> 00:08:32,080
+melakukannya, pertanyaan-pertanyaan ini kemarin akan
+
+228
+00:08:32,080 --> 00:08:34,159
+terbayar jika Anda benar-benar menggambar grafik Anda
+
+229
+00:08:34,159 --> 00:08:35,760
+dengan akurasi yang wajar, jangan hanya
+
+230
+00:08:35,760 --> 00:08:37,519
+membuat coretan apa pun yang terlihat seperti
+
+231
+00:08:37,519 --> 00:08:39,440
+kurva sinus atau kurva cos dalam hal ini
+
+232
+00:08:39,440 --> 00:08:40,719
+kurva sinus atau kurva cos dalam hal ini
+
+233
+00:08:40,719 --> 00:08:42,320
+karena saya telah menggambarnya dengan
+
+234
+00:08:42,320 --> 00:08:44,399
+akurasi yang wajar, anda dapat melihat area hijaunya
+
+235
+00:08:44,399 --> 00:08:45,680
+akurasi yang wajar, anda dapat melihat area hijaunya
+
+236
+00:08:45,680 --> 00:08:48,240
+sama, oke, yang satu di atas dan satu lagi
+
+237
+00:08:48,240 --> 00:08:49,600
+di bawah, jadi Anda harus mengharapkan keduanya saling
+
+238
+00:08:49,600 --> 00:08:53,360
+meniadakan, oke, jadi Anda mengerti
+
+239
+00:08:53,360 --> 00:08:56,800
+ini hanya dua persegi panjang,
+
+240
+00:08:58,800 --> 00:09:00,959
+sekarang pada titik ini
+
+241
+00:09:00,959 --> 00:09:03,120
+Anda dapat mengeluarkan kalkulator Anda
+
+242
+00:09:03,120 --> 00:09:04,720
+dan saya akan menjalankannya  dan kemudian
+
+243
+00:09:04,720 --> 00:09:06,800
+Anda akan mendapatkan desimal, Anda
+
+244
+00:09:06,800 --> 00:09:08,080
+menekan tombol pecahan, tidak
+
+245
+00:09:08,080 --> 00:09:10,560
+terjadi apa-apa jadi
+
+246
+00:09:10,560 --> 00:09:12,480
+Anda baik-baik saja. Saya rasa semuanya sudah selesai dengan benar. Anda seharusnya tidak terlalu
+
+247
+00:09:12,480 --> 00:09:14,399
+terkejut karena kalkulator tidak dapat memberi
+
+248
+00:09:14,399 --> 00:09:16,080
+Anda sesuatu yang berarti, karena empat
+
+249
+00:09:16,080 --> 00:09:17,279
+dan lima
+
+250
+00:09:17,279 --> 00:09:18,800
+dan minus empat dan lima itu bukan
+
+251
+00:09:18,800 --> 00:09:20,240
+nilai pastinya bukan seperti akar tiga
+
+252
+00:09:20,240 --> 00:09:22,240
+dari dua setengah atau semacamnya
+
+253
+00:09:22,240 --> 00:09:24,000
+oke
+
+254
+00:09:24,000 --> 00:09:24,800
+tapi
+
+255
+00:09:24,800 --> 00:09:27,279
+ini sebenarnya sama dengan sesuatu oke
+
+256
+00:09:27,279 --> 00:09:28,240
+um
+
+257
+00:09:28,240 --> 00:09:30,000
+alasan kenapa kamu bisa mengetahuinya adalah karena
+
+258
+00:09:30,000 --> 00:09:32,480
+kamu punya jenis ini, dari cos invers dari
+
+259
+00:09:32,480 --> 00:09:33,680
+sesuatu
+
+260
+00:09:33,680 --> 00:09:35,920
+dan con invers dari minus hal yang sama
+
+261
+00:09:35,920 --> 00:09:38,240
+oke sekarang saya berpendapat bahwa
+
+262
+00:09:38,240 --> 00:09:40,720
+itu sama dengan sesuatu yang konkret
+
+263
+00:09:40,720 --> 00:09:42,160
+bagaimana Anda bisa mencari tahu apa yang sekarang
+
+264
+00:09:42,160 --> 00:09:43,279
+ini adalah hal yang berguna yang
+
+265
+00:09:43,279 --> 00:09:44,720
+akan kita kerjakan dengan cara yang sulit  akan
+
+266
+00:09:44,720 --> 00:09:46,720
+memberi tahu kami baik-baik saja
+
+267
+00:09:46,720 --> 00:09:50,160
+jika Anda memiliki ruang kosong di samping
+
+268
+00:09:50,160 --> 00:09:53,839
+saya ingin Anda mempertimbangkan ini
+
+269
+00:09:55,680 --> 00:09:57,040
+oke itulah yang sebenarnya saya dapatkan di sini
+
+270
+00:09:57,040 --> 00:09:58,800
+tetapi saya mendapatkannya dengan
+
+271
+00:09:58,800 --> 00:10:02,399
+nilai aktual oke sekarang apa yang setara dengan
+
+272
+00:10:02,399 --> 00:10:04,399
+ini, ini kedua sudutnya
+
+273
+00:10:04,399 --> 00:10:05,839
+kan kamu bisa menganggap keduanya sebagai
+
+274
+00:10:05,839 --> 00:10:07,360
+sudut oke karena invers adalah sesuatu
+
+275
+00:10:07,360 --> 00:10:08,640
+karena berbanding terbalik jadi
+
+276
+00:10:08,640 --> 00:10:10,480
+aku akan menyebutnya um
+
+277
+00:10:10,480 --> 00:10:13,279
+sebut saja alpha sebagai sudut
+
+278
+00:10:13,279 --> 00:10:15,440
+aku tidak tahu apa itu
+
+279
+00:10:15,440 --> 00:10:17,279
+tapi menurutku itu sudut  sama dengan sesuatu
+
+280
+00:10:17,279 --> 00:10:19,680
+apa yang sama dengan oke bagaimana caramu
+
+281
+00:10:19,680 --> 00:10:21,600
+melakukannya sama dengan apa yang
+
+282
+00:10:21,600 --> 00:10:22,880
+dapat kamu lakukan pada grafik ini ya
+
+283
+00:10:22,880 --> 00:10:24,320
+dapat kamu lakukan pada grafik ini ya
+
+284
+00:10:24,320 --> 00:10:26,240
+oke jadi saya punya dua alternatif oke
+
+285
+00:10:26,240 --> 00:10:28,560
+yang pertama adalah saya tahu seperti apa invers
+
+286
+00:10:28,560 --> 00:10:30,640
+dari x di sana, apakah
+
+287
+00:10:30,640 --> 00:10:33,200
+saya tahu karena kebalikan dari minus x sepertinya
+
+288
+00:10:33,200 --> 00:10:34,959
+akan terbalik
+
+289
+00:10:34,959 --> 00:10:37,200
+secara horizontal ke kanan dan kemudian Anda dapat melakukan
+
+290
+00:10:37,200 --> 00:10:40,160
+penghindaran penjumlahan yang berfungsi dengan baik oke
+
+291
+00:10:40,160 --> 00:10:41,760
+tapi saya ingin menekankan kepada Anda bahwa kami selama
+
+292
+00:10:41,760 --> 00:10:43,519
+beberapa hari terakhir kami telah menggunakan
+
+293
+00:10:43,519 --> 00:10:45,040
+fungsi trigonometri terbalik dan kami sudah
+
+294
+00:10:45,040 --> 00:10:46,640
+menyusun perluasan trigonometri
+
+295
+00:10:46,640 --> 00:10:48,160
+dengan benar, menurutku ini adalah
+
+296
+00:10:48,160 --> 00:10:50,480
+kandidat sempurna untuk melakukan ini, oke, jadi apa yang
+
+297
+00:10:50,480 --> 00:10:51,839
+akan aku lakukan, ini adalah hal kedua
+
+298
+00:10:51,839 --> 00:10:53,519
+yang bisa kamu lakukan dengan ini, aku akan
+
+299
+00:10:53,519 --> 00:10:54,959
+mengambil
+
+300
+00:10:54,959 --> 00:10:57,120
+keuntungan dari kedua belah pihak, oke  jadi apa yang akan
+
+301
+00:10:57,120 --> 00:10:58,480
+terjadi
+
+302
+00:10:58,480 --> 00:11:00,480
+tentu saja saya akan mendekati alpha di
+
+303
+00:11:00,480 --> 00:11:03,120
+sisi kanan berapa ekspansi untuk
+
+304
+00:11:03,120 --> 00:11:05,040
+cos a + b
+
+305
+00:11:05,040 --> 00:11:07,120
+perluasan mana itu
+
+306
+00:11:07,120 --> 00:11:09,760
+cos cos
+
+307
+00:11:09,760 --> 00:11:13,839
+dikurangi sin sin, oke jadi saya akan mengerjakan cos
+
+308
+00:11:13,839 --> 00:11:15,680
+dari x ini
+
+309
+00:11:15,680 --> 00:11:17,200
+dari x ini
+
+310
+00:11:17,200 --> 00:11:20,079
+karena
+
+311
+00:11:20,079 --> 00:11:21,760
+itu
+
+312
+00:11:21,760 --> 00:11:27,160
+minus sinus dari semua hal yang sama
+
+313
+00:11:31,360 --> 00:11:33,760
+oke adalah baik-baik saja sejauh ini
+
+314
+00:11:33,760 --> 00:11:35,600
+saya tidak lupa di awal saya
+
+315
+00:11:35,600 --> 00:11:36,560
+mungkin harus mencatat bahwa saya
+
+316
+00:11:36,560 --> 00:11:39,440
+sebenarnya memiliki batasan pada
+
+317
+00:11:39,440 --> 00:11:40,320
+x
+
+318
+00:11:40,320 --> 00:11:42,320
+jadi oleh karena itu saya dapat mengetahui beberapa
+
+319
+00:11:42,320 --> 00:11:43,920
+hal tentang ini apa cos dari cos invers
+
+320
+00:11:43,920 --> 00:11:46,480
+dari x di domain ini
+
+321
+00:11:46,480 --> 00:11:47,519
+sama dengan apa
+
+322
+00:11:47,519 --> 00:11:49,680
+sama dengan x kan
+
+323
+00:11:49,680 --> 00:11:52,000
+bagaimana dengan ini
+
+324
+00:11:52,000 --> 00:11:55,320
+di domain ini
+
+325
+00:11:56,079 --> 00:11:58,880
+sama seperti ini tapi dengan minus kan
+
+326
+00:11:58,880 --> 00:12:01,519
+minus x oke sekarang mari kita lihat seberapa bagus
+
+327
+00:12:01,519 --> 00:12:04,160
+ingatanmu sinus cos invers apa yang kita
+
+328
+00:12:04,160 --> 00:12:05,680
+dapatkan? ketika kamu melakukan invers sinus cos apakah
+
+329
+00:12:05,680 --> 00:12:08,000
+kamu ingat
+
+330
+00:12:08,480 --> 00:12:10,399
+kamu mendapatkan akar kuadrat dengan benar sebenarnya
+
+331
+00:12:10,399 --> 00:12:11,519
+kamu mendapatkan um
+
+332
+00:12:11,519 --> 00:12:12,800
+bagian atas
+
+333
+00:12:12,800 --> 00:12:15,120
+dari lingkaran satuan oke
+
+334
+00:12:15,120 --> 00:12:16,320
+apa yang kamu harapkan akan terjadi ketika aku
+
+335
+00:12:16,320 --> 00:12:19,600
+memberi tanda minus x di sana
+
+336
+00:12:20,720 --> 00:12:22,399
+maka akan menjadi seperti ini lagi
+
+337
+00:12:22,399 --> 00:12:24,959
+tapi itu akan dikuadratkan jadi minus x dikalikan dengan
+
+338
+00:12:24,959 --> 00:12:28,160
+minus x aku hanya akan mendapat 1 dikurangi x
+
+339
+00:12:28,160 --> 00:12:29,120
+kuadrat
+
+340
+00:12:29,120 --> 00:12:30,959
+oke sejauh ini
+
+341
+00:12:30,959 --> 00:12:34,880
+sama dengan cos alpha
+
+342
+00:12:34,880 --> 00:12:37,120
+aku bisa melakukan penyederhanaan di sini kan, dikurangi
+
+343
+00:12:37,120 --> 00:12:39,360
+x kuadrat apa ini
+
+344
+00:12:39,360 --> 00:12:40,639
+minus
+
+345
+00:12:40,639 --> 00:12:43,760
+satu dikurangi x^2
+
+346
+00:12:45,920 --> 00:12:48,240
+x pangkat 2 akan saling meniadakan, aku letakkan alpha di x
+
+347
+00:12:48,240 --> 00:12:49,760
+sebelah kiri karena disitulah
+
+348
+00:12:49,760 --> 00:12:51,040
+letaknya
+
+349
+00:12:51,040 --> 00:12:53,839
+jadi apa alpha
+
+350
+00:12:55,920 --> 00:12:57,519
+apa alpha
+
+351
+00:12:57,519 --> 00:13:01,200
+karena sudut apa yang menghasilkan -1
+
+352
+00:13:01,200 --> 00:13:04,480
+itu tepat di sini bukan cos dari pi
+
+353
+00:13:04,480 --> 00:13:07,839
+memberimu minus satu
+
+354
+00:13:08,959 --> 00:13:11,680
+oke jadi  dari semua yang saya ambil sekarang di
+
+355
+00:13:11,680 --> 00:13:15,360
+sini ini adalah cos invers dari x
+
+356
+00:13:15,360 --> 00:13:17,839
+ditambah invers dari minus x berapa pun
+
+357
+00:13:17,839 --> 00:13:22,000
+nilai x Anda, apakah Anda akan mendapatkan
+
+358
+00:13:22,000 --> 00:13:23,920
+pi
+
+359
+00:13:23,920 --> 00:13:25,760
+dan inilah mengapa kalkulator Anda tidak akan
+
+360
+00:13:25,760 --> 00:13:26,720
+memberi Anda
+
+361
+00:13:26,720 --> 00:13:29,360
+jawaban yang tepat karena itu
+
+362
+00:13:29,360 --> 00:13:32,240
+kamu tidak bisa mengerjakan pi oke ya
+
+363
+00:13:32,240 --> 00:13:34,720
+bagaimana jika kamu membagi jawabannya dengan pi ya
+
+364
+00:13:34,720 --> 00:13:36,240
+jika kamu membagi jawabanmu dengan pi maka
+
+365
+00:13:36,240 --> 00:13:37,680
+kamu akan mendapatkan empat per lima tetapi hanya dengan
+
+366
+00:13:37,680 --> 00:13:39,279
+menekan maksudku kebanyakan orang tidak mencoba
+
+367
+00:13:39,279 --> 00:13:40,720
+itu karena mereka tidak berpikir oh itu
+
+368
+00:13:40,720 --> 00:13:42,720
+mungkin kelipatan pi atau mungkin
+
+369
+00:13:42,720 --> 00:13:47,240
+Anda mengetahui sesuatu seperti itu

@@ -1,0 +1,856 @@
+﻿1
+00:00:00,880 --> 00:00:02,639
+Saya akan melihat pertanyaan keenam
+
+2
+00:00:02,639 --> 00:00:05,359
+Beberapa dari kalian sudah tau bahwa saya melewati ini
+
+3
+00:00:05,359 --> 00:00:06,480
+Jika itu masalahnya maka saya ingin Anda
+
+4
+00:00:06,480 --> 00:00:07,919
+melihat cara saya mengerjakannya sehingga Anda
+
+5
+00:00:07,919 --> 00:00:10,000
+dapat memastikan Anda melakukannya dengan cara yang serupa, mungkin
+
+6
+00:00:10,000 --> 00:00:11,599
+sebagian dari Anda tidak, sebagian dari Anda
+
+7
+00:00:11,599 --> 00:00:13,440
+berpikir
+
+8
+00:00:13,440 --> 00:00:14,719
+bahwa ini sedikit membingungkan, jadi izinkan saya
+
+9
+00:00:14,719 --> 00:00:17,440
+mencoba memandu Anda untuk mengerjakannya
+
+10
+00:00:17,440 --> 00:00:18,640
+sekarang
+
+11
+00:00:18,640 --> 00:00:20,640
+saya terus mengingatkan Anda kembali ke kapan
+
+12
+00:00:20,640 --> 00:00:22,240
+kita pertama kali mempelajari gagasan tentang
+
+13
+00:00:22,240 --> 00:00:26,160
+fungsi invers ini dan jawabannya adalah
+
+14
+00:00:26,960 --> 00:00:29,039
+dari segitiga siku-siku
+
+15
+00:00:29,039 --> 00:00:30,880
+Dimana kamu dapat menemukannya dengan menggunakan
+
+16
+00:00:30,880 --> 00:00:33,360
+Ini, dimana kamu dapat menemukan sudutnya
+
+17
+00:00:33,360 --> 00:00:34,480
+dan saya terus membahas
+
+18
+00:00:34,480 --> 00:00:36,640
+invers sinus trigonometri, contoh yang cocok, yaitu 37
+
+19
+00:00:36,640 --> 00:00:38,800
+derajat, sekarang ketika Anda melihat ini
+
+20
+00:00:38,800 --> 00:00:40,800
+Anda dapat menerapkan logika yang sangat mirip
+
+21
+00:00:40,800 --> 00:00:42,239
+tetapi saya hanya akan memberikannya kepada Anda dengan
+
+22
+00:00:42,239 --> 00:00:45,440
+hati-hati yaitu untuk mengingatkan Anda bahwa
+
+23
+00:00:45,440 --> 00:00:47,039
+cos invers sinus invers dan tan invers
+
+24
+00:00:47,039 --> 00:00:48,079
+oke
+
+25
+00:00:48,079 --> 00:00:49,760
+Anda dapat menganggapnya sebagai sudut dalam
+
+26
+00:00:49,760 --> 00:00:52,000
+segitiga, Anda dapat menganggapnya sebagai
+
+27
+00:00:52,000 --> 00:00:53,680
+sudut dalam segitiga tetapi mereka bukan
+
+28
+00:00:53,680 --> 00:00:55,920
+hanya sudut dari segitiga saja, mereka memiliki
+
+29
+00:00:55,920 --> 00:00:57,600
+penerapan yang jauh lebih luas dari itu dan
+
+30
+00:00:57,600 --> 00:01:00,000
+Anda telah melihat beberapa di antaranya oke
+
+31
+00:01:00,000 --> 00:01:01,920
+tetapi ini adalah cara yang sangat membantu ketika Anda
+
+32
+00:01:01,920 --> 00:01:04,799
+memikirkannya, jadi lihatlah
+
+33
+00:01:04,799 --> 00:01:06,720
+ini satu per satu, mari kita lihat
+
+34
+00:01:06,720 --> 00:01:07,840
+sedikit ke dalam dan lihat apakah kita bisa
+
+35
+00:01:07,840 --> 00:01:09,200
+memahaminya karena inverse trigonometri
+
+36
+00:01:09,200 --> 00:01:10,400
+cocok
+
+37
+00:01:10,400 --> 00:01:11,920
+jika kita menganggapnya sebagai sudut dalam
+
+38
+00:01:11,920 --> 00:01:14,159
+segitiga, segitiga seperti apa yang dimaksud
+
+39
+00:01:14,159 --> 00:01:15,840
+segitiga, segitiga seperti apa yang dimaksud
+
+40
+00:01:15,840 --> 00:01:17,119
+sekarang karena kita hanya memikirkan
+
+41
+00:01:17,119 --> 00:01:19,360
+perbandingannya, pasti segitiga siku-siku,
+
+42
+00:01:19,360 --> 00:01:21,840
+jadi di sini
+
+43
+00:01:21,840 --> 00:01:23,840
+saya akan menggambar segitiga siku-siku
+
+44
+00:01:23,840 --> 00:01:25,680
+itu sudut siku-siku yang buruk, maaf ya
+
+45
+00:01:25,680 --> 00:01:27,280
+idenya sekarang
+
+46
+00:01:27,280 --> 00:01:30,159
+karena kebalikan dari tiga perlima akan memberitahu
+
+47
+00:01:30,159 --> 00:01:32,720
+Anda bahwa ada rasio dua sisi
+
+48
+00:01:32,720 --> 00:01:33,840
+di sini
+
+49
+00:01:33,840 --> 00:01:36,479
+tiga dan lima adalah rasionya
+ 
+50
+00:01:36,479 --> 00:01:40,000
+bisa jadi Anda tahu, ini enam dan sepuluh atau
+
+51
+00:01:40,000 --> 00:01:40,960
+kamu tahu
+
+52
+00:01:40,960 --> 00:01:42,399
+aku bisa mengalikan dengan faktor apa pun dan aku
+
+53
+00:01:42,399 --> 00:01:43,360
+akan tetap mempunyai jenis
+
+54
+00:01:43,360 --> 00:01:45,600
+segitiga yang sama, perbandingannya akan sama,
+
+55
+00:01:45,600 --> 00:01:46,640
+segitiga yang sama, perbandingannya akan sama,
+
+56
+00:01:46,640 --> 00:01:48,560
+jadi bagiku sepertinya ini adalah
+
+57
+00:01:48,560 --> 00:01:50,960
+tiga dan ini akan menjadi lima,
+
+58
+00:01:50,960 --> 00:01:52,640
+tiga dan ini akan menjadi lima,
+
+59
+00:01:52,640 --> 00:01:55,520
+di mana sudutnya, misalnya aku memanggil sudut ini
+
+60
+00:01:55,520 --> 00:01:56,719
+theta
+
+61
+00:01:56,719 --> 00:01:58,240
+dimana theta
+
+62
+00:01:58,240 --> 00:02:01,600
+cos invers dari 3/5
+
+63
+00:02:02,240 --> 00:02:04,560
+cos adalah sisi berdekatan atau sisi miring kan ya
+
+64
+00:02:04,560 --> 00:02:06,719
+jadi itu adalah hipotenusa (sisi miring)
+
+65
+00:02:06,719 --> 00:02:08,479
+tapi sudut yang ini
+
+66
+00:02:08,479 --> 00:02:11,360
+sisi yang berdekatan itu ini
+
+67
+00:02:11,360 --> 00:02:13,120
+sudut yang ini
+
+68
+00:02:13,120 --> 00:02:15,520
+sisi yang berdekatan, apakah yang ini tepat bersebelahan
+
+69
+00:02:15,520 --> 00:02:18,959
+dengan ketiganya, bukan yang ini di bawah, oke,
+
+70
+00:02:18,959 --> 00:02:21,680
+jadi, oleh karena itu, sudut ini benar-benar
+
+71
+00:02:21,680 --> 00:02:23,680
+cos invers dari tiga perlima
+
+72
+00:02:23,680 --> 00:02:26,560
+atau sama dengan itu, oke,
+
+73
+00:02:26,560 --> 00:02:28,480
+jadi sekarang jika saya ingin mencari tahu berapa sinus
+
+74
+00:02:28,480 --> 00:02:29,920
+dari sudut yang merupakan
+
+75
+00:02:29,920 --> 00:02:32,160
+sinus dari theta, maka yang saya butuhkan
+
+76
+00:02:32,160 --> 00:02:33,760
+hanyalah sisi yang berlawanan lalu
+
+77
+00:02:33,760 --> 00:02:36,239
+berlawanan dengan sisi miring kan,
+
+78
+00:02:36,239 --> 00:02:37,599
+sudut siku-siku ke sisi yang lain tentu saja
+
+79
+00:02:37,599 --> 00:02:39,360
+sudut siku-siku ke sisi yang lain tentu saja
+
+80
+00:02:39,360 --> 00:02:41,200
+empat
+
+81
+00:02:41,200 --> 00:02:43,519
+jadi berlawanan dengan sisi miring empat
+
+82
+00:02:43,519 --> 00:02:45,280
+per lima oke
+
+83
+00:02:45,280 --> 00:02:46,800
+tidak masalah saya pikir Anda akan cukup menguasainya
+
+84
+00:02:46,800 --> 00:02:48,319
+sebenarnya, pada akhirnya Anda akan berhenti
+
+85
+00:02:48,319 --> 00:02:50,280
+menggambar segitiga dan Anda berpikir itu adalah
+
+86
+00:02:50,280 --> 00:02:52,879
+pythagoras di sana, Anda akan
+
+87
+00:02:52,879 --> 00:02:54,319
+mulai mengerjakannya.
+
+88
+00:02:54,319 --> 00:02:56,080
+Itu tidak terlalu sulit
+
+89
+00:02:56,080 --> 00:02:56,879
+tetapi
+
+90
+00:02:56,879 --> 00:02:59,120
+mereka membuat pertanyaan jadi sulit dengan
+
+91
+00:02:59,120 --> 00:03:01,680
+menambahkan negatif ke dalam lihatlah
+
+92
+00:03:01,680 --> 00:03:06,319
+pertanyaan bagian lima, ini adalah bagian pertama
+
+93
+00:03:10,560 --> 00:03:12,640
+sekarang aku tahu kamu tidak bisa melihat layarnya jadi
+
+94
+00:03:12,640 --> 00:03:14,640
+aku akan menuliskannya untukmu
+
+95
+00:03:14,640 --> 00:03:17,280
+sekarang lihat ini bersamaku
+
+96
+00:03:17,280 --> 00:03:20,080
+apa yang menambah hal ini oke
+
+97
+00:03:20,080 --> 00:03:21,519
+itu adalah negatif, benar itu membuat segalanya
+
+98
+00:03:21,519 --> 00:03:24,480
+jadi lebih rumit
+
+99
+00:03:24,480 --> 00:03:26,799
+oke saya tidak bisa menggunakan diagram ini lagi, adakah yang
+
+100
+00:03:26,799 --> 00:03:29,840
+bisa memberi tahu saya mengapa diagram ini
+
+101
+00:03:30,640 --> 00:03:32,239
+tidak bisa memperhitungkan fakta bahwa
+
+102
+00:03:32,239 --> 00:03:34,080
+sesuatu akan menjadi negatif? karena
+
+103
+00:03:34,080 --> 00:03:36,799
+semua yang ada di sini positif, oke jadi
+
+104
+00:03:36,799 --> 00:03:38,080
+oleh karena itu yang akan saya lakukan adalah saya
+
+105
+00:03:38,080 --> 00:03:39,920
+akan menggambar sebuah diagram kuadran
+
+106
+00:03:39,920 --> 00:03:41,840
+Saya bukan orang yang bisa menggambar diagram dengan hati-hati
+
+107
+00:03:41,840 --> 00:03:45,040
+tetapi diagram ini bisa menjadi alat yang berguna
+
+108
+00:03:45,040 --> 00:03:47,280
+jadi Anda lihat ini, eh omong-
+
+109
+00:03:47,280 --> 00:03:49,200
+omong semuanya akan mengarah ke pusat, seperti yang
+
+110
+00:03:49,200 --> 00:03:50,959
+akan Anda lihat sebentar lagi, kita tidak perlu
+
+111
+00:03:50,959 --> 00:03:52,319
+khawatir tentang ini, aku ingin tahu apakah kamu bisa
+
+112
+00:03:52,319 --> 00:03:54,560
+memberitahuku dalam lima menit, kenapa?
+
+113
+00:03:54,560 --> 00:03:55,599
+sekarang
+
+114
+00:03:55,599 --> 00:03:57,920
+kamu mulai lagi dari dalam, kamu mulai
+
+115
+00:03:57,920 --> 00:03:59,120
+dari dalam ke luar, kamu mulai dari
+
+116
+00:03:59,120 --> 00:04:00,400
+hal yang paling sederhana dan kemudian kamu menambahkan lebih banyak
+
+117
+00:04:00,400 --> 00:04:03,439
+hal ke dalamnya oke sekarang itu adalah rasio kebalikan dari tan
+
+118
+00:04:03,439 --> 00:04:06,400
+dan itu adalah negatif, jadi dari
+
+119
+00:04:06,400 --> 00:04:09,439
+tiga kuadran kanan ini
+
+120
+00:04:09,439 --> 00:04:11,680
+kuadran mana yang menjadi pilihan saya
+
+121
+00:04:11,680 --> 00:04:14,720
+untuk invers tan?
+
+122
+00:04:14,720 --> 00:04:18,479
+berapa kisaran invers tan
+
+123
+00:04:19,120 --> 00:04:20,959
+berapa kisaran invers tan kita
+
+124
+00:04:20,959 --> 00:04:23,120
+lihat ini, kita buat grafiknya sebelum
+
+125
+00:04:23,120 --> 00:04:26,560
+dari pi negatif per dua
+
+126
+00:04:26,560 --> 00:04:28,880
+dari pi negatif per dua
+
+127
+00:04:30,000 --> 00:04:32,080
+benar di situlah letaknya, terletak di
+
+128
+00:04:32,080 --> 00:04:34,960
+kuadran mana
+
+129
+00:04:36,000 --> 00:04:38,960
+kuadran mana yang termasuk dalam rentang domain ini
+
+130
+00:04:38,960 --> 00:04:41,600
+maaf apakah rentang ini mewakili jawaban,
+
+131
+00:04:41,600 --> 00:04:45,520
+ini mewakili dua satu dan empat ini
+
+132
+00:04:45,520 --> 00:04:46,960
+karena kuadran kedua ini adalah
+
+133
+00:04:46,960 --> 00:04:49,440
+sudut tumpul tidak ada sudut tumpul
+
+134
+00:04:49,440 --> 00:04:52,160
+dalam rentang ini kan, jadi ini
+
+135
+00:04:52,160 --> 00:04:53,759
+pilihan saya
+
+136
+00:04:53,759 --> 00:04:55,840
+lalu saya bilang bahwa itu negatif yang
+
+137
+00:04:55,840 --> 00:04:57,840
+membatasi pilihan saya lebih jauh di
+
+138
+00:04:57,840 --> 00:04:59,199
+mana invers tan akan menjadi
+
+139
+00:04:59,199 --> 00:05:01,759
+negatif, apakah ini kuadran atau yang ini
+
+140
+00:05:01,759 --> 00:05:03,120
+dan jawabannya pasti yang ini
+
+141
+00:05:03,120 --> 00:05:04,800
+karena semuanya positif di sini
+
+142
+00:05:04,800 --> 00:05:06,720
+jadi saya tinggalkan ini
+
+143
+00:05:06,720 --> 00:05:07,600
+oke
+
+144
+00:05:07,600 --> 00:05:10,639
+Aku akan membentuk sebuah segitiga di bawah sini
+
+145
+00:05:10,639 --> 00:05:12,560
+dan perbandingannya adalah sepuluh
+
+146
+00:05:12,560 --> 00:05:14,240
+kebalikannya, di seberang
+
+147
+00:05:14,240 --> 00:05:18,639
+kanan yang berdekatan, di seberang yang
+
+148
+00:05:18,880 --> 00:05:21,360
+berdekatan, akan menjadi panjang satu
+
+149
+00:05:21,360 --> 00:05:24,160
+dan yang berdekatan akan menjadi panjang tiga
+
+150
+00:05:24,160 --> 00:05:25,919
+oke sekarang ini akan membutuhkan beberapa latihan
+
+151
+00:05:25,919 --> 00:05:27,280
+oke aku sudah melakukan ini jutaan kali
+
+152
+00:05:27,280 --> 00:05:28,639
+itu sebabnya aku langsung tahu di mana harus menggambarnya
+
+153
+00:05:28,639 --> 00:05:29,840
+itu sebabnya aku langsung tahu di mana harus menggambarnya
+
+154
+00:05:29,840 --> 00:05:30,960
+itu berarti sudutku akan terlihat
+
+155
+00:05:30,960 --> 00:05:32,160
+dan juga segitigaku akan terlihat terlihat seperti
+
+156
+00:05:32,160 --> 00:05:34,160
+itu, bisakah kamu lihat alasannya
+
+157
+00:05:34,160 --> 00:05:36,800
+jika sudutku ada di sini oke
+
+158
+00:05:36,800 --> 00:05:40,080
+sisi yang berlawanan adalah yang negatif
+
+159
+00:05:40,080 --> 00:05:42,080
+dan sisi yang berdekatan adalah yang
+
+160
+00:05:42,080 --> 00:05:44,400
+positif
+
+161
+00:05:44,400 --> 00:05:45,520
+dapatkah Anda melihat? apakah Anda dapat melihat apa yang
+
+162
+00:05:45,520 --> 00:05:47,919
+terjadi sekarang? jelas jika saya pergi ke
+
+163
+00:05:47,919 --> 00:05:50,000
+sini, sepuluh akan tetap negatif tetapi
+
+164
+00:05:50,000 --> 00:05:53,600
+tidak akan menjadi -1/3
+
+165
+00:05:53,600 --> 00:05:56,160
+apa yang akan terjadi?
+
+166
+00:05:56,160 --> 00:05:59,199
+jadilah -1/3 karena aku
+
+167
+00:05:59,199 --> 00:06:00,720
+di kuadran yang berbeda ini adalah x
+
+168
+00:06:00,720 --> 00:06:02,080
+dan y kan
+
+169
+00:06:02,080 --> 00:06:03,759
+tapi aku sudah tahu aku di kuadran ini
+
+170
+00:06:03,759 --> 00:06:06,560
+oke, karena domain
+
+171
+00:06:06,560 --> 00:06:09,759
+kisaran invers tan
+
+172
+00:06:09,759 --> 00:06:12,319
+jadi sekarang aku punya theta-ku, sekarang aku bisa melihat
+
+173
+00:06:12,319 --> 00:06:14,479
+di mana letak theta, jadi aku bisa mencari tahu apa
+
+174
+00:06:14,479 --> 00:06:16,880
+cos theta-nya, aku perlu sisi yang berdekatan dan
+
+175
+00:06:16,880 --> 00:06:19,280
+sisi miringnya
+
+176
+00:06:19,280 --> 00:06:21,199
+aku punya sisi yang berdekatan
+
+177
+00:06:21,199 --> 00:06:24,479
+berapa sisi miringnya dalam hal ini?
+
+178
+00:06:25,199 --> 00:06:27,360
+akar kuadrat dari
+
+179
+00:06:27,360 --> 00:06:29,520
+10 bukan ya
+
+180
+00:06:29,520 --> 00:06:30,319
+10 bukan ya
+
+181
+00:06:30,319 --> 00:06:31,520
+oke jadi oleh karena itu
+
+182
+00:06:31,520 --> 00:06:34,560
+ini berdekatan dengan
+
+183
+00:06:34,560 --> 00:06:38,400
+sisi miring yaitu tiga akar 10
+
+184
+00:06:38,400 --> 00:06:40,639
+dan jawaban buku teks
+
+185
+00:06:40,639 --> 00:06:42,560
+dirasionalisasikan dengan sangat canggung dan mereka
+
+186
+00:06:42,560 --> 00:06:44,880
+memberi Anda itu, tetapi bentuk akar akan baik-baik saja
+
+187
+00:06:44,880 --> 00:06:47,280
+oke jadi apakah Anda melihat apa yang saya lakukan di sana, ada
+
+188
+00:06:47,280 --> 00:06:48,720
+beberapa langkah untuk ini, izinkan saya
+
+189
+00:06:48,720 --> 00:06:51,039
+membahasnya lagi
+
+190
+00:06:51,039 --> 00:06:54,160
+terlebih dahulu Anda memulai dengan pertanyaan
+
+191
+00:06:54,160 --> 00:06:55,919
+dan Anda ingin mengatakan baiklah lihat ke
+
+192
+00:06:55,919 --> 00:06:58,319
+dalam, di sini ada invers tan
+
+193
+00:06:58,319 --> 00:07:01,120
+sehingga terkunci dalam kisaran ini
+
+194
+00:07:01,120 --> 00:07:02,479
+yang memberi tahu Anda kuadran apa yang mungkin
+
+195
+00:07:02,479 --> 00:07:04,560
+baik-baik saja
+
+196
+00:07:04,560 --> 00:07:06,960
+lalu Anda lihat berapa nilai sebenarnya
+
+197
+00:07:06,960 --> 00:07:09,199
+di dalamnya, dan itu memberi tahu Anda yang mana dari
+
+198
+00:07:09,199 --> 00:07:11,919
+dua kuadran yang sebenarnya Anda cari setelah Anda
+
+199
+00:07:11,919 --> 00:07:13,680
+mendapatkannya,
+
+200
+00:07:13,680 --> 00:07:15,680
+gunakan keduanya
+
+201
+00:07:15,680 --> 00:07:18,479
+untuk menggambar segitiga Anda yang sebenarnya, oke dan
+
+202
+00:07:18,479 --> 00:07:20,720
+hati-hati sisi mana yang harus Anda
+
+203
+00:07:20,720 --> 00:07:21,919
+pikirkan, itu berlawanan dan
+
+204
+00:07:21,919 --> 00:07:23,919
+berdekatan, itu sebabnya milikku yang negatif
+
+205
+00:07:23,919 --> 00:07:26,000
+dan ketiganya persis di tempatnya
+
+206
+00:07:26,000 --> 00:07:28,080
+dan kemudian Anda berpikir akhirnya saya perlu
+
+207
+00:07:28,080 --> 00:07:30,080
+mengambil karena itu bagian yang mudah
+
+208
+00:07:30,080 --> 00:07:31,360
+bagian yang sulit adalah dalam
+
+209
+00:07:31,360 --> 00:07:32,880
+konstruksi ini dan membuatnya
+
+210
+00:07:32,880 --> 00:07:34,479
+akurat dengan memiliki satu dan tiga di
+
+211
+00:07:34,479 --> 00:07:36,800
+tempat yang tepat dan pastikan
+
+212
+00:07:36,800 --> 00:07:39,599
+cos positif
+
+213
+00:07:39,599 --> 00:07:42,400
+sebenarnya cos harus positif
+
+214
+00:07:42,400 --> 00:07:46,960
+sebenarnya ini tidak terlalu masalah
+

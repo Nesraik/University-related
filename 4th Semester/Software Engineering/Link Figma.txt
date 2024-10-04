@@ -1,0 +1,5 @@
+app -> running in background
+app -> (AI related) recommend food based on gofood purchases, recommend kalau ada promo, munculin makanan dgn promo terbaik yang pakai gopay/cash
+app -> Personalized ChatGPT that can google stuff for me (Idenya googling biasa lalu return hasil googling ke chatgpt buat diprocess)
+app -> schedule maker,progress tracking, estimate time for study/do task,list shit to do
+

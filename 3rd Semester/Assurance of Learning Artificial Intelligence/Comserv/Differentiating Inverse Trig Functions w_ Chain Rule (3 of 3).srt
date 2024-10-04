@@ -1,0 +1,921 @@
+﻿1
+00:00:01,680 --> 00:00:05,120
+Kamu siap? Mari kita kerjakan turunannya
+
+2
+00:00:06,160 --> 00:00:08,480
+Lalu, mari kita kerjakan bagian dalamnya pertama
+
+3
+00:00:08,480 --> 00:00:10,400
+Ini akan sedikit berantakan, ini adalah 1-x²
+
+4
+00:00:10,400 --> 00:00:13,120
+Dipangkatkan dengan setengah
+
+5
+00:00:13,120 --> 00:00:15,360
+Mari kita kerjakan
+
+6
+00:00:15,360 --> 00:00:16,880
+Apa hasil dari 1-x² dipangkatkan dengan setengah
+
+7
+00:00:16,880 --> 00:00:20,920
+Ini adalah aturan rantai di dalam aturan rantai
+
+8
+00:00:21,119 --> 00:00:22,640
+Saya dengar kamu menyukai kalkulus, jadi
+
+9
+00:00:22,640 --> 00:00:24,480
+Saya meletakkan fungsi di dalam fungsi
+
+10
+00:00:24,480 --> 00:00:26,720
+Jadi turunan dari fungsi di dalam fungsi ini
+
+11
+00:00:26,720 --> 00:00:28,840
+Adalah -2x, benar?
+
+12
+00:00:31,920 --> 00:00:33,440
+Sekarang, saya akan mengerjakan bagian luarnya
+
+13
+00:00:33,440 --> 00:00:36,640
+Jadi setengah akan dikeluarkan ke depan
+
+14
+00:00:37,120 --> 00:00:41,020
+Lalu saya akan mengurangi pangkatnya dengan satu
+
+15
+00:00:42,239 --> 00:00:44,000
+Jadi ini adalah 1-x²
+
+16
+00:00:44,000 --> 00:00:45,680
+Dipangkatkan dengan -1/2
+
+17
+00:00:45,680 --> 00:00:48,079
+Perhatikanlah, saya telah mengerjakan bagian dalamnya
+
+18
+00:00:48,079 --> 00:00:50,160
+Masih ada bagian luarnya, saya akan mengerjakan
+
+19
+00:00:50,160 --> 00:00:53,120
+Bagian luarnya, dimana bagian luarnya adalah invers sin
+
+20
+00:00:53,120 --> 00:01:01,960
+Jadi ini akan menjadi 1/akar kuadrat dari 1-u²
+
+21
+00:01:02,390 --> 00:01:07,360
+1-u², tidak ada masalah
+
+22
+00:01:07,680 --> 00:01:08,799
+Mari kita sederhanakan ini lagi
+
+23
+00:01:08,799 --> 00:01:10,799
+Karena ini masih terlihat kacau
+
+24
+00:01:10,799 --> 00:01:12,479
+2 dan 1/2 bisa dikalikan agar hilang
+
+25
+00:01:12,479 --> 00:01:15,680
+Sehingga kita akan mendapatkan -x di bagian atas
+
+26
+00:01:15,680 --> 00:01:18,799
+Ini akan ikut ke bagian bawah
+
+27
+00:01:22,640 --> 00:01:24,560
+Ini terlihat benar
+
+28
+00:01:24,560 --> 00:01:28,080
+Dan sekarang saya punya ini, dimana 1-1 adalah 0
+
+29
+00:01:28,080 --> 00:01:30,560
+-(-x²)
+
+30
+00:01:30,560 --> 00:01:33,439
+Akan menjadi x²
+
+31
+00:01:33,520 --> 00:01:36,479
+Kita sudah mengerjakan ini, kan
+
+32
+00:01:36,479 --> 00:01:40,520
+Jadi apa yang akan kita lakukan di baris selanjutnya
+
+33
+00:01:40,720 --> 00:01:42,880
+Apa yang akan saya lakukan di baris selanjutnya?
+
+34
+00:01:42,880 --> 00:01:45,040
+Oke, saya butuh nilai mutlak untuk ini
+
+35
+00:01:45,040 --> 00:01:48,560
+Bentuk ini, jadi -x per
+
+36
+00:01:48,560 --> 00:01:51,360
+Nilai mutlak
+
+37
+00:01:51,439 --> 00:01:55,439
+Jadi sekarang saya mendapatkan percabangannya
+
+38
+00:01:55,439 --> 00:01:56,799
+Sekarang, coba katakan padaku apa yang akan jadi domainnya
+
+39
+00:01:56,799 --> 00:01:59,920
+Batasan untuk masing-masing cabang
+
+40
+00:02:00,799 --> 00:02:03,680
+Apa yang akan berada pada bagian kiri
+
+41
+00:02:04,880 --> 00:02:06,240
+Ini akan berdasar pada apa yang berada di dalam mutlak
+
+42
+00:02:06,240 --> 00:02:09,119
+Jadi saya akan bilang bahwa 
+
+43
+00:02:09,119 --> 00:02:11,520
+Untuk x kurang dari 0
+
+44
+00:02:11,520 --> 00:02:13,200
+Apa yang akan terjadi jika x kurang dari 0?
+
+45
+00:02:13,200 --> 00:02:15,280
+Apa yang akan terjadi pada nilai mutlak
+
+46
+00:02:15,280 --> 00:02:16,640
+Ketika X kurang dari 0?
+
+47
+00:02:16,640 --> 00:02:18,879
+Ya, akan menjadi -x
+
+48
+00:02:18,879 --> 00:02:22,239
+Ini akan menjadi -x / -x
+
+49
+00:02:22,239 --> 00:02:26,480
+Ini bisa dibagi sehingga hasilnya akan jadi 1
+
+50
+00:02:28,319 --> 00:02:30,800
+Sekarang untuk sisi lain dari domain
+
+51
+00:02:30,800 --> 00:02:32,879
+Nilai mutlak dari x hanya akan menjadi x
+
+52
+00:02:32,870 --> 00:02:37,280
+Tanpa tanda minus, jadi ini akan menjadi -x / x
+
+53
+00:02:37,280 --> 00:02:38,319
+Sama dengan
+
+54
+00:02:38,319 --> 00:02:40,959
+-1
+
+55
+00:02:42,720 --> 00:02:46,319
+Jadi sampai ke bagian ini
+
+56
+00:02:46,319 --> 00:02:48,959
+Kita akan mendapatkan hasilnya kan
+
+57
+00:02:48,959 --> 00:02:50,080
+Kita baru saja melewati semua ini
+
+58
+00:02:50,080 --> 00:02:51,920
+Untuk menurunkan ini, lalu kemudian kita mendapatkan
+
+59
+00:02:51,920 --> 00:02:54,720
+Dua hasil ini, yang harusnya sudah kita kenali
+
+60
+00:02:54,720 --> 00:02:58,080
+ini merupakan turunan apa?
+
+61
+00:02:58,080 --> 00:02:59,900
+Ini adalah turunan dari invers sin
+
+62
+00:02:59,960 --> 00:03:02,150
+Kalau ini adalah turunan dari apa?
+
+63
+00:03:02,159 --> 00:03:05,840
+Invers cos, oke ini sekarang
+
+64
+00:03:05,840 --> 00:03:06,720
+Artinya
+
+65
+00:03:06,720 --> 00:03:08,720
+Apa arti dari semua ini?
+
+66
+00:03:08,720 --> 00:03:10,640
+Ini akan berhubungan dengan grafik
+
+67
+00:03:10,640 --> 00:03:13,280
+Mari kita kembali sejenak, jika saya
+
+68
+00:03:13,280 --> 00:03:15,599
+Menanyakan untuk membuat grafik ini, sebelum
+
+69
+00:03:15,599 --> 00:03:17,120
+Kamu melakukan turunan
+
+70
+00:03:17,120 --> 00:03:18,879
+Apa yang bisa kamu katakan tentang grafik ini?
+
+71
+00:03:18,879 --> 00:03:20,159
+Apakah ada yang bisa kamu lakukan dengan grafik ini
+
+72
+00:03:20,159 --> 00:03:23,120
+Tanpa menggunakan kalkulus sama sekali
+
+73
+00:03:23,120 --> 00:03:27,040
+Siswa: grafiknya hanya akan ada di antara 1 dan -1
+
+74
+00:03:28,460 --> 00:03:31,510
+Benar jadi akan ada batasan di domain, dimana itu adalah
+
+75
+00:03:31,519 --> 00:03:33,840
+Di antara -1 dan 1
+
+76
+00:03:33,840 --> 00:03:36,400
+Bagus, apakah ada hal lain yang
+
+77
+00:03:36,400 --> 00:03:38,560
+Kita ketahui?
+
+78
+00:03:38,560 --> 00:03:42,560
+Siswa: Terdapat asimtot vertikal di akhir?
+
+79
+00:03:42,560 --> 00:03:44,400
+Benar kah?
+
+80
+00:03:44,400 --> 00:03:46,400
+Saya pikir ini akan sama-, saya tidak berpikir
+
+81
+00:03:46,400 --> 00:03:48,560
+Ini memiliki sebuah asimtot
+
+82
+00:03:49,920 --> 00:03:51,599
+Apakah fungsi ini memiliki
+
+83
+00:03:51,599 --> 00:03:54,560
+Bentuk yang simetris?
+
+84
+00:03:54,879 --> 00:03:58,000
+Apakah ada yang simetris?
+
+85
+00:03:59,200 --> 00:04:00,959
+Simetri seperti apa yang dimiliki?
+
+86
+00:04:00,959 --> 00:04:01,920
+Coba pikirkan
+
+87
+00:04:01,920 --> 00:04:04,000
+Pikirkanlah tentang bagian-bagiannya
+
+88
+00:04:04,000 --> 00:04:07,599
+Apakah invers sin memiliki simetri?
+
+89
+00:04:09,280 --> 00:04:10,640
+Invers sin?
+
+90
+00:04:10,640 --> 00:04:13,280
+Itu memiliki simetri yang ganjil kan?
+
+91
+00:04:13,280 --> 00:04:15,519
+Jadi itu merupakan simetrinya, bagaimana dengan ini?
+
+92
+00:04:15,519 --> 00:04:18,478
+Jenis simetri apa yang dimiliki?
+
+93
+00:04:18,478 --> 00:04:22,160
+Ini merupakan fungsi yang simetrinya genap
+
+94
+00:04:23,040 --> 00:04:24,400
+Ketika kamu mengambil
+
+95
+00:04:24,400 --> 00:04:25,759
+Fungsi yang genap
+
+96
+00:04:25,759 --> 00:04:28,400
+Lalu kamu terapkan fungsi ganjil padanya, menurutmu
+
+97
+00:04:28,400 --> 00:04:31,520
+Apa yang akan terjadi?
+
+98
+00:04:31,600 --> 00:04:34,240
+Apa kau tidak akan mendapatkan simetri? Apakah kau akan dapat simetri ganjil?
+
+99
+00:04:34,240 --> 00:04:38,240
+Atau mungkin kau akan dapat simetri genap?
+
+100
+00:04:39,360 --> 00:04:42,400
+Pikirkan
+
+101
+00:04:48,400 --> 00:04:50,320
+Ini bukanlah suatu bagian 
+
+102
+00:04:50,320 --> 00:04:52,080
+Dari bukti, tapi setidaknya ini akan membantu kita
+
+103
+00:04:52,080 --> 00:04:53,680
+Untuk memikirkan solusinya
+
+104
+00:04:53,680 --> 00:04:55,440
+Ini sulit karena mereka adalah fungsi
+
+105
+00:04:55,440 --> 00:04:56,960
+Yang tidak familiar untuk kita
+
+106
+00:04:56,960 --> 00:04:58,080
+Jadi mari kita ambil suatu fungsi yang 
+
+107
+00:04:58,080 --> 00:05:00,320
+Familiar, ambil suatu fungsi genap
+
+108
+00:05:00,320 --> 00:05:03,440
+Misalkan untuk x², kita tahu ini fungsi genap
+
+109
+00:05:04,400 --> 00:05:07,560
+Apa fungsi ganjil yang kamu tahu
+
+110
+00:05:07,759 --> 00:05:10,800
+Bagaimana dengan x^3, jadi kamu ambil
+
+111
+00:05:10,800 --> 00:05:11,759
+Fungsi genap
+
+112
+00:05:11,759 --> 00:05:13,360
+Dan menerapkannya
+
+113
+00:05:13,360 --> 00:05:16,560
+fungsi ganjil padanya
+
+114
+00:05:18,960 --> 00:05:23,160
+Simetri seperti apa yang akan dihasilkan?
+
+115
+00:05:31,360 --> 00:05:34,080
+Itu akan menjadi fungsi genap yang baru, kan?
+
+116
+00:05:34,080 --> 00:05:35,199
+Kamu bisa menukar posisinya
+
+117
+00:05:35,199 --> 00:05:36,639
+Lalu kamu bisa melihatnya
+
+118
+00:05:39,220 --> 00:05:44,000
+Kamu benar, itu bukan x² dikali x^3
+
+119
+00:05:44,080 --> 00:05:45,880
+tetapi (x²) pangkat 3
+
+120
+00:05:45,920 --> 00:05:46,880
+Seperti apa yang saya punya disini
+
+121
+00:05:46,880 --> 00:05:49,520
+Fungsi dari sebuah fungsi
+
+122
+00:05:49,520 --> 00:05:52,560
+Ini merupakan fungsi genap
+
+123
+00:05:52,880 --> 00:05:55,199
+Jadi seharusnya kamu sudah tau
+
+124
+00:05:55,199 --> 00:05:57,120
+Kan? Coba lihat ke
+
+125
+00:05:57,120 --> 00:06:00,240
+Turunan ini, kamu bisa lihat
+
+126
+00:06:00,240 --> 00:06:02,160
+Bahwa ini berlawanan satu sama lain
+
+127
+00:06:02,160 --> 00:06:04,400
+Sisi yang berlawanan dari domain
+
+128
+00:06:04,400 --> 00:06:06,800
+Apa ada pertanyaan?
+
+129
+00:06:13,520 --> 00:06:14,720
+Baik, kita akan lihat
+
+130
+00:06:14,720 --> 00:06:16,080
+Ini akan mengecoh, jadi kamu perlu hati-hati
+
+131
+00:06:16,080 --> 00:06:18,800
+Disini ada perkalian
+
+132
+00:06:18,800 --> 00:06:20,160
+Dan sebenarnya saya tidak tahu bagaimana cara mengatakannya
+
+133
+00:06:20,160 --> 00:06:21,600
+saya harus mencari tahu lebih lanjut
+
+134
+00:06:21,600 --> 00:06:24,240
+Saat kalian melihat perbedaan antara ini
+
+135
+00:06:24,240 --> 00:06:25,919
+Dan ini, apa perbedaan
+
+136
+00:06:25,919 --> 00:06:27,120
+Di antara mereka?
+
+137
+00:06:27,120 --> 00:06:28,720
+Ini adalah fungsi dikali dengan sebuah fungsi
+
+138
+00:06:28,720 --> 00:06:30,880
+Ini adalah fungsi dari sebuah fungsi
+
+139
+00:06:30,880 --> 00:06:33,199
+Jadi, ada perbedaannya
+
+140
+00:06:33,199 --> 00:06:36,560
+Ini pangkat ganjil, dan ini pangkat genap
+
+141
+00:06:36,560 --> 00:06:38,960
+Mari kembali lagi, saya sudah kehabisan waktu
+
+142
+00:06:38,960 --> 00:06:40,639
+Kita akan mencoba untuk mengerjakan ini
+
+143
+00:06:40,630 --> 00:06:42,940
+Jadi mari kita lihat kembali 
+
+144
+00:06:43,360 --> 00:06:45,740
+Disini ada sinus dari sebuah sudut
+
+145
+00:06:46,080 --> 00:06:47,520
+Invers sin dari 3/4
+
+146
+00:06:47,520 --> 00:06:51,280
+Invers dari 12, 13, atau apapun
+
+147
+00:06:51,280 --> 00:06:54,240
+Jadi perhatikan saya karena saya ingin kamu mengingat ini
+
+148
+00:06:54,319 --> 00:06:57,440
+Bagaimana cara saya menulis ini
+
+149
+00:06:58,960 --> 00:07:02,160
+Jika y adalah sebuah sudut
+
+150
+00:07:02,160 --> 00:07:03,280
+Iya, kan?
+
+151
+00:07:03,280 --> 00:07:04,400
+Jadi ini hanya akan menjadi
+
+152
+00:07:04,400 --> 00:07:06,720
+Pitagoras, kamu sudah mengetahuinya
+
+153
+00:07:06,720 --> 00:07:08,080
+Jadi saya akan mengambilnya dan saya akan menggunakannya
+
+154
+00:07:08,080 --> 00:07:10,800
+Disini, untuk alasannya 
+
+155
+00:07:10,800 --> 00:07:11,840
+Akan jadi jelas sesaat lagi, saya akan
+
+156
+00:07:11,840 --> 00:07:14,080
+Meninggalkan cos itu, tapi saya akan meletakkan
+
+157
+00:07:14,080 --> 00:07:16,479
+Ini di tempat y berada, jadi saya akan
+
+158
+00:07:16,470 --> 00:07:20,800
+Mendapatkan sin² dari ini
+
+159
+00:07:23,199 --> 00:07:26,400
+Ditambah dengan cos² sama dengan 1
+
+160
+00:07:26,400 --> 00:07:30,039
+Apa yang bisa saya lakukan dengan ini?
+
+161
+00:07:30,560 --> 00:07:32,479
+Jangan lupa bahwa ini adalah sin²
+
+162
+00:07:32,470 --> 00:07:37,720
+Jadi, ini artinya sin dari semua bentuk ini dikuadratkan
+
+163
+00:07:38,319 --> 00:07:40,400
+Maka ini akan sama dengan apa?
+
+164
+00:07:40,400 --> 00:07:43,840
+Siswa: Kamu bisa memindahkan cos dan menghilangkannya
+
+165
+00:07:43,840 --> 00:07:45,680
+Saya akan melakukan itu
+
+166
+00:07:45,680 --> 00:07:47,039
+Tapi saya perlu menyelesaikan ini dulu
+
+167
+00:07:47,039 --> 00:07:48,960
+Karena ini terlihat sedikit berantakan
+
+168
+00:07:48,960 --> 00:07:51,199
+Jangan lupa kalau ini hanya ada untuk domain ini
+
+169
+00:07:51,199 --> 00:07:54,080
+Ini akan sama dengan apa? 
+Siswa: 1-x?
+
+170
+00:07:54,080 --> 00:07:56,840
+Maaf, sebentar, apa saya melewatkan sesuatu?
+
+171
+00:07:56,840 --> 00:07:58,400
+Ini pangkat 2
+
+172
+00:07:58,400 --> 00:07:59,280
+Ini juga pangkat 2
+
+173
+00:07:59,280 --> 00:08:01,759
+1-x², benar, karena ingatlah
+
+174
+00:08:01,759 --> 00:08:04,400
+Bahwa sin dari invers sin apa saja
+
+175
+00:08:04,400 --> 00:08:08,960
+Akan sama dengan itu jika domainnya adalah ini
+
+176
+00:08:09,360 --> 00:08:11,680
+Oke, jadi ini yang akan saya dapatkan
+
+177
+00:08:11,680 --> 00:08:13,759
+Mari kita lihat apa kita bisa menyelesaikan ini
+
+178
+00:08:13,759 --> 00:08:17,680
+Cos² akan sama dengan apa?
+
+179
+00:08:19,599 --> 00:08:22,080
+Itu akan sama dengan x² kan
+
+180
+00:08:22,080 --> 00:08:26,720
+Jadi cos y sama dengan x
+
+181
+00:08:26,720 --> 00:08:28,160
+Benar, disini ada tanda + dan tanda -
+
+182
+00:08:28,160 --> 00:08:30,080
+Sekarang, dimana plus minusnya?
+
+183
+00:08:30,080 --> 00:08:31,919
+Dimana tanda+ dan tanda- nya? Itu akan sama dengan
+
+184
+00:08:31,919 --> 00:08:34,240
+Nilai mutlak dari x
+
+185
+00:08:34,240 --> 00:08:36,240
+Dimana +- nya? Coba pikirkan
+
+186
+00:08:37,440 --> 00:08:42,560
+Cos y akan sama dengan x untuk domain apa?
+
+187
+00:08:42,799 --> 00:08:45,680
+Pikirkan, pikirkan
+
+188
+00:08:48,560 --> 00:08:50,240
+Itu akan positif ketika x
+
+189
+00:08:50,240 --> 00:08:52,399
+Lebih besar dari 0, kan?
+
+190
+00:08:52,390 --> 00:08:56,700
+Jadi untuk ini, saya mendapatkan invers cos dari x
+
+191
+00:08:56,800 --> 00:08:58,560
+Selanjutnya adalah positif
+
+192
+00:08:58,560 --> 00:09:00,399
+Untuk sisi lain dari domainnya
+
+193
+00:09:00,399 --> 00:09:02,959
+Ketika bernilai negatif, cos y tidak sama
+
+194
+00:09:02,959 --> 00:09:06,160
+Dengan x, tapi akan sama dengan apa?
+
+195
+00:09:06,320 --> 00:09:09,120
+-x jadi y sama dengan invers cos
+
+196
+00:09:09,120 --> 00:09:11,279
+Dari?
+
+197
+00:09:11,279 --> 00:09:13,519
+-x, sekarang coba jawab
+
+198
+00:09:13,519 --> 00:09:16,640
+Apa perbedaan dari kedua ini?
+
+199
+00:09:16,640 --> 00:09:18,160
+Ini sudah memiliki bentuk yang sesuai
+
+200
+00:09:18,160 --> 00:09:19,920
+dengan perbedaan yang kita harapkan
+
+201
+00:09:19,920 --> 00:09:21,839
+Tetapi ada perbedaan
+
+202
+00:09:21,839 --> 00:09:23,839
+x lebih besar dari 0
+
+203
+00:09:23,839 --> 00:09:26,320
+Ini berhubungan dengan ini
+
+204
+00:09:26,320 --> 00:09:28,720
+Ini merupakan turunan dari itu
+
+205
+00:09:28,720 --> 00:09:30,160
+Tapi akan jadi seperti apa bentuk ini?
+
+206
+00:09:30,160 --> 00:09:32,000
+Apa yang akan terjadi jika kamu menambahkan minus?
+
+207
+00:09:32,000 --> 00:09:37,080
+Ke x, apa perbedaan yang akan terjadi?
+
+208
+00:09:37,200 --> 00:09:39,040
+Benar, jika saya memberikan kamu ini
+
+209
+00:09:39,040 --> 00:09:41,200
+Lalu saya menambahkan minus
+
+210
+00:09:41,200 --> 00:09:44,480
+Untuk y, ke arah mana dia akan melengkung?
+
+211
+00:09:44,480 --> 00:09:46,240
+Itu akan melengkung ke arah ini
+
+212
+00:09:46,240 --> 00:09:48,240
+Bentuknya akan melengkung ke bawah
+
+213
+00:09:48,240 --> 00:09:49,680
+Tapi jika saya meletakkan
+
+214
+00:09:49,680 --> 00:09:51,519
+Tanda minus di x, itu tidak akan melengkung
+
+215
+00:09:51,519 --> 00:09:53,760
+Secara vertikal, tetapi
+
+216
+00:09:53,760 --> 00:09:56,480
+Akan melengkung secara horizontal, jadi
+
+217
+00:09:56,480 --> 00:09:57,839
+Seperti ini bentuknya
+
+218
+00:09:57,839 --> 00:09:59,200
+Untuk x lebih besar dari 0
+
+219
+00:09:59,200 --> 00:10:01,200
+Saya akan mendapatkan invers cos nya
+
+220
+00:10:01,200 --> 00:10:03,120
+Seperti apa bentuknya
+
+221
+00:10:03,120 --> 00:10:04,399
+Seperti itu
+
+222
+00:10:04,399 --> 00:10:06,560
+Iya, kan?
+
+223
+00:10:06,640 --> 00:10:07,920
+Akan jadi seperti apa di sisi sebelumnya?
+
+224
+00:10:07,920 --> 00:10:09,440
+Ini merupakan versi terbaliknya
+
+225
+00:10:09,440 --> 00:10:10,640
+Akan menjadi
+
+226
+00:10:10,640 --> 00:10:12,800
+Seperti itu
+
+227
+00:10:12,800 --> 00:10:15,680
+Ini terlihat mirip
+
+228
+00:10:15,680 --> 00:10:17,120
+Dengan taj mahal
+
+229
+00:10:17,120 --> 00:10:20,640
+Oke, jadi saya selesai, waktu saya habis
+
+230
+00:10:20,640 --> 00:10:23,620
+Kita akan memikirkan integral besok
+

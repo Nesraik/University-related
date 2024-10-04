@@ -1,0 +1,480 @@
+﻿1
+00:00:00,719 --> 00:00:03,760
+Mari kita kerjakan ini
+
+2
+00:00:03,760 --> 00:00:08,260
+Saya sudah melihat jawaban kalian dan saya melihat 1 1/2
+
+3
+00:00:08,480 --> 00:00:10,320
+Itu jawaban yang benar
+
+4
+00:00:10,320 --> 00:00:11,840
+Mari kita mengerjakannya
+
+5
+00:00:11,840 --> 00:00:14,080
+Apa turunan dari fungsi bagian dalam?
+
+6
+00:00:14,080 --> 00:00:15,360
+Cos x
+
+7
+00:00:16,880 --> 00:00:18,400
+Apa turunan dari bagian luar?
+
+8
+00:00:18,400 --> 00:00:22,400
+Karena itu akan jadi 1 per sekian, jadi saya akan langsung menuliskannya di bagian bawahnya
+
+9
+00:00:22,440 --> 00:00:23,760
+Apa yang menjadi penyebutnya?
+
+10
+00:00:28,160 --> 00:00:31,840
+Apa turunan dari invers sin?
+
+11
+00:00:32,079 --> 00:00:33,360
+42?
+
+12
+00:00:33,360 --> 00:00:38,860
+Itu adalah akar kuadrat dari 1 dikurangi..
+
+13
+00:00:38,960 --> 00:00:44,720
+Biasanya kita akan menulis x² disini tapi kali ini fungsi bagian dalamku adalah sin
+
+14
+00:00:44,800 --> 00:00:48,020
+Jadi saya akan menulisnya sebagai sin² x
+
+15
+00:00:48,230 --> 00:00:53,120
+Kalian harus hati-hati, perhatikan apa yang aku dapatkan
+
+16
+00:00:53,160 --> 00:00:58,700
+Cos x dengan penyebut, 1 - sin² x sama dengan cos² x
+
+17
+00:00:58,960 --> 00:01:04,880
+Jadi ini akan menjadi cos x / cos x, yang hasilnya adalah 1
+
+18
+00:01:05,199 --> 00:01:08,240
+Hasil ini merupakan hasil yg salah, kenapa?
+
+19
+00:01:08,240 --> 00:01:10,720
+Tidak, ini merupakan jawaban yang salah
+
+20
+00:01:10,720 --> 00:01:13,160
+Tapi mengapa jawabannya salah?
+
+21
+00:01:13,200 --> 00:01:14,720
+Ini merupakan bagian yang penting
+
+22
+00:01:14,720 --> 00:01:18,120
+Saya akan menggambarkannya tapi saya ingin kalian mengingat ini
+
+23
+00:01:18,280 --> 00:01:20,300
+Jadi kalian tau bagaimana bentuk dari ini
+
+24
+00:01:20,340 --> 00:01:23,400
+Dimana kita sebenarnya sudah cukup benar
+
+25
+00:01:23,420 --> 00:01:25,280
+Sebenarnya kita sudah setengah jalan menuju benar
+
+26
+00:01:25,340 --> 00:01:26,980
+Tapi pergi kemana setengah bagiannya lagi?
+
+27
+00:01:26,980 --> 00:01:29,000
+Seperti apa jawaban akhirnya?
+
+28
+00:01:30,240 --> 00:01:31,360
+Itu akan menjadi -1 kan?
+
+29
+00:01:31,400 --> 00:01:33,380
+Tapi kemana -1 itu pergi?
+
+30
+00:01:34,560 --> 00:01:36,600
+Dimanakah masalahnya? Itu adalah masalahku
+
+31
+00:01:36,620 --> 00:01:38,880
+Ada masalah di sini, tapi apa masalahnya?
+
+32
+00:01:46,360 --> 00:01:52,080
+Di bagian ini, saya masih benar
+
+33
+00:01:52,120 --> 00:01:53,760
+Kamu benar, aku baru menyelesaikan turunannya
+
+34
+00:01:53,880 --> 00:01:55,840
+Dari sini ke sini, saya juga masih benar
+
+35
+00:01:56,000 --> 00:02:00,020
+Karena saya hanya menurunkan 1-sin² x menjadi cos² x, itu benar
+
+36
+00:02:00,079 --> 00:02:02,000
+Tapi disini lah bagian salahnya
+
+37
+00:02:02,000 --> 00:02:05,759
+Apa yang seharusnya saya tulis?
+
+38
+00:02:05,920 --> 00:02:09,900
+Jika ini salah, kira-kira bagian mana yang kurang?
+
+39
+00:02:10,230 --> 00:02:11,900
+Aku bisa melakukannya dengan cara lain
+
+40
+00:02:11,980 --> 00:02:15,200
+Aku memilih cara ini untuk menulis bagian mana yang kurang
+
+41
+00:02:15,240 --> 00:02:17,840
+Yaitu tanda mutlak
+
+42
+00:02:17,840 --> 00:02:19,260
+Ini merupakan bagian yang penting
+
+43
+00:02:19,300 --> 00:02:21,440
+Jadi saya akan menghapus bagian ini
+
+44
+00:02:21,440 --> 00:02:25,420
+Jadi alasan mengapa saya bilang tanda mutlak adalah cara yg lebih baik daripada yg kalian sarankan
+
+45
+00:02:25,460 --> 00:02:28,400
+Aku harus menambahkan +- di depan
+
+46
+00:02:28,640 --> 00:02:30,959
++- ini akan cukup mengecoh
+
+47
+00:02:30,950 --> 00:02:34,060
++- akan ditambahkan saat kamu menyelesaikan persamaan kuadrat
+
+48
+00:02:34,160 --> 00:02:36,959
+Jawabanku adalah +- dari angka ini
+
+49
+00:02:36,950 --> 00:02:40,220
+Tapi itu tidak spesifik, kapan akan minus ataupun plus
+
+50
+00:02:40,640 --> 00:02:48,400
+Bagaimana kita tau kalau terkadang ini bisa menjadi positif atau menjadi negatif
+
+51
+00:02:48,460 --> 00:02:51,880
+Jadi aku harus tau bagaimana cara memutuskannya
+
+52
+00:02:51,920 --> 00:02:55,760
+Jadi plus atau minus bukanlah informasi yang cukup
+
+53
+00:02:55,760 --> 00:02:59,620
+Dari sini saya ingin mengingat apa arti dari bentuk mutlak
+
+54
+00:02:59,680 --> 00:03:01,960
+Kembali dengan definisi yang telah dipelajari selanjutnya
+
+55
+00:03:02,480 --> 00:03:04,959
+Ini akan sama dengan dua, yaitu:
+
+56
+00:03:04,950 --> 00:03:07,220
+Mari kerjakan untuk case pertama terlebih dahulu
+
+57
+00:03:07,280 --> 00:03:09,700
+Ini akan menjadi cos x / cos x
+
+58
+00:03:10,319 --> 00:03:12,879
+Untuk nilai yang mana?
+
+59
+00:03:16,150 --> 00:03:21,940
+Jadi ini hanya berlaku untuk domain tertentu, yaitu ketika cos x adalah positif
+
+60
+00:03:22,150 --> 00:03:25,260
+Jika nilai disini adalah positif maka kita akan kembalikan nilainya
+
+61
+00:03:25,320 --> 00:03:26,940
+Jadi ini adalah 1
+
+62
+00:03:28,230 --> 00:03:32,140
+Sebaliknya, jika disini nilai cos x nya adalah negatif
+
+63
+00:03:34,080 --> 00:03:35,260
+Kamu hanya perlu membalikkannya
+
+64
+00:03:35,300 --> 00:03:38,100
+Ini adalah kasus dimana kamu akan mendapatkan -cos x
+
+65
+00:03:41,590 --> 00:03:43,540
+Ini akan lebih membantu
+
+66
+00:03:43,680 --> 00:03:47,340
+Jadi kamu bisa lihat bahwa saya menuliskan ini lebih detail daripada hanya plus atau minus
+
+67
+00:03:47,380 --> 00:03:49,500
+Plus dan minus satu di tempat yang spesifik
+
+68
+00:03:49,740 --> 00:03:51,240
+Ini akan sangat membantu kita
+
+69
+00:03:51,280 --> 00:03:53,280
+Karena bagaimana cara kita menggambar grafik sebelumnya
+
+70
+00:03:53,280 --> 00:04:00,340
+Kita tidak benar-benar memikirkannya, kita hanya seperti meletakkan titik sesuai dengan nilai untuk melihat apa yg terjadi
+
+71
+00:04:00,480 --> 00:04:02,200
+Tapi ini memiliki arti
+
+72
+00:04:02,320 --> 00:04:09,460
+Mari kita lihat ini, kita sudah tau bagaimana bentuk grafik cos x dan saya akan meminta anda untuk menggambar sumbu datar yang lebar
+
+73
+00:04:09,520 --> 00:04:12,080
+Seperti apa cos x akan terlihat, seperti ini kan?
+
+74
+00:04:18,880 --> 00:04:20,478
+Gambar ini lebih bagus dari gambarku sebelumnya
+
+75
+00:04:20,470 --> 00:04:23,800
+Apa tujuan dari grafik ini?
+
+76
+00:04:24,320 --> 00:04:26,080
+Grafik ini merupakan turunan
+
+77
+00:04:26,120 --> 00:04:31,640
+Ketika cos x adalah positif maka turunannya adalah 1, jadi grafiknya naik
+
+78
+00:04:31,700 --> 00:04:33,400
+Jadi lihat kembali ke grafiknya
+
+79
+00:04:33,480 --> 00:04:37,840
+Ketika cos x lebih besar dari 0, jadi itu akan terletak di antara ini
+
+80
+00:04:37,860 --> 00:04:41,000
+Apa domainnya? Apakah nilai dari kedua sisi yang berada di ujung?
+
+81
+00:04:42,470 --> 00:04:45,900
+Ini adalah -π/2
+
+82
+00:04:46,560 --> 00:04:48,160
+Hingga π/2
+
+83
+00:04:48,160 --> 00:04:50,080
+Ini telah kita dapatkan sebelumnya
+
+84
+00:04:50,080 --> 00:04:53,780
+Jadi inilah kenapa kamu mendapatkan grafik naik ketika di domain ini 
+
+85
+00:04:53,820 --> 00:04:55,580
+Itu akan terlihat seperti ini
+
+86
+00:04:58,000 --> 00:05:03,840
+Tapi ketika saya memindahkannya ke bagian sini, mengapa itu hanya akan memantul kembali?
+
+87
+00:05:03,880 --> 00:05:06,260
+Itu akan mirip sin, dimana grafiknya naik-turun
+
+88
+00:05:06,320 --> 00:05:07,840
+Tapi bukan itu alasannya
+
+89
+00:05:07,880 --> 00:05:09,180
+Ini adalah alasan yang sebenarnya
+
+90
+00:05:09,220 --> 00:05:12,980
+Ini adalah apa yang akan terjadi pada turunan karena nilai mutlak ini
+
+91
+00:05:13,020 --> 00:05:20,120
+Jadi untuk domain di antara π/2 dan 3π/2
+
+92
+00:05:20,479 --> 00:05:22,160
+Turunannya adalah -1
+
+93
+00:05:22,160 --> 00:05:24,860
+Itulah kenapa garisnya akan menurun
+
+94
+00:05:26,560 --> 00:05:29,260
+Lalu dari sini, itu akan kembali menjadi positif lagi
+
+95
+00:05:29,300 --> 00:05:34,640
+Ini mengapa gradiennya adalah satu dan kita juga mendapatkan bentuk yang naik-turun
+
+96
+00:05:34,700 --> 00:05:37,520
+Jadi ini bukan hanya “Oh itu terlihat lucu” 
+
+97
+00:05:37,560 --> 00:05:41,100
+Ini adalah hasil akhirnya ketika kamu mencobanya, kalkulus akan menunjukkan alasannya
+
+98
+00:05:42,080 --> 00:05:46,640
+Sekarang saya akan memberikan satu contoh lagi, dan saya akan memberikan kamu waktu untuk memikirkan itu terlebih dahulu
+
+99
+00:05:46,680 --> 00:05:50,680
+Karena kalian telah mengerjakan bentuk ini jadi mungkin kalian akan lebih berhati-hati
+
+100
+00:05:50,720 --> 00:05:53,360
+Saya tidak perlu lagi menunjukkan bagaimana caranya
+
+101
+00:05:54,720 --> 00:05:57,600
+Garis biru merupakan grafik dari bagian ini
+
+102
+00:05:58,319 --> 00:06:00,639
+Siswa: Bukannya kamu harusnya menemukan jawabannya?
+
+103
+00:06:00,660 --> 00:06:09,280
+Ya jadi dengan turunan ini saya ingin melihat hubungannya dengan bentuk mutlak
+
+104
+00:06:09,680 --> 00:06:14,920
+Karena ini merupakan hasil yg sama yang akan kamu dapatkan dari bentuk mutlak dari x dimana gradiennya adalah 1
+
+105
+00:06:14,980 --> 00:06:19,040
+Terkadang ini akan positif dan terkadang akan negatif
+
+106
+00:06:19,080 --> 00:06:23,440
+Siswa: Bukan seharusnya ada bagian dari grafik yang mendatar dibawah?
+
+107
+00:06:23,520 --> 00:06:26,440
+Saya menggambar grafik dari fungsi aslinya dan bukan turunannya
+
+108
+00:06:26,480 --> 00:06:29,440
+Jadi ketika saya ingin mengambar grafik turunan, akan seperti apakah bentuknya?
+
+109
+00:06:30,700 --> 00:06:34,040
+Mari kita lihat
+
+110
+00:06:34,400 --> 00:06:42,780
+Kamu telah mengetahui untuk domain di sini, oh maaf apa nilai dari pi/2, apakah itu 1.57? 
+
+111
+00:06:42,840 --> 00:06:44,940
+Jadi itu akan lebih rendah dari itu, akan seperti ini bentuknya
+
+112
+00:06:45,140 --> 00:06:51,340
+Dan seperti yg kamu katakan, pada titik ini, saya tidak tau apa turunannya
+
+113
+00:06:51,360 --> 00:06:56,260
+Lalu turun ke bawah sini, itu akan berlanjut ke -1 
+
+114
+00:06:56,300 --> 00:06:59,060
+Jadi ya, kamu tau bahwa grafik turunan akan memiliki bagian yang mendatar dibawah
+
+115
+00:07:00,000 --> 00:07:04,820
+Untuk fungsi yang akan saya kerjakan sekarang, adalah ini
+
+116
+00:07:07,080 --> 00:07:09,960
+Mungkin beberapa dari kalian telah mengetahuinya
+
+117
+00:07:10,000 --> 00:07:13,940
+Ini memiliki karakter yang sedikit mencurigakan 
+
+118
+00:07:14,100 --> 00:07:17,680
+Tapi apa yang saya ingin anda kerjakan adalah turunannya
+
+119
+00:07:17,720 --> 00:07:23,120
+Dari turunan itu kamu akan menyadari apa yang aneh dan kamu bisa menggambarkan grafik berdasarkan itu
+
+120
+00:07:23,340 --> 00:07:27,360
+Jadi ini adalah fungsi yang bisa kalian kerjakan
+

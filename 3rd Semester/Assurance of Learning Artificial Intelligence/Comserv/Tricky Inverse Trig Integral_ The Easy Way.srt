@@ -1,0 +1,708 @@
+﻿1
+00:00:00,640 --> 00:00:02,480
+Sekarang, itu adalah cara yang sulit
+
+2
+00:00:02,480 --> 00:00:05,040
+Terdapat banyak yang perlu dikerjakan 
+
+3
+00:00:05,040 --> 00:00:07,919
+Tapi saya penasaran apakah itu sesuai denganmu
+
+4
+00:00:07,919 --> 00:00:09,200
+Setelah kita memahami semua ini
+
+5
+00:00:09,200 --> 00:00:10,480
+Ketika kita mengerjakan
+
+6
+00:00:10,480 --> 00:00:13,679
+Integral ini dan ini bisa dihilangkan
+
+7
+00:00:13,679 --> 00:00:15,200
+Kamu mungkin akan curiga
+
+8
+00:00:15,200 --> 00:00:16,800
+Dengan jawabannya, itu akan menjadi
+
+9
+00:00:16,800 --> 00:00:19,680
+Sangat simpel, kita bisa melihatnya
+
+10
+00:00:19,680 --> 00:00:21,520
+Dari sini
+
+11
+00:00:21,520 --> 00:00:23,279
+Tanpa perlu melakukan semua translasi ini
+
+12
+00:00:23,279 --> 00:00:25,840
+Dan membentuk interval baru di grup itu
+
+13
+00:00:25,840 --> 00:00:28,400
+Jika grafikmu cukup bagus
+
+14
+00:00:28,400 --> 00:00:30,240
+Kembali ke saat pertama kamu menggambar grafik
+
+15
+00:00:30,240 --> 00:00:31,359
+Untuk pertanyaan ini
+
+16
+00:00:31,359 --> 00:00:34,399
+Oke, jadi dimana 4/5
+
+17
+00:00:34,399 --> 00:00:35,680
+Dan pi di diagram ini
+
+18
+00:00:35,680 --> 00:00:37,440
+4/5 merupakan lebar disini
+
+19
+00:00:37,440 --> 00:00:39,040
+Dan juga disini
+
+20
+00:00:40,000 --> 00:00:42,000
+Dan pi adalah
+
+21
+00:00:42,000 --> 00:00:44,160
+Dimanakah pi?
+
+22
+00:00:44,160 --> 00:00:46,079
+Pi adalah tinggi untuk keseluruhan grafik
+
+23
+00:00:46,079 --> 00:00:48,320
+Benar
+
+24
+00:00:49,280 --> 00:00:51,840
+Kamu bisa melihatnya
+
+25
+00:00:53,440 --> 00:00:56,320
+Apakah kamu bisa lihat?
+
+26
+00:00:56,879 --> 00:00:59,039
+Oh 
+
+27
+00:01:06,400 --> 00:01:09,439
+Lebar 4/5
+
+28
+00:01:09,680 --> 00:01:10,640
+pi
+
+29
+00:01:10,640 --> 00:01:12,400
+Untuk tingginya
+
+30
+00:01:12,400 --> 00:01:15,439
+Maka ini hanya akan menjadi persegi panjang
+
+31
+00:01:15,439 --> 00:01:18,560
+Itu adalah cara termudah
+
+32
+00:01:18,560 --> 00:01:20,880
+Ini adalah cara mudahnnya, saya mengaku
+
+33
+00:01:20,880 --> 00:01:22,080
+Ini akan bagus kalau saya bisa langsung menuliskan
+
+34
+00:01:22,080 --> 00:01:24,000
+Persamaannya, tapi lihat yang baru saya lakukan
+
+35
+00:01:24,000 --> 00:01:25,920
+Sayang sekali atau mungkin
+
+36
+00:01:25,920 --> 00:01:27,840
+Tapi mungkin kamu beruntung kamu tidak perlu
+
+37
+00:01:27,840 --> 00:01:30,000
+Menggunakan spidol, kamu tahu kalau papan
+
+38
+00:01:30,000 --> 00:01:31,520
+Sulit digunakan untuk menggambar dan mewarnai
+
+39
+00:01:31,520 --> 00:01:33,439
+Maka kita perlu untuk
+
+40
+00:01:33,439 --> 00:01:35,200
+Menyiapkan kata-kata untuk menjelaskan
+
+41
+00:01:35,200 --> 00:01:37,119
+Apa yang baru saya lakukan
+
+42
+00:01:37,119 --> 00:01:38,159
+Inilah yang saya sarankan
+
+43
+00:01:38,159 --> 00:01:40,479
+Di diagrammu, kamu pasti punya diagram
+
+44
+00:01:40,479 --> 00:01:41,520
+Oke
+
+45
+00:01:41,520 --> 00:01:43,520
+Jadi saya akan menandai
+
+46
+00:01:43,520 --> 00:01:46,159
+Saya memiliki tiga arae, dimana
+
+47
+00:01:46,159 --> 00:01:48,960
+Saya tertarik dengan itu, saya bisa bilang
+
+48
+00:01:48,960 --> 00:01:51,600
+Untuk definisinya bahwa integral ini
+
+49
+00:01:51,600 --> 00:01:53,200
+Sama dengan
+
+50
+00:01:53,200 --> 00:01:55,520
+Dua area di bawah ini, karena
+
+51
+00:01:55,520 --> 00:01:57,920
+Mereka merupakan area di bawah kurva
+
+52
+00:01:57,920 --> 00:01:59,439
+Jadi saya tidak membuat pernyataan dramatis
+
+53
+00:01:59,439 --> 00:02:01,520
+Saat ini
+
+54
+00:02:01,520 --> 00:02:04,399
+Tapi saya bisa bilang
+
+55
+00:02:04,960 --> 00:02:06,960
+ Bahwa kamu perlu lebih banyak tempat
+
+56
+00:02:06,960 --> 00:02:08,080
+Untuk bisa menuliskan ini
+
+57
+00:02:08,080 --> 00:02:11,119
+ Tapi saya akan langsung ke baris selanjutnya
+
+58
+00:02:11,840 --> 00:02:13,760
+Dari grafiknya, karena yang perlu dilakukan
+
+59
+00:02:13,760 --> 00:02:15,200
+Adalah untuk menggambar grafik
+
+60
+00:02:15,200 --> 00:02:16,720
+ Untuk membuat argumen
+
+61
+00:02:16,720 --> 00:02:19,440
+Dari grafiknya
+
+62
+00:02:20,319 --> 00:02:23,040
+ Saya bisa bilang kalau dua area tersebut
+
+63
+00:02:23,040 --> 00:02:25,680
+Adalah sama, dengan berasumsi terhadap grafikmu
+
+64
+00:02:25,680 --> 00:02:27,200
+Itu sudah cukup bagus
+
+65
+00:02:27,200 --> 00:02:31,120
+A2 sama dengan A3, atas prinsip apa
+
+66
+00:02:31,120 --> 00:02:33,599
+Mereka dibilang sama? Jawabannya adalah
+
+67
+00:02:33,599 --> 00:02:36,319
+Simetris, itu bukan sebuah fungsi genap
+
+68
+00:02:36,319 --> 00:02:37,680
+Atau fungsi ganjil
+
+69
+00:02:37,680 --> 00:02:40,640
+Tapi jika kamu memutarnya di sekitar titik ini
+
+70
+00:02:40,640 --> 00:02:44,080
+Dari 0 ke pi/2, maka kamu akan mendapatkan A2
+
+71
+00:02:44,080 --> 00:02:46,160
+Menjadi A3 hanya dengan memutarnya
+
+72
+00:02:46,160 --> 00:02:49,120
+Jadi saya bisa mengatakannya
+
+73
+00:02:49,120 --> 00:02:49,519
+Adalah simetris
+
+74
+00:02:49,519 --> 00:02:51,920
+Hanya dengan menganggapnya simetris
+
+75
+00:02:51,920 --> 00:02:54,080
+Saya bisa melakukan kedua ini dengan benar
+
+76
+00:02:54,080 --> 00:02:56,000
+Jika saya tidak memiliki grafiknya, saya tidak
+
+77
+00:02:56,000 --> 00:02:58,720
+Bisa membuat pernyataan simetris, tapi
+
+78
+00:02:58,720 --> 00:03:01,920
+ Saya punya grafiknya, jadi saya bisa mengatakannya
+
+79
+00:03:01,920 --> 00:03:03,040
+jadi
+
+80
+00:03:03,040 --> 00:03:05,840
+Integralnya
+
+81
+00:03:08,879 --> 00:03:12,800
+Akan sama dengan A1 + A3
+
+82
+00:03:12,800 --> 00:03:14,319
+Dimana ini adalah persegi panjang
+
+83
+00:03:14,319 --> 00:03:19,840
+Itu adalah lebar dan panjang
+
+84
+00:03:20,159 --> 00:03:22,159
+Ini adalah perhitungannya
+
+85
+00:03:22,159 --> 00:03:24,400
+ Oke
+
+86
+00:03:25,040 --> 00:03:26,879
+Jadi sebaiknya kamu melakukannya dengan cara mudah
+
+87
+00:03:26,879 --> 00:03:29,599
+ Atau cara susah, menduga jika kamu bisa
+
+88
+00:03:29,599 --> 00:03:31,280
+ Menentukannya, maka cara mudah lebih baik
+
+89
+00:03:31,280 --> 00:03:33,120
+ Namun jika kamu tidak bisa membuat
+
+90
+00:03:33,120 --> 00:03:34,720
+Pernyataan tanpa menggunakan grafik,
+
+91
+00:03:34,720 --> 00:03:36,720
+Kamu harus memiliki grafik, kamu tidak bisa
+
+92
+00:03:36,720 --> 00:03:38,799
+Langsung melanjutkan kesini
+
+93
+00:03:38,799 --> 00:03:41,280
+ Ke sini
+
+94
+00:03:41,280 --> 00:03:44,080
+Bahkan jika kamu mengatakan bahwa ini
+
+95
+00:03:44,080 --> 00:03:45,120
+Tidak cukup, jika kamu tidak
+
+96
+00:03:45,120 --> 00:03:47,040
+Memiliki sebuah gambaran
+
+97
+00:03:47,040 --> 00:03:48,959
+Siswa: Jika pertanyaannya seperti itu
+
+98
+00:03:48,959 --> 00:03:50,879
+Siswa: Dan pengerjaanya akan sepanjang itu
+
+99
+00:03:50,870 --> 00:03:53,800
+Apakah nilai yang didapatkan hanyalah satu atau dua
+
+100
+00:03:54,000 --> 00:03:56,400
+Orang-orang akan melihat saya berharap
+
+101
+00:03:56,400 --> 00:03:58,319
+ Ini semua bisa menjado
+
+102
+00:03:58,319 --> 00:04:00,080
+ Sebuah pertanyaan dan saya menduga bisa mendapat
+
+103
+00:04:00,080 --> 00:04:02,400
+Dua nilai dan kalian akan
+
+104
+00:04:02,400 --> 00:04:04,159
+Bisa melakukannya dengan cara normal, salah satu
+
+105
+00:04:04,159 --> 00:04:06,640
+Dari area ini, mereka akan
+
+106
+00:04:06,640 --> 00:04:07,920
+Sadar bahwa ada sesuatu yang salah
+
+107
+00:04:07,920 --> 00:04:10,640
+Dan mungkin ini tidak berjalan lancar
+
+108
+00:04:10,640 --> 00:04:11,840
+Dan mereka tidak bisa melakukan trik ini
+
+109
+00:04:11,840 --> 00:04:13,120
+Karena grafik mereka, tapi saya ingat
+
+110
+00:04:13,120 --> 00:04:14,159
+Pertama kalinya saya melihat pertanyaan 
+
+111
+00:04:14,159 --> 00:04:16,238
+Seperti ini 
+
+112
+00:04:16,238 --> 00:04:18,639
+Kurva invers cos punyaku sangat melenceng
+
+113
+00:04:18,639 --> 00:04:20,320
+Sehingga saya tidak bisa melihat simetrinya
+
+114
+00:04:20,320 --> 00:04:21,759
+Karena itu terlihat tidak simetris
+
+115
+00:04:21,759 --> 00:04:23,600
+Di diagramku, jika kamu tidak menemukannya
+
+116
+00:04:23,600 --> 00:04:25,199
+Kamu akan berpikir bahwa kamu
+
+117
+00:04:25,199 --> 00:04:27,759
+Akan sampai ke sini, tapi kamu
+
+118
+00:04:27,759 --> 00:04:28,960
+ Tetap akan mendapatkan dua nilai
+
+119
+00:04:28,960 --> 00:04:30,639
+ Kamu berpikir bahwa itu pekerjaan yang cukup banyak
+
+120
+00:04:30,639 --> 00:04:32,160
+Karena kamu tidak menyadari bahwa
+
+121
+00:04:32,160 --> 00:04:35,360
+Ada cara yang lebih mudah
+
+122
+00:04:35,680 --> 00:04:37,199
+Meski begitu saya tetap ingin menunjukkannya
+
+123
+00:04:37,190 --> 00:04:39,620
+Karena ini cukup berguna
+
+124
+00:04:39,919 --> 00:04:40,840
+Ini
+
+125
+00:04:40,840 --> 00:04:43,440
+Identitas ini, kembali pada
+
+126
+00:04:43,440 --> 00:04:45,520
+Dimana yang Daniel sarankan, ini adalah 
+
+127
+00:04:45,520 --> 00:04:47,040
+Hal yang bagus karena invers cos
+
+128
+00:04:47,040 --> 00:04:49,600
+Terlihat seperti itu, dan minus
+
+129
+00:04:49,600 --> 00:04:52,800
+ Dari inverse cos, ini adalah hal yang sama tapi terbalik
+
+130
+00:04:52,800 --> 00:04:55,040
+Jika kamu berpikir
+
+131
+00:04:55,040 --> 00:04:57,600
+Untuk menghindarinya, kamu akan mendapatkan pi + 0
+
+132
+00:04:57,600 --> 00:04:58,960
+Dimana pi
+
+133
+00:04:58,960 --> 00:05:00,800
+Adalah titik seperti ini, dan kamu mendapatkan pi/2
+
+134
+00:05:00,800 --> 00:05:03,520
+Ditambah dengan pi/2, dimana kamu akan dapat 0
+
+135
+00:05:03,520 --> 00:05:05,840
+Lalu ditambah dengan pi/2 lagi, dan kemudian di tiap titik
+
+136
+00:05:05,840 --> 00:05:07,600
+ Kamu pikir ini akan menurun
+
+137
+00:05:07,600 --> 00:05:09,199
+Dan ini akan naik di saat bersamaan
+
+138
+00:05:09,199 --> 00:05:10,800
+ Jadi itulah mengapa kamu akan mendapatkan
+
+139
+00:05:10,800 --> 00:05:12,720
+Garis lurus bernama
+
+140
+00:05:12,720 --> 00:05:14,000
+y = pi
+
+141
+00:05:14,000 --> 00:05:16,080
+Argumen ini juga bekerka
+
+142
+00:05:16,080 --> 00:05:17,680
+Tapi saya ingin menunjukkan bahwa kamu bisa
+
+143
+00:05:17,680 --> 00:05:18,960
+Menggunakan metode yang telah kita gunakan, yaitu
+
+144
+00:05:18,960 --> 00:05:20,960
+ Metode algebra, untuk menunjukkan 
+
+145
+00:05:20,960 --> 00:05:24,520
+Identitasnya
+
+146
+00:05:24,639 --> 00:05:25,919
+ Maksudmu ini?
+
+147
+00:05:25,919 --> 00:05:27,840
+Ya
+
+148
+00:05:27,840 --> 00:05:29,360
+Sama seperti saat kamu bisa menggunakan sin kuadrat
+
+149
+00:05:29,360 --> 00:05:32,000
+Ditambah dengan cos kuadrat akan sama dengan 1
+
+150
+00:05:32,000 --> 00:05:33,360
+Itu muncul dari fakta
+
+151
+00:05:33,360 --> 00:05:34,639
+Yang muncul dari semua fakta ini
+
+152
+00:05:34,639 --> 00:05:37,280
+Sudah pasti
+
+153
+00:05:37,280 --> 00:05:38,960
+Terdapat hal lain seperti ini
+
+154
+00:05:38,960 --> 00:05:41,520
+Tanpa perlu membuktikannya
+
+155
+00:05:41,520 --> 00:05:43,440
+Saya penasaran seberapa banyak dari kalian bisa mengatakan
+
+156
+00:05:43,440 --> 00:05:45,120
+Atau bisa menebak
+
+157
+00:05:45,120 --> 00:05:46,639
+Ini akan sama dengan apa?
+
+158
+00:05:46,639 --> 00:05:48,320
+Pikirkanlah
+
+159
+00:05:48,320 --> 00:05:50,080
+Ini sangat mirip dengan ini, tapi
+
+160
+00:05:50,080 --> 00:05:51,919
+Tidak sama, menurut kalian
+
+161
+00:05:51,919 --> 00:05:54,400
+Apakah perbedaan antara inverse sin x dan inverse cos x?
+
+162
+00:05:54,400 --> 00:05:56,960
+Apa perbedaannya?
+
+163
+00:05:56,960 --> 00:05:57,840
+Ingatlah kita sedang melihat
+
+164
+00:05:57,840 --> 00:05:59,280
+Pada sebuah integral, kita mencari perbedaannya
+
+165
+00:05:59,280 --> 00:06:01,039
+Benar, ada pergeseran
+
+166
+00:06:01,039 --> 00:06:03,039
+ Itu adalah konstan, jadi harusnya sama dengan pi
+
+167
+00:06:03,039 --> 00:06:05,759
+Benar, jika invers sin dari x
+
+168
+00:06:05,759 --> 00:06:08,319
+Merupakan invers cos dari -x
+
+169
+00:06:08,319 --> 00:06:11,039
+Bergeser kebawah senilai pi/2
+
+170
+00:06:11,039 --> 00:06:12,160
+Kita bisa melihat keseluruhannya
+
+171
+00:06:12,160 --> 00:06:14,319
+Bergeser senilai pi/2, kita mengharapkan
+
+172
+00:06:14,319 --> 00:06:15,919
+Itu akan menjadi pi/2 lebih kecil dari itu
+
+173
+00:06:15,919 --> 00:06:18,800
+yang merupakan pi/2
+
+174
+00:06:18,960 --> 00:06:20,639
+Kamu bisa memastikan dengan menurunkannya juga
+
+175
+00:06:20,639 --> 00:06:22,000
+Karena kamu tahu bahwa kedua turunan ini
+
+176
+00:06:22,000 --> 00:06:23,840
+Yang merupakan konstan, kemudian
+
+177
+00:06:23,840 --> 00:06:27,319
+Kamu bisa menghitung nilainya
+

@@ -1,0 +1,348 @@
+﻿1
+00:00:00,390 --> 00:00:05,860
+Sebelum kita masuk ke aturan rantai, mari mengingat apa itu turunan dari fungsi invers trigonometri
+
+2
+00:00:05,940 --> 00:00:08,780
+Bentuk apa yang pertama kali kita pelajari?
+
+3
+00:00:09,670 --> 00:00:11,100
+Sin, kan?
+
+4
+00:00:12,000 --> 00:00:15,580
+Turunan dari invers sin adalah?
+
+5
+00:00:20,240 --> 00:00:23,900
+Kalian akan mendapatkan 1 per sebuah bentuk akar
+
+6
+00:00:23,960 --> 00:00:25,820
+Ini adalah bentuk yang positif
+
+7
+00:00:25,900 --> 00:00:32,040
+Artinya invers cos adalah bentuk yang sama namun dengan bentuk yang negatif
+
+8
+00:00:32,550 --> 00:00:34,620
+Bagaimana cara mengingat mana yang positif dan mana yang negatif?
+
+9
+00:00:36,880 --> 00:00:40,720
+Tidak boleh menjawab dengan, "Aku mengingatnya karena ingatanku bagus"
+
+10
+00:00:44,480 --> 00:00:46,420
+Oh bagus, aku tidak memikirkan cara itu
+
+11
+00:00:46,460 --> 00:00:50,840
+Jadi kamu berpikir bahwa jika kamu menurunkan cos maka kamu akan mendapatkan -sin, itu benar
+
+12
+00:00:51,030 --> 00:00:56,460
+Saya lebih memilih untuk menggambarkan grafik di kepalaku, karena kalian juga perlu mengetahui grafiknya
+
+13
+00:00:56,550 --> 00:00:57,620
+Ini adalah sin
+
+14
+00:00:57,620 --> 00:00:58,700
+Dan ini adalah cos
+
+15
+00:00:58,760 --> 00:01:02,940
+Jadi grafiknya ada yang naik dan turun, inilah yang membuat kalian mendapatkan nilai plus atau minus
+
+16
+00:01:03,190 --> 00:01:08,940
+Untuk melengkapkan ini, apa turunan dari invers tan?
+
+17
+00:01:11,600 --> 00:01:22,700
+Benar, tanpa akar kuadrat dan bentuknya positif karena menggunakan identitas sec² + 1 atau tan² + 1 = sec²
+
+18
+00:01:22,880 --> 00:01:26,040
+Baik, kalian tau bagaimanca cara menurunkan invers trigonometri
+
+19
+00:01:26,080 --> 00:01:27,860
+Kalian juga tahu bagaimana cara menggunakan aturan rantai
+
+20
+00:01:27,940 --> 00:01:30,800
+Jadi saya pikir saya tidak perlu mengajarkan kalian materi ini
+
+21
+00:01:30,800 --> 00:01:40,680
+Tapi dari pengalaman saya, terdapat banyak jebakan dan bentuk yang tidak biasa yang akan membuatmu bingung
+
+22
+00:01:40,720 --> 00:01:42,740
+Mari kita mulai dari yang mudah
+
+23
+00:01:42,790 --> 00:01:49,160
+Apakah turunan dari invers sin jika kita ubah fungsi dalamnya menjadi x²
+
+24
+00:01:51,600 --> 00:01:58,300
+Jika kalian sudah merasa familiar dengan aturan rantai, kalian mungkin akan mengerjakannya secara langsung tanpa butuh melakukan substitusi
+
+25
+00:01:58,520 --> 00:02:03,760
+Tapi untuk jaga-jaga, mari kita buat fungsi baru
+
+26
+00:02:03,800 --> 00:02:05,680
+Maka yang mana yang akan kamu pilih?
+
+27
+00:02:06,800 --> 00:02:08,980
+Hanya bagian x², kan?
+
+28
+00:02:09,110 --> 00:02:12,740
+Disini kamu akan mendapatkan ini sebagai hasil turunannya
+
+29
+00:02:12,870 --> 00:02:18,800
+Saya bisa menulis ulang ini menjadi d/dx sin^-1 u
+
+30
+00:02:23,200 --> 00:02:24,340
+Jadi apa yang harus saya lakukan sekarang?
+
+31
+00:02:25,360 --> 00:02:26,940
+Apa yang harus saya lakukan sekarang?
+
+32
+00:02:32,230 --> 00:02:35,740
+Saya akan mengerjakan ini, dimana bentuknya akan sama dengan ini
+
+33
+00:02:35,760 --> 00:02:37,200
+Maaf, saya harusnya mengganti ini menjadi d/du
+
+34
+00:02:38,400 --> 00:02:42,000
+Jadi saya akan menurunkan ini
+
+35
+00:02:42,800 --> 00:02:48,320
+Tapi saya akan mengalikannya dengan du/dx agar du nya bisa hilang
+
+36
+00:02:48,360 --> 00:02:51,640
+Kita tulis nilai ini, yaitu 2x
+
+37
+00:02:54,480 --> 00:02:56,100
+Saya hanya perlu untuk mensubstitusikan kembali
+
+38
+00:02:56,120 --> 00:02:57,820
+Saya akan meletakkan 2x di bagian atas
+
+39
+00:02:57,840 --> 00:03:01,360
+Dan bagian bawahnya seperti ini
+
+40
+00:03:01,680 --> 00:03:03,360
+Tidak ada masalah
+
+41
+00:03:03,400 --> 00:03:07,280
+Sekarang, coba jawab kira-kira di bagian mana kebanyakan orang akan melakukan kesalahan?
+
+42
+00:03:07,340 --> 00:03:10,800
+Kesalahan yang paling umum untuk dilakukan
+
+43
+00:03:10,870 --> 00:03:12,760
+Disini?
+
+44
+00:03:12,870 --> 00:03:15,540
+Tunggu sebentar, biarkan temanmu menjawab
+
+45
+00:03:19,040 --> 00:03:21,400
+Orang-orang akan lupa untuk menurunkan ini?
+
+46
+00:03:21,480 --> 00:03:23,260
+Oke, itu juga termasuk kesalahan
+
+47
+00:03:23,320 --> 00:03:24,860
+Terus, apa yang tadi kamu bilang?
+
+48
+00:03:24,940 --> 00:03:27,500
+Siswa: Lupa untuk mempangkatkan fungsi yang berada di bawah akar
+
+49
+00:03:27,560 --> 00:03:31,360
+Jadi kita punya dua hal yang harus diperhatikan karena keduanya sama-sama penting
+
+50
+00:03:31,440 --> 00:03:37,080
+Kebanyakan orang, jika mereka tidak menuliskan secara penuh aturan rantainya dengan u dan x
+
+51
+00:03:37,200 --> 00:03:41,740
+Mereka akan langsung melangkahi dari sini ke sini tapi mereka lupa untuk mempangkatkannya
+
+52
+00:03:41,820 --> 00:03:42,860
+Ini adalah kesalahan yang sangat umum
+
+53
+00:03:42,920 --> 00:03:47,720
+Jadi kalian tidak akan berakhir dengan x^4 dan akan berakhir dengan x² yang sebelumnya sudah kalian punya
+
+54
+00:03:48,080 --> 00:03:49,840
+Mari kita lanjutkan ke soal berikutnya
+
+55
+00:03:50,150 --> 00:03:56,140
+Bagaimana dengan turunan dari invers tan √x
+
+56
+00:03:58,230 --> 00:04:03,080
+Mari kita lihat apakah kita bisa mengerjakan ini tanpa menuliskan bentuk keseluruhannya
+
+57
+00:04:03,200 --> 00:04:05,520
+Apa yang akan kamu tuliskan pertama?
+
+58
+00:04:09,840 --> 00:04:14,080
+Apakah kita harus kerjakan bagian dalam atau luar? Itu tidak terlalu penting mana yang akan kamu kerjakan duluan
+
+59
+00:04:14,400 --> 00:04:15,520
+Mari kita kerjakan bagian dalamnya
+
+60
+00:04:15,580 --> 00:04:18,260
+Apa turunan dari akar x?
+
+61
+00:04:18,320 --> 00:04:20,479
+x pangkat 1/2?
+
+62
+00:04:22,960 --> 00:04:25,040
+Apakah saya harus menuliskannya disini?
+
+63
+00:04:25,040 --> 00:04:31,640
+Turunan dari x^1/2, keluarkan pangkatnya dan pangkatnya dikurangi 1
+
+64
+00:04:31,680 --> 00:04:34,700
+Jadi ini adalah 1/(2√x)
+
+65
+00:04:36,080 --> 00:04:38,720
+Oke, sekarang apa?
+
+66
+00:04:41,020 --> 00:04:43,360
+1 per-
+
+67
+00:04:44,240 --> 00:04:48,260
+Ini adalah apa yang saya punya tapi fungsinya bukan x melainkan √x
+
+68
+00:04:48,280 --> 00:04:51,820
+Jadi ini akan menjadi 1 + x
+
+69
+00:04:51,980 --> 00:04:57,060
+Saya bisa menyatukannya ke dalam satu pecahan
+
+70
+00:04:57,280 --> 00:04:59,240
+Kita selesai
+
+71
+00:04:59,260 --> 00:05:00,160
+Sekarang
+
+72
+00:05:00,180 --> 00:05:08,500
+Ini sederhana, tapi saya ingin menggunakan ide ini dan mengerjakan soal sebelumnya untuk melihat apakah ini bisa menjadi petunjuk
+
+73
+00:05:08,520 --> 00:05:13,780
+Jadi saya ingin kamu mengingat kembali ketika kita mempelajari grafik
+
+74
+00:05:13,840 --> 00:05:19,100
+Kita lihat fungsi ini, invers sin dari sin x
+
+75
+00:05:19,140 --> 00:05:24,500
+Ingat bentuk ini? Sekarang bayangkan saja bentuk ini di dalam kepalamu
+
+76
+00:05:24,540 --> 00:05:27,680
+Fungsi dalamnya adalah bentuk yang berkala
+
+77
+00:05:27,740 --> 00:05:34,380
+Maka jika kamu mengambil seluruhnya kamu akan berakhir di versi berkala yang tidak dibatasi dalam domain tertentu
+
+78
+00:05:34,460 --> 00:05:36,860
+Jadi, apa yang akan menjadi turunan dari ini?
+
+79
+00:05:38,160 --> 00:05:41,700
+Saya akan memberikan kalian beberapa menit untuk memikirkan jawabannya
+
+80
+00:05:41,740 --> 00:05:45,780
+Saya tahu kita bisa langsung mengatakan ini sama dengan x untuk domain tertentu
+
+81
+00:05:45,800 --> 00:05:48,540
+Lalu kita bisa menurunkannya dan kita akan langsung tau hasil turunannya, kan?
+
+82
+00:05:48,560 --> 00:05:52,380
+Tapi saya ingin kita menganggapnya berasal dari sudut pandang matematika
+
+83
+00:05:52,420 --> 00:05:55,420
+Dimana kita bisa menyelesaikan satu soal dengan melihatnya dari dua sudut pandang yang berbeda
+
+84
+00:05:55,520 --> 00:05:59,720
+Maka kamu akan mendapatkan pandangan baru dari pemahaman kalian sebelumnya
+
+85
+00:05:59,760 --> 00:06:02,820
+Atau jika kamu mengetahui soalnya tapi tidak tahu bagaimana soal itu bekerja
+
+86
+00:06:02,900 --> 00:06:05,680
+Saya akan memberikanmu beberapa menit untuk menurunkan itu
+
+87
+00:06:05,740 --> 00:06:09,800
+Saya akan memberi petunjuk bahwa ada trik yang terlibat dan kita bisa mengetahuinya nanti
+

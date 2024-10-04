@@ -1,0 +1,320 @@
+﻿1
+00:00:00,240 --> 00:00:08,860
+Alasan saya membuat tabel ini adalah karena kita mengerjakan turunan, tapi turunan berhubungan dengan integral
+
+2
+00:00:08,940 --> 00:00:12,220
+Ini adalah hasil yang sering digunakan
+
+3
+00:00:12,400 --> 00:00:15,620
+Tapi kalian akan segera tahu kalau ini akan membingungkan, jadi saya akan meletakkannya ke dalam tabel
+
+4
+00:00:15,700 --> 00:00:19,140
+Anggap saja kita punya invers sin, invers cos, dan tan invers. Mari kita tuliskan.
+
+5
+00:00:19,180 --> 00:00:22,300
+Turunan dari invers sin
+
+6
+00:00:22,340 --> 00:00:23,840
+Ini akan sama dengan apa?
+
+7
+00:00:24,260 --> 00:00:28,640
+Mari kita mengingat kembali, ini adalah bentuk positif karena grafiknya meningkat
+
+8
+00:00:28,800 --> 00:00:33,100
+Inilah mengapa bentuknya adalah akar kuadrat
+
+9
+00:00:33,200 --> 00:00:40,660
+Invers cos akan memiliki nilai yang sama namun dengan bentuk negatif karena grafiknya menurun
+
+10
+00:00:41,840 --> 00:00:43,240
+Jadi, nilainya akan menjadi -1
+
+11
+00:00:45,440 --> 00:00:48,120
+Lalu, untuk invers tan
+
+12
+00:00:49,760 --> 00:00:55,660
+Karena turunan dari tan adalah sec kuadrat, maka kita tidak perlu menarik akar
+
+13
+00:00:55,780 --> 00:01:01,600
+Jadi, ini mengapa bentuknya akan menjadi 1/1+x², tanpa ada bentuk akar
+
+14
+00:01:01,760 --> 00:01:04,580
+Bentuk integral apa yang akan kita dapatkan?
+
+15
+00:01:04,620 --> 00:01:07,320
+Saya akan mulai dari sisi kanan ke sisi kiri
+
+16
+00:01:07,680 --> 00:01:14,680
+Jadi, integral dari 1/1-x² akan diturunkan terhadap x
+
+17
+00:01:14,780 --> 00:01:19,160
+Akan sama dengan invers sin x ditambah dengan konstanta
+
+18
+00:01:19,220 --> 00:01:24,200
+Ini sangat menarik, karena jika kalian melihat soal ini
+
+19
+00:01:24,260 --> 00:01:29,400
+Tiga minggu lalu ketika kita baru mulai mempelajari integral
+
+20
+00:01:29,500 --> 00:01:37,460
+Mungkin kamu akan menebak ini bisa diselesaikan dengan menggunakan aturan rantai atau fungsi logaritma
+
+21
+00:01:37,520 --> 00:01:42,800
+Atau mungkin kalian berpikir untuk mengeluarkannya dari penyebutnya agar bentuknya menjadi bentuk polinomial
+
+22
+00:01:43,110 --> 00:01:47,620
+Tapi bukan itu, karena itu akan membuatmu berakhir pada invers trigonometri yang agak aneh
+
+23
+00:01:47,750 --> 00:01:51,520
+Untuk sekarang saya akan melewati baris ini, kamu akan mengerti apa alasannya
+
+24
+00:01:52,240 --> 00:01:53,620
+Mari kita kerjakan yang invers tan
+
+25
+00:01:53,680 --> 00:01:58,740
+Jika saya mengintegralkan 1/1+x² yang diturunkan terhadap x
+
+26
+00:01:58,790 --> 00:02:01,100
+Maka saya akan mendapatkan invers tan
+
+27
+00:02:05,680 --> 00:02:08,860
+Ini akan baik-baik saja, mari kita kembali ke bagian tengah
+
+28
+00:02:09,030 --> 00:02:17,940
+Saya bisa menulis integral dari -1/1-x² dan seterusnya akan sama dengan invers cos + C
+
+29
+00:02:18,020 --> 00:02:26,260
+Tapi yang saya perhatikan, integral yang terbentuk dari ini akan sangat mirip dengan ini, apakah ada perbedaannya?
+
+30
+00:02:27,040 --> 00:02:31,740
+Perbedaannya hanyalah koefisien konstanta
+
+31
+00:02:31,800 --> 00:02:37,320
+Jadi, dibandingkan dengan hanya menulis integral dengan tanda minus di depannya
+
+32
+00:02:37,590 --> 00:02:42,360
+Saya akan mengambil fungsi dari sini, integral yang sama dari baris pertama
+
+33
+00:02:43,760 --> 00:02:49,760
+Lalu jika saya ingin mengintegralkan ini, saya tidak perlu mendapatkan invers sin
+
+34
+00:02:49,820 --> 00:02:58,360
+Jika saya ingin, jika soalnya memudahkan saya untuk melakukan itu, maka saya bisa mendapatkan minus invers cos ditambah dengan konstanta
+
+35
+00:02:58,560 --> 00:03:01,519
+Oke, kamu bisa melihat apa yang sedang terjadi disini
+
+36
+00:03:01,510 --> 00:03:05,260
+Invers sin dan minus invers cos
+
+37
+00:03:05,920 --> 00:03:08,000
+Ini adalah invers sin
+
+38
+00:03:08,060 --> 00:03:12,240
+Dan ini adalah minus invers cos
+
+39
+00:03:13,280 --> 00:03:15,380
+Seperti apa bentuk dari minus invers cos?
+
+40
+00:03:15,760 --> 00:03:18,520
+Ini akan berada di bawah, jadi letaknya akan ada disini
+
+41
+00:03:19,040 --> 00:03:22,360
+Apa perbedaan dari kedua ini? Jawabannya adalah..
+
+42
+00:03:23,200 --> 00:03:24,520
+Sebuah konstanta
+
+43
+00:03:25,120 --> 00:03:32,220
+Ini hanya bergerak ke atas atau bawah, untuk kasus ini jika konstantanya adalah 0 maka hasilnya akan menjadi minus 1 kuadrat
+
+44
+00:03:32,280 --> 00:03:34,840
+Jadi ini akan menjadi aneh bagi kita, kan?
+
+45
+00:03:34,900 --> 00:03:41,580
+Kalian bisa mengintegralkan satu bentuk namun akan berakhir pada dua pilihan yang sama, tergantung pada bagaimana pertanyaannya
+
+46
+00:03:41,720 --> 00:03:43,120
+Perbedaannya adalah konstantanya
+
+47
+00:03:44,310 --> 00:03:46,580
+Sekarang, mari kita lanjut ke bagian yang menggunakan aturan rantai
+
+48
+00:03:46,680 --> 00:03:54,560
+Jika saya menuliskan integral, saya akan mengambil akar kuadrat ini dengan menyederhanakannya
+
+49
+00:03:54,640 --> 00:03:59,580
+Jadi saya akan punya akar dari a² - x²
+
+50
+00:03:59,680 --> 00:04:03,960
+Ini akan sama dengan apa yang telah saya turunkan sebelumnya
+
+51
+00:04:04,000 --> 00:04:07,540
+Yaitu x/a + C
+
+52
+00:04:07,590 --> 00:04:10,840
+Sekarang, sama dengan yang telah saya lakukan di kolom selanjutnya
+
+53
+00:04:10,870 --> 00:04:16,300
+Saya tidak harus menuliskan invers sin, saya bisa menuliskan cos invers jika saya mau
+
+54
+00:04:18,070 --> 00:04:20,180
+Jika ini bisa lebih memudahkanku
+
+55
+00:04:20,880 --> 00:04:22,220
+Untuk bagian terakhir
+
+56
+00:04:22,630 --> 00:04:27,380
+Jika saya punya 1/a² + x² yang diturunkan terhadap x
+
+57
+00:04:27,900 --> 00:04:34,920
+Ini akan menjadi 1/2 invers tan (x/a) + C
+
+58
+00:04:34,960 --> 00:04:42,580
+Jika kamu seperti saya, kamu akan berpikir bahwa ini lebih buruk daripada perluasan trigonometri
+
+59
+00:04:42,600 --> 00:04:44,540
+Apabila kamu ingat dengan perluasan trigonometri yang bisa ditandai dengan warna
+
+60
+00:04:44,560 --> 00:04:49,540
+Kamu akan berpikir bahwa ini semua terlihat sama, jadi bagaimana cara saya bisa mengingat dan membedakannya?
+
+61
+00:04:49,600 --> 00:04:55,560
+Jawabannya adalah kamu tidak perlu, karena kamu akan mendapatkan tabel untuk integral standar
+
+62
+00:04:55,600 --> 00:04:59,480
+Kalian akan mendapatkan hasil ini, ini merupakan poin yang penting
+
+63
+00:04:59,640 --> 00:05:05,580
+Kebanyakan orang bisa mengingat bagian turunan, tapi mulai bingung ketika masuk ke bagian integral
+
+64
+00:05:05,640 --> 00:05:08,380
+Alasannya adalah karena ini terlihat sama
+
+65
+00:05:09,030 --> 00:05:10,420
+Jadi kamu akan mendapatkan ini
+
+66
+00:05:10,460 --> 00:05:15,820
+Ini akan berada di bagian bawah karena sebelumnya ada integral lain yang telah dipelajari
+
+67
+00:05:15,910 --> 00:05:24,400
+Kamu juga bisa lihat ada bentuk yang menggunakan logaritma di bagian paling bawah, tapi kita akan mempelajarinya di bab 8 setelah ulangan nanti
+
+68
+00:05:24,440 --> 00:05:30,080
+Kalian bisa mencatatnya tapi tidak perlu takut jika kalian belum mengerti karena kita akan mempelajarinya nanti
+
+69
+00:05:30,960 --> 00:05:32,180
+Saya ingin bertanya
+
+70
+00:05:32,560 --> 00:05:34,320
+Jika kamu memiliki tabel untuk integral standar
+
+71
+00:05:34,470 --> 00:05:37,880
+Apakah kalian tidak perlu untuk mengetahui semua ini?
+
+72
+00:05:40,320 --> 00:05:41,540
+Untuk menjawabnya
+
+73
+00:05:42,400 --> 00:05:48,200
+Jika kalian perlu melihat tabel terus-menerus untuk menyelesaikan satu soal
+
+74
+00:05:48,260 --> 00:05:52,300
+Pertama, kamu mungkin akan mengalami kesalahan karena kamu tidak benar-benar memahaminya
+
+75
+00:05:52,360 --> 00:05:59,820
+Kedua, jika kamu perlu melihat tabel saat sedang buru-buru untuk mengerjakan ujianmu
+
+76
+00:06:00,300 --> 00:06:04,520
+Kalian tidak akan punya waktu untuk itu, jadi kalian masih perlu mengetahui ini
+
+77
+00:06:04,600 --> 00:06:09,940
+Tapi kalian bisa melihat ini untuk jaga-jaga, sama seperti kalkulator pada materi perluasan kemarin
+
+78
+00:06:10,020 --> 00:06:11,360
+Kalian bisa menggunakannya
+
+79
+00:06:11,600 --> 00:06:15,380
+Apakah kamu harus menyelesaikan soalnya? Mungkin saja tidak, tapi kamu bisa menggunakan ini untuk jaga-jaga
+
+80
+00:06:15,400 --> 00:06:18,280
+Apakah kamu mengerti dengan apa yang saya katakan?
+

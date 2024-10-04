@@ -1,0 +1,592 @@
+﻿1
+00:00:00,719 --> 00:00:02,720
+Jadi sekarang kita punya beberapa bukti di depan
+
+2
+00:00:02,720 --> 00:00:05,839
+kita, mari kita tarik beberapa kesimpulan
+
+3
+00:00:05,839 --> 00:00:08,240
+Kita sudah membahas tentang
+
+4
+00:00:08,240 --> 00:00:10,320
+Bagaimana ada pertukaran domain dan
+
+5
+00:00:10,320 --> 00:00:12,000
+rentang, dimana kamu
+
+6
+00:00:12,000 --> 00:00:14,240
+Memiliki ini, maksud saya ini agak
+
+7
+00:00:14,240 --> 00:00:16,000
+membosankan bukan? Untuk domain dan rentang,
+
+8
+00:00:16,000 --> 00:00:18,400
+keduanya merupakan nilai real, jadi
+
+9
+00:00:18,400 --> 00:00:20,080
+domain dan rentang untuk nilai aslinya
+
+10
+00:00:20,080 --> 00:00:23,520
+semuanya adalah nilai real. Saya harus menulis bahwa
+
+11
+00:00:24,240 --> 00:00:25,760
+domain
+
+12
+00:00:25,760 --> 00:00:30,560
+x adalah semua nilai real
+
+13
+00:00:30,560 --> 00:00:33,280
+Rentang y adalah semua nilai nyata, jadi karena
+
+14
+00:00:33,280 --> 00:00:34,320
+Itu berada di mana-mana
+
+15
+00:00:34,320 --> 00:00:38,239
+inversnya memiliki rentang domain yang sama
+
+16
+00:00:42,879 --> 00:00:44,879
+oke apa yang terjadi?
+
+17
+00:00:44,879 --> 00:00:47,120
+disini
+
+18
+00:00:47,120 --> 00:00:48,320
+anda sudah diberikan
+
+19
+00:00:48,320 --> 00:00:50,719
+batasan ini kan, jadi itu
+
+20
+00:00:50,719 --> 00:00:53,600
+adalah batasan domain disini, yang akan menjadi batasan rentang
+
+21
+00:00:55,039 --> 00:00:56,879
+berapa rentang
+
+22
+00:00:56,879 --> 00:00:58,480
+fungsi aslinya? berapa rentang aslinya?
+
+23
+00:01:03,920 --> 00:01:06,000
+rentangnya naik turun, apakah tidak apa-apa?
+
+24
+00:01:06,000 --> 00:01:07,920
+ini adalah fungsi asli saya, jadi itu akan
+
+25
+00:01:07,920 --> 00:01:10,320
+lebih besar dari atau sama dengan negatif satu,
+
+26
+00:01:10,320 --> 00:01:12,000
+itu termasuk batasnya, kan?
+
+27
+00:01:12,000 --> 00:01:14,640
+jadi untuk rentang di sini, y lebih besar atau
+
+28
+00:01:14,640 --> 00:01:16,479
+sama dengan negatif satu, yang tentu saja
+
+29
+00:01:16,479 --> 00:01:18,640
+sesuai dengan domain dari
+
+30
+00:01:18,640 --> 00:01:21,600
+invers Anda kan, domain di sini adalah x yang
+
+31
+00:01:21,600 --> 00:01:23,439
+lebih besar dari atau sama dengan minus satu
+
+32
+00:01:23,439 --> 00:01:24,960
+ini tentunya masuk akal
+
+33
+00:01:24,960 --> 00:01:25,759
+jika kamu melihat fungsi akar kuadrat
+
+34
+00:01:25,759 --> 00:01:28,960
+sejauh ini masih bagus, oke untuk
+
+35
+00:01:28,960 --> 00:01:30,240
+terakhir kalinya, mari kita lihat
+
+36
+00:01:30,240 --> 00:01:31,759
+bagian ini
+
+37
+00:01:31,759 --> 00:01:33,920
+domain asli di sini
+
+38
+00:01:33,920 --> 00:01:36,470
+x lebih besar dari atau sama dengan negatif satu
+
+39
+00:01:36,479 --> 00:01:38,400
+jadi  mari kita lihat di sini, sebenarnya apakah
+
+40
+00:01:38,400 --> 00:01:40,640
+yang akan sama dengan ini?
+
+41
+00:01:40,640 --> 00:01:42,159
+apakah mereka mengecualikan batasnya?
+
+42
+00:01:42,159 --> 00:01:43,200
+tentu saja mereka mengecualikannya karena ada
+
+43
+00:01:43,200 --> 00:01:45,439
+asimtotnya, jadi kita harus
+
+44
+00:01:45,439 --> 00:01:48,720
+mengecualikannya pada kisaran invers y dimana
+
+45
+00:01:48,720 --> 00:01:52,320
+y lebih besar dari yang negatif satu
+
+46
+00:01:52,320 --> 00:01:53,600
+dan
+
+47
+00:01:53,600 --> 00:01:55,360
+rentang dalam domain ini
+
+48
+00:01:55,360 --> 00:01:57,119
+sebaliknya tidak begitu menarik
+
+49
+00:01:57,119 --> 00:01:59,119
+karena sekali lagi mereka akan berjalan kemana-mana
+
+50
+00:01:59,119 --> 00:02:00,479
+jadi, inilah properti geometris pertama saya yang
+
+51
+00:02:00,479 --> 00:02:01,840
+ingin saya ketahui
+
+52
+00:02:01,840 --> 00:02:04,079
+properti geometris yang saya cari
+
+53
+00:02:04,079 --> 00:02:06,399
+pertukaran domain dan rentang terdengar
+
+54
+00:02:06,399 --> 00:02:08,639
+sederhana bukan? tapi itu sangat
+
+55
+00:02:08,639 --> 00:02:10,160
+mudah untuk dilewatkan, itu sangat membingungkan
+
+56
+00:02:10,160 --> 00:02:11,760
+terkadang Anda akan bingung antara
+
+57
+00:02:11,760 --> 00:02:13,360
+domain ini dan domain ini dan seterusnya
+
+58
+00:02:14,480 --> 00:02:15,840
+sekarang hal lain yang ingin saya
+
+59
+00:02:15,840 --> 00:02:18,239
+tunjukkan kepada Anda, dimana Anda dapat melakukannya dengan sangat baik
+
+60
+00:02:18,239 --> 00:02:20,080
+tetapi saya tidak dapat melakukan banyak hal karena
+
+61
+00:02:20,080 --> 00:02:22,400
+papan tulis saya tertempel ke dinding, jadi saya
+
+62
+00:02:22,400 --> 00:02:24,640
+akan menggambar yang baru, kamu bisa
+
+63
+00:02:24,640 --> 00:02:25,440
+melihat
+
+64
+00:02:25,440 --> 00:02:27,040
+ada pola di sini, kan
+
+65
+00:02:27,040 --> 00:02:29,040
+secara visual kamu bisa melihat apa yang terjadi
+
+66
+00:02:30,879 --> 00:02:33,200
+pada bentuk-bentuk ini ketika kamu membandingkan
+
+67
+00:02:33,200 --> 00:02:39,280
+fungsi dan fungsi invers
+
+68
+00:02:39,280 --> 00:02:40,560
+bagaimana Anda
+
+69
+00:02:40,560 --> 00:02:43,120
+mengartikulasikan cara mengungkapkan apa
+
+70
+00:02:43,120 --> 00:02:45,599
+hubungan visual di antara keduanya?
+
+71
+00:02:45,599 --> 00:02:49,000
+mungkin akan sedikit lebih mudah jika Anda membalikkan kepalamu, karena
+
+72
+00:02:49,200 --> 00:02:51,200
+itu adalah refleksi, refleksi seperti apakah ini?
+
+73
+00:02:53,920 --> 00:02:55,040
+karena seperti yang Anda tahu, kita dapat merefleksikan dalam
+
+74
+00:02:55,040 --> 00:02:56,800
+banyak cara yang berbeda, itu adalah refleksi
+
+75
+00:02:56,800 --> 00:03:00,080
+melintasi garis tertentu di kanan yaitu
+
+76
+00:03:00,080 --> 00:03:02,159
+y sama dengan x, inilah sebabnya saya melihat
+
+77
+00:03:02,159 --> 00:03:04,400
+koordinat ini di sini, saya akan meminta Anda untuk mencari tahu
+
+78
+00:03:04,400 --> 00:03:06,000
+koordinat apa ini. Anda akan
+
+79
+00:03:06,000 --> 00:03:08,000
+menemukan
+
+80
+00:03:08,000 --> 00:03:09,680
+kedua koordinat x dan y itu akan sama
+
+81
+00:03:10,480 --> 00:03:12,640
+dan tentu saja Anda bisa lihat disini, nah itu
+
+82
+00:03:12,640 --> 00:03:14,400
+adalah asal usulnya, ini agak membosankan
+
+83
+00:03:14,400 --> 00:03:16,239
+tapi kalau kamu menggambar y sama dengan x, dimana
+
+84
+00:03:16,239 --> 00:03:18,400
+kamu harus melakukannya sekarang
+
+85
+00:03:18,400 --> 00:03:21,599
+maka kamu akan mendapatkan garis seperti ini
+
+86
+00:03:22,400 --> 00:03:24,560
+jadi jika kamu memutar kepalamu pada 45 derajat
+
+87
+00:03:24,560 --> 00:03:26,799
+karena itulah sudutnya
+
+88
+00:03:26,799 --> 00:03:29,200
+dimana y sama dengan x, Anda
+
+89
+00:03:29,200 --> 00:03:32,640
+akan selalu mendapatkan
+
+90
+00:03:32,640 --> 00:03:35,519
+simetri ini
+
+91
+00:03:35,599 --> 00:03:37,760
+omong-omong, beginilah cara saya tahu
+
+92
+00:03:37,760 --> 00:03:39,040
+bahwa saya hanya akan mendapatkan satu
+
+93
+00:03:39,040 --> 00:03:42,560
+perpotongan di sini
+
+94
+00:03:45,200 --> 00:03:46,879
+oke sekarang
+
+95
+00:03:46,879 --> 00:03:48,720
+apa yang sebenarnya saya sarankan agar
+
+96
+00:03:48,720 --> 00:03:50,000
+Anda tidak perlu memutar kepala
+
+97
+00:03:50,000 --> 00:03:52,400
+lihat ini, kamu benar-benar dapat memegang kertasmu
+
+98
+00:03:52,400 --> 00:03:53,439
+dan
+
+99
+00:03:53,439 --> 00:03:55,599
+membaliknya, jadi sekarang kertas milikmu sudah
+
+100
+00:03:55,599 --> 00:03:57,280
+seperti ini, tahukah kalian bagaimana cara kamu
+
+101
+00:03:57,280 --> 00:03:59,040
+membuat refleksi ketika kamu memiliki
+
+102
+00:03:59,040 --> 00:04:01,040
+bentuknya, pikirkan kembali ketika kamu melakukan
+
+103
+00:04:01,040 --> 00:04:02,959
+transformasi, translasi, dan
+
+104
+00:04:02,959 --> 00:04:05,120
+refleksi dan rotasi, Anda
+
+105
+00:04:05,120 --> 00:04:07,040
+akan memerlukan penggaris dan Anda akan
+
+106
+00:04:07,040 --> 00:04:08,480
+mengatakan bahwa ini adalah garis yang saya
+
+107
+00:04:08,480 --> 00:04:10,640
+refleksikan, jadi Anda mengambil
+
+108
+00:04:10,640 --> 00:04:12,640
+titik
+
+109
+00:04:12,640 --> 00:04:14,720
+seperti ini, dan Anda bisa mengambil penggaris anda
+
+110
+00:04:15,760 --> 00:04:17,918
+dan Anda berkata oke aku akan menuju ke
+
+111
+00:04:17,918 --> 00:04:19,759
+garis refleksi dan aku akan
+
+112
+00:04:19,759 --> 00:04:22,079
+membentuk garis tegak lurus, jadi coba aku lihat
+
+113
+00:04:22,079 --> 00:04:25,840
+mari kita lihat apakah aku bisa melakukan ini
+
+114
+00:04:25,840 --> 00:04:27,919
+kamu membentuk garis seperti itu
+
+115
+00:04:27,919 --> 00:04:30,400
+dan kamu bilang seberapa jauh titik ini
+
+116
+00:04:30,400 --> 00:04:32,400
+dapat saya refleksikan, seberapa jauh
+
+117
+00:04:32,400 --> 00:04:34,400
+jaraknya dari garis yang saya pantulkan
+
+118
+00:04:34,400 --> 00:04:36,080
+dan itu mungkin sekitar
+
+119
+00:04:36,080 --> 00:04:37,840
+tiga sentimeter, jadi Anda membuat tiga
+
+120
+00:04:37,840 --> 00:04:39,280
+sentimeter dengan cara ini, dan Anda membuat tiga
+
+121
+00:04:39,280 --> 00:04:40,720
+sentimeter ke arah lain, Anda dapat menggambar
+
+122
+00:04:40,720 --> 00:04:43,040
+secara lancip dan pada akhirnya
+
+123
+00:04:43,040 --> 00:04:44,639
+mari kita lihat
+
+124
+00:04:44,639 --> 00:04:45,919
+sebaiknya aku memasang papan klip, aku tidak ingin
+
+125
+00:04:45,919 --> 00:04:47,520
+menggunakan spidol ini di papan tulis secara
+
+126
+00:04:47,520 --> 00:04:49,440
+tidak sengaja
+
+127
+00:04:49,440 --> 00:04:51,199
+kamu akan melakukan hal seperti ini, ayo kita
+
+128
+00:04:51,199 --> 00:04:52,720
+coba, kamu harus
+
+129
+00:04:52,720 --> 00:04:54,080
+mencobanya juga
+
+130
+00:04:54,080 --> 00:04:55,520
+ini dia, saya sudah memutarnya pada 45 derajat
+
+131
+00:04:55,520 --> 00:05:00,400
+jadi ini muncul di sini
+
+132
+00:05:00,400 --> 00:05:02,160
+sejauh ini, jadi di sanalah
+
+133
+00:05:02,160 --> 00:05:04,080
+titik pantulku
+
+134
+00:05:04,080 --> 00:05:07,759
+ini muncul di sini
+
+135
+00:05:08,000 --> 00:05:09,600
+titik pantulku akan
+
+136
+00:05:09,600 --> 00:05:12,000
+ada titik pantulan di atas sana
+
+137
+00:05:12,000 --> 00:05:13,600
+aku dapat menemukan titik pantulan lain di
+
+138
+00:05:13,600 --> 00:05:15,759
+sini, dimana itu adalah jarak
+
+139
+00:05:15,759 --> 00:05:17,840
+oke dan kemudian kamu menghubungkan titik-titik tersebut
+
+140
+00:05:17,840 --> 00:05:20,479
+sehingga kamu mendapatkan ini
+
+141
+00:05:21,680 --> 00:05:23,039
+ini akan cocok dengan apa yang telah kamu dapatkan
+
+142
+00:05:23,039 --> 00:05:24,960
+di sana kamu mendapatkan ide bahwa kamu benar-benar dapat
+
+143
+00:05:24,960 --> 00:05:26,479
+melihatnya kamu benar-benar dapat melihatnya,
+
+144
+00:05:26,479 --> 00:05:28,240
+kamu dapat melihat pantulan
+
+145
+00:05:28,240 --> 00:05:29,759
+karena jaraknya dan Anda
+
+146
+00:05:29,759 --> 00:05:31,199
+harus melakukannya di sini, supaya Anda dapat
+
+147
+00:05:31,199 --> 00:05:32,880
+mengetahui sendiri apa yang sedang
+
+148
+00:05:32,880 --> 00:05:36,479
+terjadi
+

@@ -1,0 +1,460 @@
+﻿1
+00:00:00,960 --> 00:00:02,720
+Oke
+
+2
+00:00:02,720 --> 00:00:04,400
+Kamu benar
+
+3
+00:00:04,400 --> 00:00:08,160
+Ini kelihatannya sangat sulit, tapi jika kamu bersabar maka kamu akan baik-baik saja
+
+4
+00:00:08,160 --> 00:00:09,920
+Semua ini dalam bentuk invers tan
+
+5
+00:00:09,920 --> 00:00:13,960
+Jadi saya tidak akan menggunakan ekspansi (perluasan) dari sin(a + b) yang sudah digunakan sebelumnya
+
+6
+00:00:14,020 --> 00:00:16,760
+Sekarang saya membutuhkan ekspansi (perluasan) dari tan
+
+7
+00:00:16,840 --> 00:00:18,760
+Jadi mari kita sejenak mengingat
+
+8
+00:00:18,840 --> 00:00:21,780
+Apa itu tan(A+B)
+
+9
+00:00:21,820 --> 00:00:26,420
+Bagaimana perluasan dari bentuk tersebut? Bentuknya adalah bentuk pecahan, ada yang ingat?
+
+10
+00:00:27,270 --> 00:00:30,080
+Ya, kamu benar itu adalah tan
+
+11
+00:00:32,000 --> 00:00:34,640
+Tan A + Tan B
+
+12
+00:00:34,710 --> 00:00:39,220
+1 - tanA.tanB
+
+13
+00:00:39,320 --> 00:00:43,300
+Jika kamu tidak bisa mengingat yang mana yang plus (+) dan mana yang minus (-)
+
+14
+00:00:43,360 --> 00:00:45,160
+Banyak orang yang mengingatnya dengan cara
+
+15
+00:00:45,220 --> 00:00:48,620
+Jika kamu memiliki A+B, maka nilainya akan bertambah besar
+
+16
+00:00:48,680 --> 00:00:54,360
+Jika kamu kurangi B, dengan menggunakan rumus sudut ganda maka kamu akan mendapatkan tan A - tan A
+
+17
+00:00:55,400 --> 00:00:57,400
+Kamu tahu bahwa dua kali lipat dari sudut manapun akan sama dengan nol
+
+18
+00:00:57,440 --> 00:01:00,280
+Jadi, itu bagaimana cara saya mengingat bahwa ada tanda plus (+) di depan
+
+19
+00:01:01,160 --> 00:01:03,120
+Ingatlah konsep tersebut
+
+20
+00:01:03,180 --> 00:01:04,460
+Bagaimana penerapan konsep tersebut disini?
+
+21
+00:01:04,470 --> 00:01:06,600
+ini merupakan soal penyelesaian
+
+22
+00:01:07,040 --> 00:01:09,960
+bukan soal pembuktian identitas karena soal ini bukanlah sebuah identitas
+
+23
+00:01:10,520 --> 00:01:16,040
+Saya akan mencoba untuk mengeluarkan mereka dari invers tan
+
+24
+00:01:16,150 --> 00:01:19,100
+Jadi saya bisa mengerjakan mereka dan membuat x sebagai subjek
+
+25
+00:01:19,140 --> 00:01:20,620
+Itu adalah tujuanku
+
+26
+00:01:22,320 --> 00:01:24,140
+Ada hal lain yang ingin saya katakan
+
+27
+00:01:24,220 --> 00:01:29,020
+Baiklah, karena disini terdapat aljabar seperti x, pecahan, dan sebagainya
+
+28
+00:01:29,100 --> 00:01:32,700
+Ini adalah contoh yang simpel tentang bagaimana kalian tidak bisa begitu saja menggunakan kalkulator
+
+29
+00:01:32,760 --> 00:01:34,120
+Kalkulator tidak akan bisa membantu kalian disini
+
+30
+00:01:34,260 --> 00:01:38,100
+Untuk soal sebelumnya, soalnya hanya tersusun dari angka jadi kalian bisa menggunakan kalkulator
+
+31
+00:01:38,200 --> 00:01:40,960
+Tetapi inilah alasan mengapa kalian perlu mengetahui cara menyelesaikannya tanpa kalkulator
+
+32
+00:01:42,000 --> 00:01:47,500
+Agar semua invers tan dapat dikeluarkan, hal yang paling masuk akal untuk dilakukan adalah dengan menggunakan tan
+
+33
+00:01:47,600 --> 00:01:51,460
+Jadi, tan dari semuanya, yaitu tan sisi kiri dan sisi kanan
+
+34
+00:01:51,600 --> 00:01:54,660
+Saya akan menulisnya terlebih dahulu
+
+35
+00:02:05,600 --> 00:02:11,560
+Oke, meskipun sekarang kalian mungkin bisa lolos dari pertanyaan ini tanpa melakukan apa-apa karena tidak akan begitu berpengaruh
+
+36
+00:02:11,840 --> 00:02:16,940
+Ingatlah bahwa kita sedang berbicara tentang invers sin sin, inverse sin dari sin, dan sebagainya
+
+37
+00:02:18,160 --> 00:02:21,180
+Saya akan menghitung tan dari semua tangen ini
+
+38
+00:02:21,260 --> 00:02:24,060
+Jadi seperti inilah skenario yang saya punya
+
+39
+00:02:26,740 --> 00:02:29,120
+Kamu pasti ingat ini semua akan sama dengan apa, kan?
+
+40
+00:02:29,220 --> 00:02:31,920
+Ini akan sama dengan x, tapi di domain apa?
+
+41
+00:02:32,950 --> 00:02:34,720
+Apakah kamu ingat dengan apa yang saya maksud?
+
+42
+00:02:40,310 --> 00:02:44,040
+Sekarang, domain tersebut sangat bergantung pada fungsi yang berada di dalam
+
+43
+00:02:44,240 --> 00:02:47,360
+Karena fungsi yang berada di dalam ini yang akan membentuk dan menghancurkan segalanya
+
+44
+00:02:47,460 --> 00:02:52,040
+Jadi seperti apa domain (domain adalah area berbentuk horizontal) dari invers tan?
+
+
+45
+00:02:52,100 --> 00:02:55,400
+Domain itu akan berlangsung selamanya tapi itu tidak apa-apa
+
+46
+00:02:55,460 --> 00:03:00,780
+Jadi itulah alasannya mengapa ini tidak seperti sin dari invers sin dan cos dari invers cos
+
+47
+00:03:01,320 --> 00:03:04,140
+Ini akan sama dengan x untuk semua nilai real
+
+48
+00:03:04,240 --> 00:03:09,580
+Jadi sebenarnya untuk saat ini semua tan dan invers tan dari sini bisa dihilangkan
+
+49
+00:03:10,640 --> 00:03:13,880
+Mari kita tulis sisi kanannya terlebih dahulu karena ini lebih mudah
+
+50
+00:03:14,000 --> 00:03:15,720
+Tan dari invers tan 6/7
+
+51
+00:03:16,400 --> 00:03:17,900
+6 per 7
+
+52
+00:03:18,280 --> 00:03:20,000
+Untuk sisi kiri
+
+53
+00:03:20,310 --> 00:03:26,620
+Meskipun ini terlihat menyeramkan, tapi ini hanya tan(A+B)
+
+54
+00:03:27,120 --> 00:03:29,960
+Jadi saya akan menggunakan ekspansi (perluasan) ini
+
+55
+00:03:30,100 --> 00:03:33,060
+Disini saya punya tan dari A
+
+56
+00:03:33,120 --> 00:03:34,870
+yang merupakan tan dari invers tan bentuk ini
+
+57
+00:03:34,870 --> 00:03:37,680
+Seperti ini bentuknya
+
+58
+00:03:38,959 --> 00:03:39,920
+Ditambah dengan
+
+59
+00:03:39,920 --> 00:03:43,620
+tan dari invers tan bentuk ini
+
+60
+00:03:44,310 --> 00:03:48,720
+Lalu untuk bagian penyebutnya adalah 1 dikurangi kedua bentuk yang ada di atas
+
+61
+00:03:48,720 --> 00:03:49,500
+(x / x + 1) + (x / 1 - x)
+Lalu untuk bagian penyebutnya adalah 1 dikurangi kedua bentuk yang ada di atas
+
+62
+00:03:49,500 --> 00:03:55,680
+(x / x + 1) + (x / 1 - x)
+
+63
+00:03:56,230 --> 00:03:59,420
+Ini semua akan sama dengan 6/7
+
+64
+00:04:00,790 --> 00:04:04,000
+Jadi, ini..
+Siswa: apakah saya perlu menulis bagian itu
+
+65
+00:04:04,100 --> 00:04:05,430
+Untuk baris yang ini?
+
+66
+00:04:05,430 --> 00:04:10,660
+Siswa: Ketika kamu menulis tan untuk bentuk tersebut
+
+67
+00:04:10,780 --> 00:04:14,280
+Ya, saya melangkahi baris ini dan baris ini tidak perlu ditulis
+
+68
+00:04:14,400 --> 00:04:17,060
+itulah mengapa saya langsung menulis ini
+
+69
+00:04:17,120 --> 00:04:22,240
+Inilah alasan saya mengatakan bahwa kalian hanya perlu mengetahui nilai ini dan kalian akan mengetahui jawabannya
+
+70
+00:04:22,620 --> 00:04:30,640
+Itulah mengapa saya melangkahi bagian itu karena bagian itu tidak memiliki bagian penting yang harus diperhatikan
+
+71
+00:04:31,480 --> 00:04:41,380
+Tapi kamu tetap harus sedikit berhati-hati, kamu bisa saja melewatkannya jika percaya diri dan sudah mengetahui batasan yang perlu diperhatikan
+
+72
+00:04:42,470 --> 00:04:44,600
+Saya pikir kalian akan baik-baik saja
+
+73
+00:04:45,280 --> 00:04:47,560
+Mulai dari sini, semuanya hanya aljabar
+
+74
+00:04:47,760 --> 00:04:51,380
+Aku mengakui bahwa aku baru saja salah melakukan substitusi
+
+75
+00:04:51,480 --> 00:04:58,420
+Tapi cara termudah untuk menghilangkan pecahan adalah dengan mengalikannya dengan penyebut yang paling tepat
+
+76
+00:04:58,520 --> 00:05:01,700
+Dimana untuk soal ini adalah (1-x²)
+
+77
+00:05:01,860 --> 00:05:04,720
+Jadi ketika saya mengalikan (1-x²) dengan bagian atas maka saya akan mendapatkan
+
+78
+00:05:09,920 --> 00:05:11,820
+x(1-x) + x(x + 1)
+
+79
+00:05:12,080 --> 00:05:14,220
+Dan ketika saya mengalikannya dengan bagian bawah
+
+80
+00:05:14,280 --> 00:05:16,470
+Ini akan menjadi 1 - x²
+
+81
+00:05:16,470 --> 00:05:18,780
+Penyebut ini akan hilang
+
+82
+00:05:19,120 --> 00:05:22,420
+Lalu, semua ini akan sama dengan 6/7
+
+83
+00:05:24,020 --> 00:05:26,780
+Mari kita kumpulkan suku-suku yang sejenis
+
+84
+00:05:26,920 --> 00:05:30,400
+Aku akan menghitung bagian atasnya, hasilnya akan menjadi (x-x²+x²+x)
+
+85
+00:05:36,630 --> 00:05:41,300
+Oke, tempatnya sudah tidak cukup jadi aku akan pindah kesini
+
+86
+00:05:41,440 --> 00:05:43,540
+Kalian bisa melihat banyak penghapusan yang dilakukan
+
+87
+00:05:43,720 --> 00:05:47,280
+Tapi kalian harus berhati-hati dengan tanda kurung dan sebagainya
+
+88
+00:05:47,340 --> 00:05:50,220
+Bisa kalian lihat bahwa bentuk inverse trigonometri sudah hilang sampai di baris ini
+
+89
+00:05:50,280 --> 00:05:53,880
+Jadi mulai dari sini bentuknya hanyalah bentuk aljabar, tapi kalian tetap harus berhati-hati
+
+90
+00:05:54,080 --> 00:05:57,840
+Pada bagian atas, x² akan hilang
+
+91
+00:05:58,720 --> 00:06:00,200
+Disini 6/7
+
+92
+00:06:00,240 --> 00:06:02,720
+Kedua sisi merupakan faktor dari 2
+
+93
+00:06:02,820 --> 00:06:05,680
+Lalu, coret angka 2 dan 6 akan menjadi 3
+
+94
+00:06:05,680 --> 00:06:08,160
+Untuk bentuk sekarang, saya bisa melakukan perkalian silang
+
+95
+00:06:08,160 --> 00:06:08,240
+Lalu akan menjadi 7x = 3-6x²
+Untuk bentuk sekarang, saya bisa melakukan perkalian silang
+
+96
+00:06:08,240 --> 00:06:12,120
+Lalu akan menjadi 7x = 3-6x²
+
+97
+00:06:14,470 --> 00:06:19,200
+Pindahkan semua angka ke sisi yang sama lalu kemudian akan kita faktorkan
+
+98
+00:06:19,260 --> 00:06:29,660
+Jadi saya butuh pasangan angka yang jika dikalikan akan menjadi -18 dan jika dijumlahkan akan menjadi 7
+
+99
+00:06:29,760 --> 00:06:31,600
+Tidak terlalu banyak angka yang memenuhi syarat ini
+
+100
+00:06:31,600 --> 00:06:34,180
+Jawabannya adalah 9 dan -2
+
+101
+00:06:39,940 --> 00:06:43,700
+Jadi saya akan membaginya dengan 6 agar aku tidak mendapatkan hasil akhir 36x²
+
+102
+00:06:44,080 --> 00:06:45,759
+Angka 3 dan 2 dapat membentuk angka ini
+
+103
+00:06:45,750 --> 00:06:47,100
+Maka angka 3 akan digunakan untuk bagian ini
+
+104
+00:06:47,140 --> 00:06:48,720
+Dan angka 2 akan digunakan untuk bagian ini
+
+105
+00:06:48,840 --> 00:06:52,160
+Jadi ini akan menjadi (2x + 3)
+
+106
+00:06:52,160 --> 00:06:55,440
+Lalu ini akan menjadi (3x - 1)
+
+107
+00:06:55,440 --> 00:06:58,080
+Lalu kemudian saya bisa menuliskan jawabannya
+
+108
+00:06:58,080 --> 00:07:00,400
+x = -3/2 atau 1/3
+
+109
+00:07:02,420 --> 00:07:04,860
+Oke, selesai
+
+110
+00:07:08,560 --> 00:07:10,400
+Jadi, disini
+
+111
+00:07:10,400 --> 00:07:14,080
+Terdapat banyak cara untuk melakukan faktorisasi
+
+112
+00:07:14,160 --> 00:07:16,560
+Ada juga faktorisasi kuadrat dengan cara silang
+
+113
+00:07:16,620 --> 00:07:22,900
+Ini adalah metode yang saya pelajari dan mengerti, jika kalian tidak memahaminya maka gunakanlah cara yang lain
+
+114
+00:07:22,960 --> 00:07:26,900
+Tapi seperti itulah cara kerja yang saya mengerti makanya saya menuliskannya seperti itu
+

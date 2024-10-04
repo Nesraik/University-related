@@ -1,0 +1,462 @@
+﻿1
+00:00:00,240 --> 00:00:03,600
+Soal selanjutnya yang akan kita bahas
+
+2
+00:00:03,670 --> 00:00:13,700
+Contoh ini berasal dari latihan 2 dari bab 3 atau bab 4
+
+3
+00:00:14,160 --> 00:00:15,660
+Latihan 2 dari bab 4
+
+4
+00:00:15,780 --> 00:00:17,840
+Jika mau kalian bisa membuka halaman itu
+
+5
+00:00:17,840 --> 00:00:21,359
+Bagaimana cara mengerjakan soal ini?
+
+6
+00:00:21,350 --> 00:00:26,840
+Hal yang perlu kita lakukan adalah melihat kembali materi awal trigonometri
+
+7
+00:00:27,020 --> 00:00:28,140
+Pertama adalah perluasan trigonometri
+
+8
+00:00:28,240 --> 00:00:35,140
+Jika kamu ingat, kita menggunakannya karena kita membutuhkan prinsip untuk membuktikan turunan sin
+
+9
+00:00:35,260 --> 00:00:40,020
+Kita telah mempelajari ini, sin(A+B)
+
+10
+00:00:40,060 --> 00:00:41,680
+Ini akan sama dengan apa?
+
+11
+00:00:42,000 --> 00:00:44,740
+Richard, bisa tolong beritahu aku
+
+12
+00:00:59,190 --> 00:01:04,380
+Jadi kamu tau rumus perluasan ya
+
+13
+00:01:04,620 --> 00:01:07,400
+Jadi, ini adalah rumus perluasan trigonometri
+
+14
+00:01:07,500 --> 00:01:11,860
+Ini bukan perluasan trigonometri untuk invers, ini adalah perluasan trigonometri biasa
+
+15
+00:01:11,920 --> 00:01:14,680
+Tapi kita harus melihat dimana perbedaannya
+
+16
+00:01:14,720 --> 00:01:23,300
+A dan B disini bukan sudut biasa, tapi A dan B yang akan kita cari adalah dalam bentuk invers trigonometri
+
+17
+00:01:23,340 --> 00:01:25,560
+Jadi bagaimana cara kita menyelesaikan ini?
+
+18
+00:01:26,960 --> 00:01:31,600
+Jika kita menulis perluasan trigonometri terlebih dahulu, yang bentuknya seperti ini
+
+19
+00:01:31,660 --> 00:01:33,920
+Misalkan kita tulis invers sin atau sebagainya
+
+20
+00:01:33,920 --> 00:01:36,080
+Untuk menggantikan A dan B
+
+21
+00:01:36,280 --> 00:01:38,780
+Ini akan memberikan kita petunjuk untuk melanjutkan ke tahap berikutnya
+
+22
+00:01:39,040 --> 00:01:41,380
+Mari tulis kembali rumus perluasan tersebut
+
+23
+00:01:41,750 --> 00:01:44,140
+Sin, bentuk A nya diganti dengan ini
+
+24
+00:01:45,920 --> 00:01:47,520
+Benar kan?
+
+25
+00:01:47,520 --> 00:01:49,600
+Cos, untuk bentuk B nya diganti dengan ini
+
+26
+00:01:53,360 --> 00:01:59,580
+SinA.cosB + cosA (bentuknya diganti dengan sudut yang pertama)
+
+27
+00:02:02,080 --> 00:02:08,060
+SinB
+
+28
+00:02:09,440 --> 00:02:12,280
+Oke, sekarang perhatikan ini
+
+29
+00:02:12,320 --> 00:02:14,200
+Kita bisa mengerjakan beberapa bagian dari ini
+
+30
+00:02:14,380 --> 00:02:16,460
+Sebenarnya kita bisa mengerjakan semuanya namun ada beberapa bagian yang akan lebih mudah
+
+31
+00:02:16,520 --> 00:02:19,540
+Bagaimana cara kita mengerjakan sin dari invers sin?
+
+32
+00:02:19,660 --> 00:02:27,180
+Jika kamu ingat, sebelumnya kita pernah mengerjakan bentuk ini. Coba bayangkan graph dari bentuk ini
+
+33
+00:02:27,840 --> 00:02:29,920
+Ingatanmu bagus jika kamu mengingat ini
+
+34
+00:02:29,920 --> 00:02:32,700
+Terdapat batasan untuk bentuk ini
+
+35
+00:02:32,870 --> 00:02:36,020
+Batasannya berasal dari batasan fungsi yang berada di dalam
+
+36
+00:02:36,100 --> 00:02:39,360
+Untuk bagian ini, batasannya adalah dari -1 hingga 1
+
+37
+00:02:39,360 --> 00:02:42,720
+Jadi hasilnya akan berada di antara -1 dan 1
+
+38
+00:02:42,870 --> 00:02:45,900
+Dan itu akan berada pada domain tersebut
+
+39
+00:02:46,310 --> 00:02:50,280
+Tapi apakah itu sesuai dengan domain yang kita harapkan?
+
+40
+00:02:51,120 --> 00:02:53,000
+Itu sesuai, karena berada di antara -1 dan 1
+
+41
+00:02:53,120 --> 00:03:01,360
+Jadi saya bisa bilang bahwa nilainya akan sama dengan nilai ini, karena berada di domain dimana pernyataan tersebut benar
+
+42
+00:03:02,400 --> 00:03:04,720
+Saya akan meninggalkan bagian ini sebentar, nanti kita akan kembali lagi
+
+43
+00:03:04,760 --> 00:03:05,840
+Bagian ini juga
+
+44
+00:03:05,840 --> 00:03:09,380
+Bentuk ini juga sama seperti sebelumnya, apakah dia berada di dalam domain?
+
+45
+00:03:10,880 --> 00:03:13,900
+Ya, ini masih di antara -1 dan 1
+
+46
+00:03:13,980 --> 00:03:18,200
+Jadi saya akan menuliskannya pada bagian kedua
+
+47
+00:03:18,340 --> 00:03:22,860
+Sin dari invers sin 12/13 hasilnya akan menjadi 12/13
+
+48
+00:03:22,870 --> 00:03:25,420
+Sekarang, kita mendapatkan bentuk yang bercampuran
+
+49
+00:03:25,519 --> 00:03:27,599
+Ini dan ini
+
+50
+00:03:27,590 --> 00:03:29,480
+Jadi bagaimana cara menyelesaikan ini?
+
+51
+00:03:29,520 --> 00:03:33,460
+Saya akan menunjukkan bagaimana cara saya memikirkan solusinya secara grafis
+
+52
+00:03:33,500 --> 00:03:39,980
+Namun jika kamu sudah memahami pertanyaan ini, kamu hanya perlu memikirkannya dalam kepalamu saja
+
+53
+00:03:40,000 --> 00:03:42,960
+Sekarang liat bagian ini, invers sin dari 12/13
+
+54
+00:03:43,440 --> 00:03:48,880
+Untuk premis dari perluasan ini, saya akan menganggap ini sebagai suatu sudut
+
+55
+00:03:48,950 --> 00:03:52,220
+Ini adalah sudut A dan ini sudut B
+
+56
+00:03:52,300 --> 00:03:55,960
+Jadi sudut A dan B merupakan bagian dari suatu segitiga
+
+57
+00:03:56,020 --> 00:04:00,640
+Untuk domain ini, yaitu dari -1 hingga 1, sudut yang akan terbentuk adalah sudut lancip
+
+58
+00:04:00,780 --> 00:04:06,000
+Jadi saya bisa menggambar segitiga siku-siku dengan sudut A dan B
+
+59
+00:04:06,560 --> 00:04:09,660
+Ini akan menjadi sudut B, mari kita gambarkan terlebih dahulu
+
+60
+00:04:12,310 --> 00:04:14,620
+Ini akan menjadi sudut B
+
+61
+00:04:14,790 --> 00:04:19,240
+Sudut B disini adalah invers sin dari 12/13
+
+62
+00:04:21,350 --> 00:04:29,960
+Berapa perbandingan yang akan saya dapatkan. Sinus segitiga ini merupakan sisi depan sudut B dibagi sisi miring
+
+63
+00:04:30,040 --> 00:04:33,200
+Jadi ini adalah B, maaf gambarnya tidak sesuai dengan skalanya tapi kalian tetap bisa memahaminya
+
+64
+00:04:34,160 --> 00:04:39,040
+sisi depan sudut B dibagi sisi miring adalah 12/13
+
+65
+00:04:39,120 --> 00:04:45,080
+Oke karena ini merupakan angka yang mudah, kalian akan tahu bahwa sisi ini akan sama dengan 5
+
+66
+00:04:46,160 --> 00:04:49,600
+Jadi sekarang yang ingin saya cari adalah cos B
+
+67
+00:04:49,600 --> 00:04:49,620
+Itu akan terbentuk dari sudut ini dan ini karena rumus cos adalah sisi yang berdekatan dengan sudut B dibagi sisi miring, jadi hasilnya adalah 5/13
+Jadi sekarang yang ingin saya cari adalah cos B
+
+68
+00:04:49,620 --> 00:04:56,660
+Itu akan terbentuk dari sudut ini dan ini karena rumus cos adalah sisi yang berdekatan dengan sudut B dibagi sisi miring, jadi hasilnya adalah 5/13
+Jadi sekarang yang ingin saya cari adalah cos B
+
+69
+00:04:56,960 --> 00:04:59,520
+Hasil ini didapatkan dengan cos dari sin 12/13
+
+70
+00:05:01,199 --> 00:05:03,520
+Ditambah sekarang saya bisa mengulang proses yang sama untuk ini
+
+71
+00:05:04,470 --> 00:05:08,720
+Dibanding dengan menggunakan segitiga 5, 12, 13 yang kita dapatkan dari rasio sebelumnya
+
+72
+00:05:08,840 --> 00:05:13,940
+Kalian bisa memprediksi dari segitiga apa bentuk ini berasal tanpa perlu menggambarkannya
+
+73
+00:05:14,000 --> 00:05:16,000
+Tiga sisinya akan sama dengan apa?
+
+74
+00:05:16,000 --> 00:05:18,880
+Itu akan sama dengan segitiga dengan sisi 3, 4, 5
+
+75
+00:05:21,520 --> 00:05:24,860
+Oke, untuk segitiga yang ini kita akan menggunakan sudut A
+
+76
+00:05:24,880 --> 00:05:25,880
+Dimanakah letak dari sudut A?
+
+77
+00:05:27,280 --> 00:05:29,440
+Sudut A di dalam segitiga
+
+78
+00:05:31,120 --> 00:05:35,960
+Ini adalah sisi depan sudut A dibagi sisi miring, jadi 4 adalah sisi depan sudut A
+
+79
+00:05:36,120 --> 00:05:37,320
+Sudut A akan berada di atas sini
+
+80
+00:05:39,440 --> 00:05:42,720
+Jadi saya membutuhkan cos dari sudut yang berada di atas sana
+
+81
+00:05:42,780 --> 00:05:45,280
+Dimana itu merupakan sisi yang berdekatan dengan sudut A dibagi sisi miring
+
+82
+00:05:45,280 --> 00:05:47,760
+3/5
+
+83
+00:05:48,800 --> 00:05:53,380
+Jadi beginilah cara saya mengerjakannya, ini adalah bagian sulitnya
+
+84
+00:05:53,500 --> 00:05:56,120
+Seperti yang saya bilang, kalian perlu menggambarkan segitiga ini
+
+85
+00:05:56,180 --> 00:06:04,300
+Jika kalian mendapatkan soal seperti ini, kebanyakan akan memberikan angka Pythagoras yang bagus
+
+86
+00:06:04,360 --> 00:06:09,920
+Jadi kalian hanya perlu menebaknya, seperti contohnya 8, 15, 17, dan sebagainya
+
+87
+00:06:09,980 --> 00:06:12,400
+Kalian tidak perlu menurunkan bentuk ini
+
+88
+00:06:12,400 --> 00:06:16,220
+Untuk membantumu dalam menjawabnya, sebaiknya kalian menggambarnya
+
+89
+00:06:17,360 --> 00:06:20,140
+Sekarang saya akan menggabungkan dua pecahan ini
+
+90
+00:06:20,200 --> 00:06:24,300
+Karena saya akan menggabungkan dan saya butuh nilai penyebut yang sama
+
+91
+00:06:24,360 --> 00:06:27,720
+Meskipun saya bisa menghilangkan akan 5, tapi saya akan membiarkannya seperti ini
+
+92
+00:06:27,910 --> 00:06:32,140
+Dengan ini, sisi ini akan menjadi 65 dan sisi ini juga akan menjadi 65
+
+93
+00:06:32,220 --> 00:06:32,820
+Mengerti?
+
+94
+00:06:32,960 --> 00:06:37,940
+Jadi saya ingin menghilangkan ini dengan menggabungkan penyebutnya menjadi 65
+
+95
+00:06:38,000 --> 00:06:40,940
+Yang pertama adalah 20
+
+96
+00:06:41,680 --> 00:06:44,720
+Dan yang kedua adalah 36
+
+97
+00:06:45,190 --> 00:06:47,480
+Jadi, ini adalah jawabannya
+
+98
+00:06:47,900 --> 00:06:56,720
+Oke, cuma mau bilang bahwa kalian bisa mengerjakan satu bagian
+
+99
+00:06:56,780 --> 00:06:59,840
+Kalian bisa memasukkan nilainya ke dalam kalkulator untuk mendapatkan hasilnya
+
+100
+00:06:59,840 --> 00:07:08,460
+Dengan cara yang sama, kalian bisa memasukkan seluruh bentuk ini jika kalkulator kalian sanggup untuk mengerjakan pecahan ini
+
+101
+00:07:08,500 --> 00:07:10,460
+kalian akan langsung mendapatkan jawabannya
+
+102
+00:07:10,540 --> 00:07:17,080
+Seperti yang telah saya katakan sebelumnya, pertanyaan seperti ini akan mendapatkan nilai 2 poin
+
+103
+00:07:17,240 --> 00:07:20,080
+Karena bagian ini bernilai 2 poin, Kalian tidak boleh langsung menuliskan jawabannya
+
+104
+00:07:20,220 --> 00:07:28,560
+Kalian perlu menunjukkan bagaimana cara kalian bisa mendapatkan jawaban tersebut dan metode apa yang kalian gunakan, contohnya perluasan
+
+105
+00:07:29,440 --> 00:07:36,420
+Jadi saya ingin langsung ke jawaban ini, setidaknya kalian perlu menuliskan baris ini atau baris ini
+
+106
+00:07:36,520 --> 00:07:38,920
+Setidaknya salah satu dari baris ini
+
+107
+00:07:39,520 --> 00:07:44,160
+Umumnya, lebih banyak orang yang akan memilih untuk menulis baris ini karena lebih pendek
+
+108
+00:07:45,580 --> 00:07:50,100
+Tapi menurutku ini merupakan pilihan yang lebih baik meskipun lebih memakan banyak waktu untuk menulisnya
+
+109
+00:07:50,560 --> 00:07:56,180
+Ini akan lebih jelas karena tidak semuanya akan paham dari mana pecahan ini berasal
+
+110
+00:07:56,300 --> 00:07:59,380
+Kedua, bayangkan jika kamu salah menghitung pecahan ini
+
+111
+00:07:59,520 --> 00:08:06,320
+Lalu kamu sudah melanjutkan ke tahap selanjutnya, saat melihat kembali kamu merasa kalau pecahan ini sepertinya salah
+
+112
+00:08:06,380 --> 00:08:10,040
+Tapi bagaimana cara kalian mengetahui apakah pecahan ini benar atau salah
+
+113
+00:08:10,180 --> 00:08:11,400
+Jika kalian tidak tahu dari mana pecahan tersebut berasal
+
+114
+00:08:11,620 --> 00:08:18,540
+Dari baris ini sebenarnya kalian bisa melakukan pengecekan ulang apakah terdapat error pada pekerjaan kalian
+
+115
+00:08:18,620 --> 00:08:22,760
+Jadi baris ini merupakan pilihan yang lebih baik meskipun baris ini lebih panjang
+

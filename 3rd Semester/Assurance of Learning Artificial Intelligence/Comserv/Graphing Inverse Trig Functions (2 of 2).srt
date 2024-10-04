@@ -1,0 +1,584 @@
+﻿1
+00:00:00,880 --> 00:00:02,240
+Jadi kamu perlu sedikit
+
+2
+00:00:02,240 --> 00:00:04,560
+Menata ulang untuk mendapatkan ini
+
+3
+00:00:04,560 --> 00:00:06,720
+Karena ini berada pada y = 4, dimana
+
+4
+00:00:06,720 --> 00:00:09,280
+Ini boleh untuk dilakukan, namun bukan cara termudah
+
+5
+00:00:09,280 --> 00:00:11,200
+Untuk mendapatkan domainnya, maka
+
+6
+00:00:11,200 --> 00:00:12,799
+Kita harus sedikit menata ulang
+
+7
+00:00:12,799 --> 00:00:17,559
+Ini akan menjadi y - pi/2
+
+8
+00:00:18,800 --> 00:00:20,480
+Mari kita perhatikan ini
+
+9
+00:00:20,480 --> 00:00:22,320
+Terlebih dahulu
+
+10
+00:00:22,320 --> 00:00:24,800
+Pada saat ini, jika saya ingin
+
+11
+00:00:24,800 --> 00:00:26,880
+Semua modifikasi dan juga
+
+12
+00:00:26,880 --> 00:00:28,480
+Perubahan pada y
+
+13
+00:00:28,480 --> 00:00:30,800
+Dengan y, oke saya perlu
+
+14
+00:00:30,800 --> 00:00:32,960
+Membagikan dengan 3
+
+15
+00:00:32,960 --> 00:00:34,399
+Sekarang mungkin banyak dari kalian yang sudah menulis
+
+16
+00:00:34,399 --> 00:00:36,800
+Untuk baris berikutnya y/3 dikurangi
+
+17
+00:00:36,800 --> 00:00:39,120
+Dengan pi/6, itu benar
+
+18
+00:00:39,120 --> 00:00:41,120
+Bagaimanapun saya pikir akan lebih
+
+19
+00:00:41,120 --> 00:00:43,600
+Berguna jika menulisnya seperti ini
+
+20
+00:00:43,600 --> 00:00:46,079
+Saya penasaran jika kamu bisa melihatnya
+
+21
+00:00:46,079 --> 00:00:48,320
+*Membuat lelucon
+
+22
+00:00:48,320 --> 00:00:50,719
+*Siswa sedang ribut
+
+23
+00:00:52,390 --> 00:00:55,420
+*Siswa sedang ribut
+
+24
+00:01:05,199 --> 00:01:06,960
+Mengapa ini akan berguna? Jika kamu
+
+25
+00:01:06,960 --> 00:01:08,960
+Telah menyelesaikan grafiknya
+
+26
+00:01:08,960 --> 00:01:10,560
+Kamu akan tahu bahwa terjadi
+
+27
+00:01:10,560 --> 00:01:12,080
+Pergeseran vertikal disini, berapa
+
+28
+00:01:12,080 --> 00:01:15,520
+Jarak dari pergeseran vertikal tersebut?
+
+29
+00:01:15,920 --> 00:01:18,799
+Seberapa jauh?
+
+30
+00:01:18,799 --> 00:01:21,680
+Jaraknya akan sejauh ini
+
+31
+00:01:21,680 --> 00:01:24,400
+Jika kamu akan menulis y/3
+
+32
+00:01:24,400 --> 00:01:26,640
+Dikurangi dengan -pi/6, maka itu
+
+33
+00:01:26,640 --> 00:01:29,520
+Akan mengaburkan fakta sebenarnya, dimana
+
+34
+00:01:29,520 --> 00:01:32,079
+Seberapa jauh sebenarnya pi/2
+
+35
+00:01:32,079 --> 00:01:34,000
+Diubah dan kemudian pembagian
+
+36
+00:01:34,000 --> 00:01:36,240
+Dengan 3 akan dilakukan nanti
+
+37
+00:01:36,240 --> 00:01:38,560
+Jadi saya akan meninggalkannya seperti itu
+
+38
+00:01:38,560 --> 00:01:39,920
+Sekarang saya akan mengerjakan domain
+
+39
+00:01:39,920 --> 00:01:41,200
+dan batasannya
+
+40
+00:01:41,200 --> 00:01:43,119
+Oke, domain
+
+41
+00:01:43,110 --> 00:01:46,440
+x-1 berada di antara batasan standar kita
+
+42
+00:01:47,439 --> 00:01:49,360
+Jadi kamu menambahkan 1 ke semuanya dan
+
+43
+00:01:49,360 --> 00:01:52,399
+Kamu mendapatkan di antara 0 dan 2
+
+44
+00:01:52,399 --> 00:01:53,840
+Semuanya akan baik-baik saja, sekarang
+
+45
+00:01:53,840 --> 00:01:55,040
+Saya akan lanjut ke sisi kanan
+
+46
+00:01:55,040 --> 00:01:56,479
+Mari kita kerjakan batasan ini, ini
+
+47
+00:01:56,479 --> 00:01:59,360
+Akan sedikit mengecoh, jadi y - pi/2
+
+48
+00:01:59,360 --> 00:02:02,000
+Semua dibagi dengan 3
+
+49
+00:02:02,000 --> 00:02:03,439
+Itu akan berada di antara
+
+50
+00:02:03,439 --> 00:02:08,600
+Batasan normal kita, jadi -pi/2
+
+51
+00:02:09,758 --> 00:02:11,520
+Hal pertama yang harus dilakukan
+
+52
+00:02:11,520 --> 00:02:14,959
+Adalah mengalikannya dengan 3
+
+53
+00:02:19,680 --> 00:02:20,840
+Dan
+
+54
+00:02:20,840 --> 00:02:23,680
+Sekarang saya akan menambahkan pi/2 ke semuanya
+
+55
+00:02:23,680 --> 00:02:25,440
+Jadi apa yang akan menjadi batas atas dan batas bawahnya
+
+56
+00:02:25,440 --> 00:02:29,040
+Kemana saya akan pergi dari
+
+57
+00:02:31,840 --> 00:02:34,740
+pi/2 adalah -pi 
+
+58
+00:02:35,599 --> 00:02:36,560
+Dan
+
+59
+00:02:36,560 --> 00:02:40,080
+3pi/2 ditambah dengan pi/2
+
+60
+00:02:40,080 --> 00:02:41,680
+Hasilnya adalah 2pi
+
+61
+00:02:41,680 --> 00:02:43,680
+Jadi sekarang saya telah menentukan batasannya
+
+62
+00:02:43,680 --> 00:02:46,000
+Jadi dengan dasar dari domain tersebut
+
+63
+00:02:46,000 --> 00:02:48,080
+Dan batasannya, bahkan jika kamu tidak diminta
+
+64
+00:02:48,080 --> 00:02:50,480
+Untuk mencari domain dan batasan
+
+65
+00:02:50,480 --> 00:02:51,519
+Kamu tetap perlu mencari batasannya jika
+
+66
+00:02:51,519 --> 00:02:52,879
+Kamu ingin menggambar grafik ini
+
+67
+00:02:52,870 --> 00:02:55,280
+Sekarang saya akan menlanjutkan bagian kanannya
+
+68
+00:02:59,599 --> 00:03:04,200
+Oke, sebuah pertanyaan
+
+69
+00:03:11,760 --> 00:03:14,760
+Mengapa
+
+70
+00:03:31,040 --> 00:03:32,720
+Saat sekarang kita telah mendapatkan poin pentingnya
+
+71
+00:03:32,720 --> 00:03:34,319
+Saya mendapatkan 0
+
+72
+00:03:34,319 --> 00:03:36,959
+1, 2, kamu membutuhkan 
+
+73
+00:03:36,959 --> 00:03:38,879
+Bagian tengahnya bahkan jika kamu tidak memberi label
+
+74
+00:03:38,879 --> 00:03:40,640
+Kamu harus meletakkan cerminannya di tengah
+
+75
+00:03:40,640 --> 00:03:42,400
+Jika tidak maka kamu akan salah
+
+76
+00:03:42,799 --> 00:03:46,920
+Untuk -pi
+
+77
+00:03:46,959 --> 00:03:49,760
+Disini ada pi
+
+78
+00:03:50,959 --> 00:03:52,799
+Dan ada2pi, saya baru saja berbicara tentang
+
+79
+00:03:52,799 --> 00:03:54,879
+Titik belok, bahkan
+
+80
+00:03:54,879 --> 00:03:56,959
+Jika ini bukan pertanyaan kalkulus
+
+81
+00:03:56,959 --> 00:03:58,560
+Mereka tidak mengatakannya, tapi mungkin
+
+82
+00:03:58,560 --> 00:03:59,920
+Mereka akan menanyakan untuk menemukan titik belok
+
+83
+00:03:59,920 --> 00:04:01,840
+Jadi kita perlu mengetahui tentanng itu
+
+84
+00:04:01,840 --> 00:04:03,920
+Itu harus ada, karena
+
+85
+00:04:03,920 --> 00:04:06,239
+Itu merupakan grafik inverse sin atau bahkan grafik inverse cos
+
+86
+00:04:06,239 --> 00:04:08,000
+Benar, saya ingin tahu apakah itu
+
+87
+00:04:08,000 --> 00:04:11,120
+Berada di tengah, jadi dimana
+
+88
+00:04:11,120 --> 00:04:12,640
+Bagian tengah yang kita rencanakan?
+
+89
+00:04:12,640 --> 00:04:14,319
+Benar pi/2, kita bisa melihatnya di antara
+
+90
+00:04:14,319 --> 00:04:18,160
+Sini dan sini, yaitu pi/2
+
+91
+00:04:18,160 --> 00:04:18,959
+Jadi
+
+92
+00:04:18,959 --> 00:04:20,399
+Tiga titik yang perlu saya lewati
+
+93
+00:04:20,399 --> 00:04:23,759
+Adalah titik akhir
+
+94
+00:04:25,120 --> 00:04:29,680
+Letaknya akan berada disini dan di tengah sini
+
+95
+00:04:30,639 --> 00:04:32,560
+Jika kamu sepertiku, jika
+
+96
+00:04:32,560 --> 00:04:34,880
+Kamu tidak menentukannya sekarang dan langsung menggambarkannya
+
+97
+00:04:34,880 --> 00:04:37,360
+Kamu akan melenceng
+
+98
+00:04:37,360 --> 00:04:41,160
+Jadi sekarang saya bisa menggambar ini
+
+99
+00:04:42,000 --> 00:04:44,560
+Ini agak sedikit melenceng
+
+100
+00:04:44,560 --> 00:04:46,800
+ Saya tetap melenceng meskipun sudah menandainya
+
+101
+00:04:46,800 --> 00:04:48,980
+ Inilah mengapa kamu perlu menggambar diagram dengan pensil
+
+102
+00:04:49,280 --> 00:04:51,360
+Sekarang sudah tergambar, jadi kamu bisa lihat
+
+103
+00:04:51,360 --> 00:04:52,800
+Bahwa saya masih kekurangan beberapa informasi
+
+104
+00:04:52,800 --> 00:04:56,080
+Apa yang harus saya letakkan?
+
+105
+00:04:56,080 --> 00:04:57,919
+Apa yang masih hilang?
+
+106
+00:04:57,919 --> 00:05:00,000
+Benar, terdapat garis yang berpotongan disini
+
+107
+00:05:00,000 --> 00:05:03,039
+Saya telah menggambarkannya dengan bagus
+
+108
+00:05:03,039 --> 00:05:04,560
+Jadi itu terlihat seperti
+
+109
+00:05:04,560 --> 00:05:05,680
+Memang ada disitu
+
+110
+00:05:05,680 --> 00:05:08,000
+Tapi ini bukan nilai yang cukup bagus
+
+111
+00:05:08,000 --> 00:05:09,680
+Karena ini adalah satu dan ini adalah dua
+
+112
+00:05:09,680 --> 00:05:11,680
+Sekarang, bagaimana jika kita mengerjakan
+
+113
+00:05:11,680 --> 00:05:13,280
+Yang berpotongan dengan x
+
+114
+00:05:13,280 --> 00:05:15,840
+Benar, ini adalah persamaanku
+
+115
+00:05:15,840 --> 00:05:18,320
+ Jadi saya akan membiarkan y sama dengan 0
+
+116
+00:05:18,320 --> 00:05:21,680
+Itu akan memberikanku
+
+117
+00:05:21,680 --> 00:05:26,440
+Invers dari 3 sin(x- 1)
+
+118
+00:05:26,479 --> 00:05:27,440
+Ditambah pi/2
+
+119
+00:05:27,440 --> 00:05:29,440
+Ini akan sama dengan 0, kamu bisa lihat
+
+120
+00:05:29,440 --> 00:05:32,240
+Jika saya memindahkan ini dan membaginya
+
+121
+00:05:32,240 --> 00:05:34,639
+Maka saya akan mendapat
+
+122
+00:05:34,639 --> 00:05:36,880
+-pi/6
+
+123
+00:05:36,880 --> 00:05:39,440
+Disini kan
+
+124
+00:05:39,440 --> 00:05:40,800
+ Jadi jika saya ingin mengambil sin dari kedua sisi
+
+125
+00:05:40,800 --> 00:05:42,720
+Apa yang akan saya dapatkan di sisi kanan?
+
+126
+00:05:42,720 --> 00:05:45,199
+-1/2
+
+127
+00:05:45,199 --> 00:05:47,199
+Jadi sekarang saya menambahkan satu
+
+128
+00:05:47,199 --> 00:05:48,720
+Ini sudah bisa terlihat seperti
+
+129
+00:05:48,720 --> 00:05:53,240
+Berada di antara 0 dan 1
+
+130
+00:06:05,039 --> 00:06:06,400
+Maksudku
+
+131
+00:06:06,400 --> 00:06:07,840
+Apa yang perlu saya lakukan
+
+132
+00:06:07,840 --> 00:06:09,600
+Jika saya ingin ini berada di sisi lainnya
+
+133
+00:06:09,600 --> 00:06:11,520
+Jika saya membalikkannya, maka bagaimana
+
+134
+00:06:11,520 --> 00:06:12,960
+Cara mengubahnya
+
+135
+00:06:12,960 --> 00:06:14,319
+Apa yang membedakannya
+
+136
+00:06:14,319 --> 00:06:16,160
+Itu akan jadi
+
+137
+00:06:16,160 --> 00:06:21,400
+1-x atau x-1
+
+138
+00:06:24,960 --> 00:06:26,800
+Pikirkan tentang itu, tapi kamu bisa lihat
+
+139
+00:06:26,800 --> 00:06:28,080
+bisa menjadi seperti itu
+
+140
+00:06:28,080 --> 00:06:30,000
+atau bisa digambar mengikuti fungsi inverse cos, tapi tidak penting
+
+141
+00:06:30,000 --> 00:06:32,000
+Saya pikir hal yang penting untuk didapatkan
+
+142
+00:06:32,000 --> 00:06:33,520
+Adalah perhitungan dari domain
+
+143
+00:06:33,520 --> 00:06:35,680
+Dan batasannya, itu sangat membantu
+
+144
+00:06:35,680 --> 00:06:37,280
+ Lalu pastikan, apabila kamu
+
+145
+00:06:37,280 --> 00:06:38,240
+Menemukan garis berpotongan
+
+146
+00:06:38,240 --> 00:06:41,680
+Maka kamu juga perlu mengerjakannya
+

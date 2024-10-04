@@ -1,0 +1,10 @@
+Links in tags
+Redirect
+URL Anchor
+Request URL
+
+
+web traffic
+
+
+Using machine learning technique in evaluating IC50 value of medicine in single protein (Herpes Virus). The dataset will be taken from ChEMBL

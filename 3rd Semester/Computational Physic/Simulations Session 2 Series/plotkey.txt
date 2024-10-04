@@ -1,0 +1,8 @@
+t = 1
+Ammeter_load1 = 2
+Ammeter_source = 3
+Ammeter_load2 = 4
+Ammeter_load3 = 5
+Voltmeter_load1 = 6
+Voltmeter_load2 = 7
+Voltmeter_load3 = 8

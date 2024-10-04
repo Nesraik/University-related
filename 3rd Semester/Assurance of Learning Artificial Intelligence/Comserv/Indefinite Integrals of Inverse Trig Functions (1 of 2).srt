@@ -1,0 +1,988 @@
+﻿1
+00:00:01,839 --> 00:00:03,280
+Kita menghabiskan beberapa waktu lalu
+
+2
+00:00:03,280 --> 00:00:05,040
+Untuk menurunkan fungsi invers trigonometri
+
+3
+00:00:05,040 --> 00:00:07,440
+Lalu kita mempelajari aturan rantai
+
+4
+00:00:07,440 --> 00:00:08,880
+Kita juga mempelajari bagaimana cara menerapkannya
+
+5
+00:00:08,880 --> 00:00:11,840
+Pada nilai maksimum
+
+6
+00:00:11,840 --> 00:00:13,920
+Sekarang integral merupakan hal yang
+
+7
+00:00:13,920 --> 00:00:15,759
+Harus dipelajari selanjutnya
+
+8
+00:00:15,759 --> 00:00:17,119
+Tapi kamu akan mendapatkan masalah
+
+9
+00:00:17,119 --> 00:00:18,720
+Karena jika saya memberikanmu pertanyaan
+
+10
+00:00:18,720 --> 00:00:21,359
+Seperti ini
+
+11
+00:00:26,240 --> 00:00:28,240
+Kamu tahu
+
+12
+00:00:28,240 --> 00:00:29,920
+Semacam firasat mungkin berpikir kamu tahu
+
+13
+00:00:29,920 --> 00:00:34,160
+Jika saya menurunkan sin x
+
+14
+00:00:34,800 --> 00:00:37,280
+Maka itu akan sama dengan apa?
+
+15
+00:00:37,280 --> 00:00:38,879
+Itu akan sama dengan
+
+16
+00:00:38,879 --> 00:00:40,239
+-cos
+
+17
+00:00:40,239 --> 00:00:42,800
+-cos ditambah dengan konstanta
+
+18
+00:00:42,800 --> 00:00:44,559
+Kamu akan berpikir, "Wow bukannya ini akan keren"
+
+19
+00:00:44,559 --> 00:00:46,800
+Bukannya ini akan lebih mudah jika invers sin mu
+
+20
+00:00:46,800 --> 00:00:50,079
+Berubah menjadi -cos invers
+
+21
+00:00:50,079 --> 00:00:51,680
+Tapi masalahnya
+
+22
+00:00:51,680 --> 00:00:54,960
+Ini akan menjadi kacau, kamu tau kenapa?
+
+23
+00:00:54,960 --> 00:00:56,559
+Karena ini
+
+24
+00:00:56,559 --> 00:00:58,879
+Karena ini adalah matematika, kamu benar
+
+25
+00:00:58,879 --> 00:01:03,039
+Tapi masalah matematika apa yang dimaksud
+
+26
+00:01:07,119 --> 00:01:09,040
+Kita bisa melakukannya dengan lebih baik
+
+27
+00:01:09,040 --> 00:01:10,799
+Apakah maksud dari integral?
+
+28
+00:01:10,799 --> 00:01:12,720
+Fungsi yang primitis
+
+29
+00:01:12,720 --> 00:01:15,520
+Misalnya jika saya mengintegralkan ini
+
+30
+00:01:15,520 --> 00:01:17,040
+Dengan x, lalu saya mendapatkan ini
+
+31
+00:01:17,040 --> 00:01:18,720
+Seharusnya saya bisa kembali
+
+32
+00:01:18,720 --> 00:01:19,920
+Ke langkah selanjutnya, saya bisa
+
+33
+00:01:19,920 --> 00:01:21,200
+Menurunkan ini
+
+34
+00:01:21,200 --> 00:01:22,479
+Dan kemudian untuk di sisi invers sin
+
+35
+00:01:22,479 --> 00:01:23,600
+Kalian tau turunan dari invers cos
+
+36
+00:01:23,600 --> 00:01:25,680
+Ini bahkan tidak mendekati
+
+37
+00:01:25,680 --> 00:01:27,840
+Jadi ini akan menjadi
+
+38
+00:01:27,840 --> 00:01:29,600
+Bukan salah satu dari jawaban ini
+
+39
+00:01:29,600 --> 00:01:31,600
+Dimana jawabannya akan sangat jelas
+
+40
+00:01:31,600 --> 00:01:33,840
+Saya akan menunjukkannya, tapi kamu tidak
+
+41
+00:01:33,840 --> 00:01:36,320
+Perlu benar-benar mengetahui itu, bagian yang penting adalah
+
+42
+00:01:36,320 --> 00:01:37,600
+Bagian ini
+
+43
+00:01:37,600 --> 00:01:40,079
+Bahkan tanpa mengetahui fungsi integral
+
+44
+00:01:40,079 --> 00:01:42,000
+Ini akan sama dengan apa
+
+45
+00:01:42,000 --> 00:01:43,600
+Saya masih bisa mengerjakan
+
+46
+00:01:43,600 --> 00:01:46,079
+Integral dari fungsi invers trigonometri
+
+47
+00:01:46,079 --> 00:01:47,680
+Jika mereka adalah nilai yang tentu
+
+48
+00:01:47,680 --> 00:01:50,079
+Karena integral tentu akan menjadi seperti ini
+
+49
+00:01:50,079 --> 00:01:51,520
+Jika saya menambahkan batasan
+
+50
+00:01:51,520 --> 00:01:52,479
+Misalnya
+
+51
+00:01:52,479 --> 00:01:54,079
+Dari 0 hingga 1
+
+52
+00:01:55,840 --> 00:01:59,119
+Semua itu merupakan areanya, jadi jika saya
+
+53
+00:01:59,119 --> 00:02:01,200
+Bahkan tidak tahu aturan sebenarnya
+
+54
+00:02:01,200 --> 00:02:03,360
+Ini akan tetap bisa saya kerjakan
+
+55
+00:02:03,360 --> 00:02:05,759
+jika saya bisa mencari areanya, maka saya akan tahu
+
+56
+00:02:05,759 --> 00:02:08,080
+Apa yang menjadi integral tentu yang sebenarnya
+
+57
+00:02:08,080 --> 00:02:10,160
+Jadi mari kita coba
+
+58
+00:02:10,160 --> 00:02:11,200
+Pikirkan kembali mengenai
+
+59
+00:02:11,200 --> 00:02:12,959
+Tujuan dari diagram ini
+
+60
+00:02:12,959 --> 00:02:15,200
+Sekarang saya akan memberikan peringatan
+
+61
+00:02:15,200 --> 00:02:17,760
+Untuk waktu dimana kita- , saya tidak bisa mengingat
+
+62
+00:02:17,760 --> 00:02:19,280
+Latihan yang telah kita lakukan
+
+63
+00:02:19,280 --> 00:02:21,760
+kita pernah membuat grafik dari fungsi invers, jadi
+
+64
+00:02:21,760 --> 00:02:24,080
+Kamu perlu menjadi jago dalam menggambarkan grafiknya
+
+65
+00:02:24,080 --> 00:02:26,000
+Bukan hanya kamu sekedar tau bagaimana
+
+66
+00:02:26,000 --> 00:02:27,280
+Itu akan mengarah dan bagaimana domain
+
+67
+00:02:27,280 --> 00:02:29,599
+Atau jangkauan, tapi grafik yang kamu gambarkan
+
+68
+00:02:29,599 --> 00:02:31,920
+Harus memiliki bentuk yang cukup akurat
+
+69
+00:02:31,920 --> 00:02:33,760
+Kita akan lihat alasannya sebentar lagi
+
+70
+00:02:35,040 --> 00:02:37,760
+Jadi mari kita mengerjakannya
+
+71
+00:02:37,760 --> 00:02:40,160
+Ini adalah invers sin, akan jadi seperti apa bentuknya
+
+72
+00:02:40,160 --> 00:02:42,480
+Sekarang kita skalakan dan bentuk 
+
+73
+00:02:42,480 --> 00:02:44,800
+Agar menjadi bentuk yang jelas, jadi jika kamu
+
+74
+00:02:44,800 --> 00:02:46,080
+Merasa ini akan berbahaya, kita telah melakukannya
+
+75
+00:02:46,080 --> 00:02:48,800
+Sejauh ini jadi ini waktunya berhenti
+
+76
+00:02:48,800 --> 00:02:49,920
+Karena itu hanya akan menyebabkan
+
+77
+00:02:49,920 --> 00:02:51,840
+Masalah untukmu nanti, jadi saya
+
+78
+00:02:51,840 --> 00:02:54,480
+Akan meletakkannya menggunakan metode ini
+
+79
+00:02:54,480 --> 00:02:56,720
+Kamu bisa melakukannya
+
+80
+00:03:00,000 --> 00:03:01,519
+Jadi tolong pastikan
+
+81
+00:03:01,510 --> 00:03:05,320
+Untuk titik akhir, apa yang akan menjadi gradiennya
+
+82
+00:03:05,360 --> 00:03:08,400
+Itu akan menjadi vertikal, kan?
+
+83
+00:03:10,480 --> 00:03:13,599
+Jadi apa yang akan terjadi pada titik origin(0,0)
+
+84
+00:03:13,599 --> 00:03:15,760
+Itu juga akan melewati
+
+85
+00:03:15,760 --> 00:03:17,920
+45 derajat, jadi kita
+
+86
+00:03:17,920 --> 00:03:20,000
+Akan mendapatkan sesuatu seperti ini, mari lihat
+
+87
+00:03:20,000 --> 00:03:22,640
+Sesuatu seperti ni
+
+88
+00:03:23,680 --> 00:03:24,959
+Ini sudah cukup bagus
+
+89
+00:03:24,959 --> 00:03:26,879
+Kamu sudah bisa menirunya
+
+90
+00:03:26,879 --> 00:03:29,200
+Apa yang akan menjadi area yang saya cari
+
+91
+00:03:29,200 --> 00:03:32,760
+Dari 0 hingga ke 1
+
+92
+00:03:36,879 --> 00:03:38,720
+Jadi kita tahu dimana ini 
+
+93
+00:03:38,720 --> 00:03:40,319
+Ini meluas hingga
+
+94
+00:03:40,319 --> 00:03:43,760
+Akhir dari domain, jadi jika saya letakkan
+
+95
+00:03:43,760 --> 00:03:46,080
+Ini di batasannya, maka ini adalah
+
+96
+00:03:46,080 --> 00:03:47,519
+Area yang sebenarnya, saya akan arsirkan untukmu
+
+97
+00:03:47,519 --> 00:03:50,319
+Saya akan mengarsirnya
+
+98
+00:03:52,080 --> 00:03:53,920
+Ini merupakan area dari 0
+
+99
+00:03:53,920 --> 00:03:55,840
+Menuju ke 1
+
+100
+00:03:55,840 --> 00:03:57,840
+Sekarang
+
+101
+00:03:57,840 --> 00:04:00,080
+Saya baru saja menyelesaikan areanya, jadi
+
+102
+00:04:00,080 --> 00:04:01,840
+Jika misal saya belum tahu apa itu
+
+103
+00:04:01,840 --> 00:04:04,080
+Fungsi integral, bisakah saya membandingkannya
+
+104
+00:04:04,080 --> 00:04:06,319
+Dengan bentuk yang saya tahu di area tersebut
+
+105
+00:04:06,319 --> 00:04:09,040
+Apakah akan baik-baik saja?
+
+106
+00:04:09,040 --> 00:04:11,040
+Saya ingin berpikir tentang ini, maksud saya
+
+107
+00:04:11,040 --> 00:04:12,879
+Ini akan menjadi masalah jika bentuknya melengkung
+
+108
+00:04:12,879 --> 00:04:14,799
+Tapi saya mengetahui fungsi lain mana
+
+109
+00:04:14,799 --> 00:04:17,519
+Yang bentuknya juga melengkung seperti ini
+
+110
+00:04:17,519 --> 00:04:19,199
+Dimana saya cukup hebat dalam menentukan
+
+111
+00:04:19,199 --> 00:04:20,880
+Dimanakah areanya, jadi dengan apa
+
+112
+00:04:20,880 --> 00:04:22,800
+Saya harus membandingkannya?
+
+113
+00:04:22,800 --> 00:04:23,520
+Hanya
+
+114
+00:04:23,520 --> 00:04:27,300
+Hanya dengan bentuk biasa kan, benar itu merupakan hal yang ilmiah
+
+115
+00:04:29,040 --> 00:04:31,120
+Jadi saya akan menggambar sebuah sin
+
+116
+00:04:31,120 --> 00:04:32,560
+x, dan saya akan menggambarkannya pada
+
+117
+00:04:32,560 --> 00:04:34,240
+Domain dan jangkauan yang sama, kecuali
+
+118
+00:04:34,240 --> 00:04:35,840
+Jika itu dibalikkan
+
+119
+00:04:35,840 --> 00:04:38,880
+Jadi disini saya punya
+
+120
+00:04:41,600 --> 00:04:45,280
+Untuk ini, jangkauan yang saya punya
+
+121
+00:04:45,280 --> 00:04:47,440
+adalah π/2, jadi ini berarti domainku
+
+122
+00:04:47,440 --> 00:04:50,080
+Disini adalah  π/2
+
+123
+00:04:50,080 --> 00:04:52,639
+Lalu ini akan menjadi 1
+
+124
+00:04:52,639 --> 00:04:56,080
+Untuk diagram ini
+
+125
+00:04:56,080 --> 00:04:58,639
+Apa yang akan menjadi area yang sama? Apa yang akan
+
+126
+00:04:58,639 --> 00:05:00,080
+Sesuai dengan area ini?
+
+127
+00:05:00,080 --> 00:05:01,759
+Jawabannya adalah
+
+128
+00:05:01,759 --> 00:05:04,400
+Benar itu adalah area yang berada di atas kurva
+
+129
+00:05:04,400 --> 00:05:07,280
+Atau area yang berada di antara kurva
+
+130
+00:05:07,280 --> 00:05:10,000
+Dan juga sumbu-y dari titik ini
+
+131
+00:05:10,000 --> 00:05:11,440
+Jadi
+
+132
+00:05:11,440 --> 00:05:13,520
+Ini adalah area yang saya dapatkan
+
+133
+00:05:13,520 --> 00:05:16,400
+Lalu karena ini
+
+134
+00:05:16,400 --> 00:05:19,840
+Hanya merupakan sin 
+
+135
+00:05:19,840 --> 00:05:22,600
+Jadi jika kamu diberikan pertanyaan
+
+136
+00:05:22,600 --> 00:05:25,280
+Beberapa minggu lalu, apakah kamu
+
+137
+00:05:25,280 --> 00:05:26,800
+Bisa mengerjakannya tanpa mengharapkan
+
+138
+00:05:26,800 --> 00:05:30,320
+Imbalan dari industri, apa yang akan kamu lakukan?
+
+139
+00:05:33,840 --> 00:05:36,080
+Benar, pikirkanlah tentang bentuk ini
+
+140
+00:05:36,080 --> 00:05:38,560
+Jika kita mengintegralkan sin, maka kita tidak akan
+
+141
+00:05:38,560 --> 00:05:40,479
+Mendapatkan area berwarna hijau, melainkan
+
+142
+00:05:40,479 --> 00:05:42,400
+Kita akan mendapatkan area di bawah kurva 
+
+143
+00:05:42,400 --> 00:05:44,639
+Hingga sampai ke sumbu x
+
+144
+00:05:44,639 --> 00:05:46,320
+Dimana ini bukanlah area yang saya inginkan
+
+145
+00:05:46,320 --> 00:05:48,400
+Tapi ini sudah cukup bagus karena saya bisa
+
+146
+00:05:48,400 --> 00:05:50,639
+Mengerjakan area itu, ini merupakan bentuk segi empat
+
+147
+00:05:50,639 --> 00:05:51,680
+Jadi saya bisa mengambil
+
+148
+00:05:51,680 --> 00:05:53,919
+Selisihnya, ini adalah bagaimana
+
+149
+00:05:53,919 --> 00:05:55,280
+Cara menuliskannya
+
+150
+00:05:55,280 --> 00:05:57,680
+Integral yang berada disini
+
+151
+00:05:57,680 --> 00:06:00,560
+Ini akan sama dengan apa?
+
+152
+00:06:00,560 --> 00:06:03,039
+Itu akan sama dengan segi empat
+
+153
+00:06:03,039 --> 00:06:06,080
+Yang merupakan area ini
+
+154
+00:06:06,080 --> 00:06:08,240
+Jadi kamu bisa lihat hasilnya akan seperti ini
+
+155
+00:06:09,680 --> 00:06:11,680
+Lalu akan saya kurangi dengan area yang 
+
+156
+00:06:11,680 --> 00:06:13,600
+Berada di bawah kurva, maka apa integral yang
+
+157
+00:06:13,600 --> 00:06:15,600
+Sesuai dengan itu, itu akan menjadi
+
+158
+00:06:15,600 --> 00:06:16,800
+Integral tentu
+
+159
+00:06:16,800 --> 00:06:18,639
+Apa batasannya? Nol
+
+160
+00:06:18,639 --> 00:06:22,319
+Ya, benar, jadi ini adalah nilai x
+
+161
+00:06:22,319 --> 00:06:24,080
+Dan ini bukan fungsi bagian ini lagi
+
+162
+00:06:24,080 --> 00:06:25,520
+Ini menjadi fungsi ini yang merupakan
+
+163
+00:06:25,520 --> 00:06:28,240
+Integral dari sin
+
+164
+00:06:31,759 --> 00:06:34,080
+Jadi kita telah menerjemahkan masalahnya
+
+165
+00:06:34,080 --> 00:06:35,440
+Menjadi
+
+166
+00:06:35,440 --> 00:06:37,600
+Bentuk dan fungsi yang lebih
+
+167
+00:06:37,600 --> 00:06:39,520
+Mudah untuk diselesaikan
+
+168
+00:06:39,520 --> 00:06:40,720
+Jadi
+
+169
+00:06:40,720 --> 00:06:42,319
+Mari kita menyelesaikan ini dengan cepat, jadi
+
+170
+00:06:42,319 --> 00:06:45,120
+Ini adalah π/2 dikurangi dengan
+
+171
+00:06:45,120 --> 00:06:48,319
+Apa integral dari sin
+
+172
+00:06:54,720 --> 00:06:55,919
+Oke
+
+173
+00:06:55,919 --> 00:06:57,840
+Jadi saya akan menghilangkan dua tanda -
+
+174
+00:06:57,840 --> 00:06:59,280
+Karena terlihat aneh
+
+175
+00:06:59,280 --> 00:07:03,160
+π/2 ditambah dengan
+
+176
+00:07:04,560 --> 00:07:06,720
+Oke sekarang saya akan menghitung untuk batas atas
+
+177
+00:07:06,720 --> 00:07:11,960
+Dan juga batas bawah, jadi π/2
+
+178
+00:07:16,720 --> 00:07:19,759
+Apakah itu cos π/2
+
+179
+00:07:19,759 --> 00:07:22,720
+Ya, itu tergantung pada sumbu dan cos
+
+180
+00:07:22,720 --> 00:07:23,919
+Dari 0 dimana kamu memulainya
+
+181
+00:07:23,919 --> 00:07:26,800
+dan cos 0 adalah 1
+
+182
+00:07:28,840 --> 00:07:31,680
+Ini terlihat seperti sebuah jawaban sekarang
+
+183
+00:07:31,680 --> 00:07:32,720
+Kita telah melakukan ini dengan cepat
+
+184
+00:07:32,720 --> 00:07:35,280
+Lalu ini akan sama dengan apa?
+
+185
+00:07:35,280 --> 00:07:37,039
+π adalah 3.14 
+
+186
+00:07:37,039 --> 00:07:40,400
+Jadi π/2 adalah 1.57
+
+187
+00:07:41,520 --> 00:07:44,000
+Jadi hasilnya akan sekitaran 0.57
+
+188
+00:07:44,000 --> 00:07:45,759
+Apakah ini terlihat seperti
+
+189
+00:07:45,759 --> 00:07:47,360
+hasil yang benar, apakah ini 
+
+190
+00:07:47,360 --> 00:07:49,599
+Terlihat seperti jawaban yang akurat
+
+191
+00:07:49,599 --> 00:07:51,599
+Ini adalah area yang sangat kecil
+
+192
+00:07:51,599 --> 00:07:53,360
+Dan semua bagian ini hanya selebar 1 satuan 
+
+193
+00:07:53,360 --> 00:07:55,680
+Saya pikir ini sudah terlihat benar
+
+194
+00:07:55,680 --> 00:07:59,199
+Jadi saya sudah bilang sebelumnya kalau kita tidak tahu
+
+195
+00:07:59,199 --> 00:08:01,759
+Apa yang akan menjadi integral dari ini
+
+196
+00:08:01,759 --> 00:08:04,240
+Itu tidak apa-apa, kita bisa mengerjakannya
+
+197
+00:08:04,240 --> 00:08:05,840
+Ini bentuknya akan sama dengan
+
+198
+00:08:05,840 --> 00:08:07,039
+Pertanyaan yang akan
+
+199
+00:08:07,039 --> 00:08:08,240
+Saya tunjukkan
+
+200
+00:08:08,240 --> 00:08:09,840
+Dimana kita akan meletakkannya
+
+201
+00:08:09,840 --> 00:08:11,440
+Di bagian sini
+
+202
+00:08:11,440 --> 00:08:12,879
+Ini adalah pertanyaan dengan jenis yang sama
+
+203
+00:08:12,879 --> 00:08:15,520
+Sesuatu seperti ini
+
+204
+00:08:16,479 --> 00:08:18,879
+Sekarang, kamu tidak perlu tahu
+
+205
+00:08:18,879 --> 00:08:20,720
+Apa itu integral tentu
+
+206
+00:08:20,720 --> 00:08:22,240
+Maaf, maksudku apa itu integral tidak tentu
+
+207
+00:08:22,240 --> 00:08:23,599
+Hasilnya bukanlah sesuatu yang perlu diingat
+
+208
+00:08:23,599 --> 00:08:25,280
+Ini tidak akan ada di dalam tabel 
+
+209
+00:08:25,280 --> 00:08:28,160
+Integral standar, tapi kamu bisa mengerjakannya
+
+210
+00:08:28,160 --> 00:08:31,759
+Jika bagian awal dari pertanyaannya menyatakan ini
+
+211
+00:08:31,759 --> 00:08:33,839
+Untuk melakukan ini
+
+212
+00:08:33,839 --> 00:08:35,599
+Lalu kamu bisa mengerjakan apa integralnya
+
+213
+00:08:35,599 --> 00:08:36,880
+Saya pikir saya telah menunjukkannya kepada kalian
+
+214
+00:08:36,880 --> 00:08:38,719
+Sebelumnya, tapi saya akan mengulanginya lagi
+
+215
+00:08:38,719 --> 00:08:40,559
+Tapi apa yang saya ingin lakukan adalah
+
+216
+00:08:40,559 --> 00:08:42,719
+menurunkan invers sin, saya penasaran
+
+217
+00:08:42,719 --> 00:08:44,159
+Apa yang kamu pikirkan
+
+218
+00:08:44,159 --> 00:08:46,320
+Tentang turunan, maaf, maksudku tentang
+
+219
+00:08:46,320 --> 00:08:49,120
+Integral dari inverse sin akan terlihat?
+
+220
+00:08:49,120 --> 00:08:52,240
+Itu akan mirip seperti apa
+
+221
+00:08:52,399 --> 00:08:54,959
+Saya pikir ini akan cukup sulit untuk ditebak
+
+222
+00:08:54,959 --> 00:08:56,000
+Tapi jika saya memberikan kamu bentuknya
+
+223
+00:08:56,000 --> 00:08:57,680
+Kamu akan berpikir bahwa
+
+224
+00:08:57,680 --> 00:08:59,519
+Kamu bisa mengenalinya, jadi saya hanya akan
+
+225
+00:08:59,519 --> 00:09:01,600
+Memberikan kamu bentuknya, kita akan membuktikannya
+
+226
+00:09:01,600 --> 00:09:03,839
+Untuk memastikan hasil ini
+
+227
+00:09:03,839 --> 00:09:06,320
+Jadi, daripada mengerjakan ini
+
+228
+00:09:06,320 --> 00:09:08,959
+Saya ingin kamu
+
+229
+00:09:08,959 --> 00:09:10,000
+Melakukan
+
+230
+00:09:10,000 --> 00:09:12,080
+Untuk bagian dari pertanyaan ini, saya ingin
+
+231
+00:09:12,080 --> 00:09:14,880
+Kamu menurunkan
+
+232
+00:09:16,200 --> 00:09:20,279
+Fungsi ini
+
+233
+00:09:26,800 --> 00:09:28,240
+Ini adalah apa yag saya ingin kamu kerjakan
+
+234
+00:09:28,240 --> 00:09:29,760
+Saya menulis dua baris
+
+235
+00:09:29,760 --> 00:09:30,959
+Karena saya tidak punya cukup tempat
+
+236
+00:09:30,950 --> 00:09:37,920
+Di bagian kanan, tapi ini adalah √1-x² + x invers sin x
+
+237
+00:09:37,940 --> 00:09:41,840
+Ini adalah apa yang saya ingin untuk kamu turunkan
+
+238
+00:09:41,860 --> 00:09:44,160
+Integral tentu
+
+239
+00:09:44,640 --> 00:09:48,080
+Dari invers sin
+
+240
+00:09:48,080 --> 00:09:49,200
+Lalu
+
+241
+00:09:49,200 --> 00:09:50,880
+Untuk bagian C
+
+242
+00:09:50,880 --> 00:09:52,560
+Gunakan hasil itu
+
+243
+00:09:52,560 --> 00:09:54,480
+Untuk melihat apakah kita yakin
+
+244
+00:09:54,480 --> 00:09:56,480
+Bahwa hasil itu benar, jadi kita mengerjakan
+
+245
+00:09:56,480 --> 00:09:59,820
+Integral tentu dari 0 hingga 1
+
+246
+00:10:00,240 --> 00:10:01,519
+Jadi saya akan memberikanmu beberapa menit
+
+247
+00:10:01,519 --> 00:10:04,000
+Untuk mengerjakan itu
+

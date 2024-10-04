@@ -1,0 +1,13 @@
+wire,wire,Ammeter_Isource,wire,wire,wire,wire,wire,wire,wire,wire
+Diode_D1,,,,,,wire,,,,wire
+wire,,,,,,wire,,,,wire
+wire,,,,,,wire,,,,wire
+Resistor_Rsource,,,,,,wire,,,,wire
+wire,,,,,,wire,,,,wire
+wire,,,,,,Resistor_load,,,,Voltmeter_diode
+wire,,,,,,wire,,,,wire
+VoltageSource_Vsource,,,,,,wire,,,,wire
+wire,,,,,,wire,,,,wire
+wire,,,,,,wire,,,,wire
+wire,,,,,,wire,,,,wire
+wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire
